@@ -10,15 +10,15 @@ import Contacts from '@/components/Contacts.astro';
 import models from '@/data/models.json'
 ---
 
-<Layout title="TITLE" descr="DESCRIPTION">
+<Layout title="GEELY Партнер - Официальный дилер в Оренбурге" descr="Автомобили GEELY в наличии и с ПТС. Пройдите тест-драйв уже сегодня!">
 	<Banner fetchURL={`${Astro.url.origin}/src/data/banners.json`} />
 	<ModelList fetchURL={`${Astro.url.origin}/src/data/models.json`} />
 	{models && models.map((model: any) => <Model model={model}/>)}
-	<Callback bgUrl="https://baic-krasnodar.ru/img/x35/konkurenty.jpg" />
+	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services fetchURL={`${Astro.url.origin}/src/data/services.json`} />
 	<Contacts
 		fetchURL={`${Astro.url.origin}/src/data/salons.json`}
-		mapImg="https://baic-alpha.ru/img/map_bg.jpg"
+		mapImg="/img/map-bg.webp"
 		title="Наши контакты"
 	/>
 </Layout>
