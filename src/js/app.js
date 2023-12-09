@@ -4,5 +4,5 @@ import './modules/modals';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/test/', function() {
+connectForms('https://alexsab.ru/lead/geely/partner-vostok/', function() {
 });
