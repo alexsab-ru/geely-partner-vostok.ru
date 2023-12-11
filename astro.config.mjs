@@ -15,6 +15,6 @@ export default defineConfig({
 		robots(),
 		alpinejs()
 	],
-	site: 'https://site.com',
+	site: 'https://geely-partner-vostok.ru',
 	base: "/"
 });
