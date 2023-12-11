@@ -1,6 +1,7 @@
 export const SITE_NAME = 'Джили Партнер-Восток'; // Название сайта по умолчанию
 export const LEGAL_ENTITY = 'ООО "ПАРТНЕР-ВОСТОК"'; // Юр лицо
 export const LEGAL_INN = '5614088704'; // ИНН
+export const LEGAL_CITY = 'г. Орск'; // Город
 export const SITE_DESCR = 'Официальный дилерский центр Geely в Орске'; // Описание сайта по умолчанию
 
 export const BRAND = 'Geely';

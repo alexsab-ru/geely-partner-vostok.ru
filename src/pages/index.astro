@@ -10,7 +10,7 @@ import Contacts from '@/components/Contacts.astro';
 import models from '@/data/models.json'
 ---
 
-<Layout title="GEELY Партнер-Восток - Официальный дилер Джили в Орске" descr="Автомобили GEELY в наличии и с ПТС. Пройдите тест-драйв уже сегодня!">
+<Layout title="GEELY Партнер-Восток - Официальный дилер Джили в Орске" description="Автомобили GEELY в наличии и с ПТС. Пройдите тест-драйв уже сегодня!">
 	<Banner fetchURL={`${Astro.url.origin}/src/data/banners.json`} />
 	<ModelList fetchURL={`${Astro.url.origin}/src/data/models.json`} />
 	{models && models.map((model: any) => <Model model={model}/>)}

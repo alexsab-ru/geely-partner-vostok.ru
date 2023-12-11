@@ -3,17 +3,17 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Sample workflow for building and deploying a Astro site to GitHub Pages
 name: Deploy website to Pages
 
 on:
   workflow_run:
-    workflows: ["Generate Jekyll Files from XML"]  # Замените на имя вашего рабочего процесса update_cars
+    workflows: ["Generate Astro Files from XML"]  # Замените на имя вашего рабочего процесса обновления АВН
     types:
       - completed
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master", "main"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,6 +35,11 @@ jobs:
   build:
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
+
+    # Указываете окружение и его переменные
+    environment:
+      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -55,6 +60,13 @@ jobs:
         id: pages
         if: env.changes == 'true'
         uses: actions/configure-pages@v3
+
+      - name: Create env file
+        run: |
+          touch .env
+          echo PUBLIC_YANDEX_SITE_VERIFICATION=${{ vars.PUBLIC_YANDEX_SITE_VERIFICATION }} >> .env
+          echo PUBLIC_GOOGLE_SITE_VERIFICATION=${{ vars.PUBLIC_GOOGLE_SITE_VERIFICATION }} >> .env
+          cat .env
 
       - name: Build Astro
         if: env.changes == 'true'
