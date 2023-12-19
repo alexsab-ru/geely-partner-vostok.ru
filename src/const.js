@@ -7,7 +7,9 @@ export const SITE_DESCR = 'Официальный дилерский центр 
 export const BRAND = 'Geely';
 
 export const LINKS_MENU = [
-	{url: '#services', name: 'Услуги сервиса'},
+	{url: 'special-offers/', name: 'Спецпредложения'},
+	{url: 'news/', name: 'Новости'},
+	{url: '#services', name: 'Услуги'},
 	{url: '#contacts', name: 'Контакты'},
 ];
 
