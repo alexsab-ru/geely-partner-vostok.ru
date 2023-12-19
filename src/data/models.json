@@ -5,36 +5,36 @@
         "slogan": "",
         "name": "Atlas Pro",
         "price": 2188990,
-        "thumb": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/black-metallic_500px.webp",
+        "thumb": "/img/models/Atlas%20Pro/black-metallic_500px.webp",
         "colors": [
             {
                 "id": "red",
                 "name": "Красный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/red-metallic.webp",
+                "carImage": "/img/models/Atlas%20Pro/red-metallic.webp",
                 "style": ""
             },
             {
                 "id": "gray",
                 "name": "Серый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/gray-metallic.webp",
+                "carImage": "/img/models/Atlas%20Pro/gray-metallic.webp",
                 "style": ""
             },
             {
                 "id": "white",
                 "name": "Белый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/white.webp",
+                "carImage": "/img/models/Atlas%20Pro/white.webp",
                 "style": ""
             },
             {
                 "id": "silver",
                 "name": "Серебристый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/silver-metallic.webp",
+                "carImage": "/img/models/Atlas%20Pro/silver-metallic.webp",
                 "style": "background-color: #B9B4B4;"
             },
             {
                 "id": "black",
                 "name": "Черный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Atlas%20Pro/black-metallic.webp",
+                "carImage": "/img/models/Atlas%20Pro/black-metallic.webp",
                 "style": ""
             }
         ],
@@ -89,36 +89,36 @@
         "slogan": "",
         "name": "Emgrand",
         "price": 1799990,
-        "thumb": "https://china.avto-provereno.ru/storage/promo/china/Geely/Emgrand/emgrand_500px.webp",
+        "thumb": "/img/models/Emgrand/emgrand_500px.webp",
         "colors": [
             {
                 "id": "white",
                 "name": "Белый металлик",
-                "carImage": "https://global.geely.com/-/media/project/web-portal/2023/emgrand/models/white/white090.png",
+                "carImage": "/img/models/Emgrand/white-metallic.webp",
                 "style": ""
             },
             {
                 "id": "blue",
                 "name": "Голубой металлик",
-                "carImage": "https://global.geely.com/-/media/project/web-portal/2023/emgrand/models/blue/blue090.png",
+                "carImage": "/img/models/Emgrand/blue-metallic.webp",
                 "style": "background-color: #50AECE;"
             },
             {
                 "id": "gray",
                 "name": "Серый металлик",
-                "carImage": "https://global.geely.com/-/media/project/web-portal/2023/emgrand/models/grey/grey090.png",
+                "carImage": "/img/models/Emgrand/gray-metallic.webp",
                 "style": ""
             },
             {
                 "id": "gold",
                 "name": "Золотой металлик",
-                "carImage": "https://global.geely.com/-/media/project/web-portal/2023/emgrand/models/gold/gold090.png",
+                "carImage": "/img/models/Emgrand/gold-metallic.webp",
                 "style": "background-color: #AC9579;"
             },
             {
                 "id": "black",
                 "name": "Черный металлик",
-                "carImage": "https://global.geely.com/-/media/project/web-portal/2023/emgrand/models/black/black090.png",
+                "carImage": "/img/models/Emgrand/black-metallic.webp",
                 "style": ""
             }
         ],
@@ -173,36 +173,36 @@
         "slogan": "",
         "name": "Coolray",
         "price": 2009990,
-        "thumb": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/blue-metallic_500px.webp",
+        "thumb": "/img/models/Coolray/blue-metallic_500px.webp",
         "colors": [
             {
                 "id": "blue",
                 "name": "Голубой металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/blue-metallic.webp",
+                "carImage": "/img/models/Coolray/blue-metallic.webp",
                 "style": "background-color: #50AECE;"
             },
             {
                 "id": "gray",
                 "name": "Серый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/grey.webp",
+                "carImage": "/img/models/Coolray/grey.webp",
                 "style": ""
             },
             {
                 "id": "red",
                 "name": "Красный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/red.webp",
+                "carImage": "/img/models/Coolray/red.webp",
                 "style": ""
             },
             {
                 "id": "silver",
                 "name": "Серебристый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/silver-metallic.webp",
+                "carImage": "/img/models/Coolray/silver-metallic.webp",
                 "style": "background-color: #B9B4B4;"
             },
             {
                 "id": "white",
                 "name": "Белый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Coolray/white.webp",
+                "carImage": "/img/models/Coolray/white.webp",
                 "style": ""
             }
         ],
@@ -257,12 +257,12 @@
         "slogan": "",
         "name": "Новый Coolray",
         "price": 2404990,
-        "thumb": "https://195004.selcdn.ru/ref/64543a543423d0c4b5d63e4826835a0566ece5a6.png",
+        "thumb": "/img/models/New Coolray/lilac-metallic_500px.webp",
         "colors": [
             {
                 "id": "lilac",
                 "name": "Лиловый перламутр",
-                "carImage": "https://195004.selcdn.ru/ref/64543a543423d0c4b5d63e4826835a0566ece5a6.png",
+                "carImage": "/img/models/New Coolray/lilac-metallic.webp",
                 "style": "background-color: #666B7F;"
             }
         ],
@@ -317,30 +317,30 @@
         "slogan": "",
         "name": "Tugella",
         "price": 3454990,
-        "thumb": "https://china.avto-provereno.ru/storage/promo/china/Geely/Tugella/gray-metallic_500px.webp",
+        "thumb": "/img/models/Tugella/gray-metallic_500px.webp",
         "colors": [
             {
                 "id": "black",
                 "name": "Черный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Tugella/black-metallic.webp",
+                "carImage": "/img/models/Tugella/black-metallic.webp",
                 "style": ""
             },
             {
                 "id": "white",
                 "name": "Белый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Tugella/white-metallic.webp",
+                "carImage": "/img/models/Tugella/white-metallic.webp",
                 "style": ""
             },
             {
                 "id": "gray-blue",
                 "name": "Серо-голубой металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Tugella/gray-blue-metallic.webp",
+                "carImage": "/img/models/Tugella/gray-blue-metallic.webp",
                 "style": "background-color: #ABB5C1;"
             },
             {
                 "id": "gray",
                 "name": "Серый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Tugella/gray-metallic.webp",
+                "carImage": "/img/models/Tugella/gray-metallic.webp",
                 "style": ""
             }
         ],
@@ -395,36 +395,36 @@
         "slogan": "",
         "name": "Monjaro",
         "price": 4167990,
-        "thumb": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/emerald-metallic_500px.webp",
+        "thumb": "/img/models/Monjaro/emerald-metallic_500px.webp",
         "colors": [
             {
                 "id": "black",
                 "name": "Черный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/black-metallic.webp",
+                "carImage": "/img/models/Monjaro/black-metallic.webp",
                 "style": ""
             },
             {
                 "id": "emerald",
                 "name": "Изумрудный металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/emerald-metallic.webp",
+                "carImage": "/img/models/Monjaro/emerald-metallic.webp",
                 "style": "background-color: #518D9B;"
             },
             {
                 "id": "gray",
                 "name": "Серый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/gray-metallic.webp",
+                "carImage": "/img/models/Monjaro/gray-metallic.webp",
                 "style": ""
             },
             {
                 "id": "silver",
                 "name": "Серебристый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/silver-metallic.webp",
+                "carImage": "/img/models/Monjaro/silver-metallic.webp",
                 "style": "background-color: #B8B3B3;"
             },
             {
                 "id": "white",
                 "name": "Белый металлик",
-                "carImage": "https://china.avto-provereno.ru/storage/promo/china/Geely/Monjaro/white-metallic.webp",
+                "carImage": "/img/models/Monjaro/white-metallic.webp",
                 "style": ""
             }
         ],
@@ -479,12 +479,12 @@
         "slogan": "",
         "name": "Belgee X50",
         "price": 1935990,
-        "thumb": "https://imgproxy.autocrm.ru/iui0TRSZe9_kT9tHFEuw1DJjZwovqYBuNR0tI-vw_e0/rs:auto:0:0:1/dpr:1/q:100/g:sm/aHR0cHM6Ly8xOTUwMDQuc2VsY2RuLnJ1L3JlZi9hY2ViMTQ4ZWI1NDlmNjEzZjc4YWQ1YmM1YWNjMDdhZjY4ZjVlNzFlLnBuZw.png",
+        "thumb": "/img/models/Belgee X50/black_500px.webp",
         "colors": [
             {
                 "id": "black",
                 "name": "Черный металлик",
-                "carImage": "https://imgproxy.autocrm.ru/iui0TRSZe9_kT9tHFEuw1DJjZwovqYBuNR0tI-vw_e0/rs:auto:0:0:1/dpr:1/q:100/g:sm/aHR0cHM6Ly8xOTUwMDQuc2VsY2RuLnJ1L3JlZi9hY2ViMTQ4ZWI1NDlmNjEzZjc4YWQ1YmM1YWNjMDdhZjY4ZjVlNzFlLnBuZw.png",
+                "carImage": "/img/models/Belgee X50/black.webp",
                 "style": ""
             }
         ],
