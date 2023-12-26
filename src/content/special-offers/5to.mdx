@@ -1,0 +1,34 @@
+---
+h1: 5TO в подарок от Geely!
+title: 5 регламентных ТО в подарок при покупке GEELY
+pubDate: 2023-12-08
+image: /img/banners/5to/5to-942x461-v.webp
+description: "Купите новый автомобиль GEELY и получите 5 регламентных ТО в подарок, только до конца Января"
+---
+import Button from '@/components/Button/Button.astro';
+// import url from Astro;
+
+<picture>
+    <source media="(min-width: 1200px)" srcset="/img/banners/5to/5to-1280x424.webp" />
+    <source media="(min-width: 942px)" srcset="/img/banners/5to/5to-942x461.webp" />
+    <source media="(min-width: 576px)" srcset="/img/banners/5to/5to-789x575.webp" />
+    <source media="(min-width: 320px)" srcset="/img/banners/5to/5to-720x1280.webp" />
+<img src="/img/banners/5to/5to-942x461.webp" alt="Выгодное Техническое Обслуживание" />
+</picture>
+<br/>
+
+В честь открытия специальное предложение от Geely Партнёр Оренбург.
+
+Купите новый автомобиль Geely и получите бесплатно 5 регламентных ТО.
+
+Подробности в отделе продаж по телефону: <a href="tel:+73537223355">+7 (3537) 22-33-55</a>
+
+<div class="flex justify-center mt-10 mb-5">
+    <Button 
+        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+        url="#common-modal" 
+        title="Подробнее"
+        dataTitle="Заказать обратный звонок"
+        dataFormName={`Подробнее. 5 ТО в подарок`}
+    />
+</div>
