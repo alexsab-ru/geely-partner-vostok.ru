@@ -13,7 +13,8 @@ export default defineConfig({
 		}),
 		sitemap(),
 		robots(),
-		alpinejs()
+		alpinejs(),
+		mdx()
 	],
 	site: 'https://geely-partner-vostok.ru',
 	base: "/"
