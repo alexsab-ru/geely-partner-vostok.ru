@@ -4,17 +4,16 @@ import './modules/modals';
 
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/geely/partner-vostok/', function() {
-});
+connectForms('https://alexsab.ru/lead/geely/partner-vostok/');
 
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
 const lightbox = GLightbox({
-    moreLength: 0,
+	moreLength: 0,
 });
 
 grecaptcha.ready(function() {
-	grecaptcha.execute('6Lepfy4pAAAAAAGHFP655qNe6Bb_BcskklcxajC6', {action: 'open'}).then(function(token) {
+	grecaptcha.execute('6Lepfy4pAAAAAAGHFP655qNe6Bb_BcskklcxajC6', {action: 'geely-partner-vostok.ru'}).then(function(token) {
 		let formData = new FormData();
 		formData.append('g-recaptcha-response', token);
 		const params = new URLSearchParams([...formData]);
