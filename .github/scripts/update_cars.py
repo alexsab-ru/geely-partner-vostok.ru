@@ -49,6 +49,7 @@ def create_file(car, filename, unique_id):
 
     print(thumb)
 
+    global error_404_found
     if "404" in thumb:
         error_404_found = True
 
