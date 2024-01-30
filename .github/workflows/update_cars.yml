@@ -55,8 +55,6 @@ jobs:
 
     - name: ls files
       run: |
-        ls -al
-        ls -al .github/scripts/
         ls -al src/content/cars
 
     - name: Check for changes

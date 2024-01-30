@@ -47,13 +47,9 @@ def create_file(car, filename, unique_id):
 
     thumb = f"/img/models/{model_mapping.get(model, '../404.jpg?').get('folder')}/colors/{model_mapping.get(model, '../404.jpg?').get('color').get(color, '../../../404.jpg?')}.webp"
 
-    print(thumb)
-
     global error_404_found
     if "404" in thumb:
         error_404_found = True
-
-    print(error_404_found)
 
     # Forming the YAML frontmatter
     content = "---\n"
