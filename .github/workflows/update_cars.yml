@@ -48,12 +48,15 @@ jobs:
       id: set_output
       run: |
         if [ -f output.txt ]; then
+          echo "script_output=$(<output.txt)"
           echo "script_output=$(<output.txt)" >> $GITHUB_ENV
           echo "script_output=$(<output.txt)" >> $GITHUB_OUTPUT
         fi
 
     - name: ls files
       run: |
+        ls -al
+        cat output.txt
         ls -al src/content/cars
 
     - name: Check for changes
