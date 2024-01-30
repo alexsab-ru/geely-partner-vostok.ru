@@ -242,7 +242,11 @@ model_mapping = {
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
         "color": {
-
+            "Красный": "bright-vermilion",
+            "Белый": "crystal-white",
+            "Синий": "cyber-blue",
+            "Серый": "magnetic-grey",
+            "Серебристый": "unicorn-grey",
         }},
     "Coolray, I": {
         "folder": "Coolray",
