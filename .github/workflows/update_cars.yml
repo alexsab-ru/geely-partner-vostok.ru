@@ -93,7 +93,7 @@ jobs:
 
   notify_telegram:
     needs: build
-    if: needs.build.outputs.script_output == 'error: 404 found'
+    if: needs.build.outputs.script_output == 'error 404 found'
     uses: ./.github/workflows/github-telegram.yml
     with:
       additional-text: 'No model or color found. Check please'

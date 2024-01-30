@@ -395,8 +395,8 @@ for existing_file in os.listdir(directory):
 
 if error_404_found:
     with open('output.txt', 'w') as file:
-        file.write("error: 404 found")
+        file.write("error 404 found")
 
 if error_404_found:
-    print("error: 404 found")
+    print("error 404 found")
 
