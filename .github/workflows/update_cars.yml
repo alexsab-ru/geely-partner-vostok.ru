@@ -56,7 +56,8 @@ jobs:
     - name: ls files
       run: |
         ls -al
-        cat output.txt
+        ls -al .github/scripts/
+        cat .github/scripts/output.txt
         ls -al src/content/cars
 
     - name: Check for changes
