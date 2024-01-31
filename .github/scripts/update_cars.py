@@ -211,46 +211,6 @@ model_mapping = {
             "Серый": "starry-blue-metallic",
             "Белый": "white",
         }},
-    "Azkarra": {
-        "folder": "Azkarra",
-        "color": {
-
-        }},
-    "Binrui Cool": {
-        "folder": "Binrui",
-        "color": {
-
-        }},
-    "Binrui, I Рестайлинг": {
-        "folder": "Binrui",
-        "color": {
-
-        }},
-    "Binyue Cool": {
-        "folder": "Binyue",
-        "color": {
-
-        }},
-    "Binyue, I Рестайлинг 2": {
-        "folder": "Binyue",
-        "color": {
-
-        }},
-    "Boyue Cool": {
-        "folder": "Boyue",
-        "color": {
-
-        }},
-    "Boyue Pro": {
-        "folder": "Boyue",
-        "color": {
-
-        }},
-    "Boyue, II": {
-        "folder": "Boyue",
-        "color": {
-
-        }},
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
         "color": {
@@ -288,65 +248,11 @@ model_mapping = {
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
         }},
-    "Galaxy E8": {
-        "folder": "Galaxy",
-        "color": {
-
-        }},
-    "Galaxy L6": {
-        "folder": "Galaxy",
-        "color": {
-
-        }},
-    "Galaxy L7": {
-        "folder": "Galaxy",
-        "color": {
-
-        }},
-    "Geometry A": {
-        "folder": "Geometry",
-        "color": {
-
-        }},
-    "Geometry C": {
-        "folder": "Geometry",
-        "color": {
-
-        }},
-    "Geometry E": {
-        "folder": "Geometry",
-        "color": {
-
-        }},
-    "Geometry G6": {
-        "folder": "Geometry",
-        "color": {
-
-        }},
-    "Geometry M6": {
-        "folder": "Geometry",
-        "color": {
-
-        }},
-    "Haoyue L": {
-        "folder": "Haoyue",
-        "color": {
-
-        }},
-    "Icon": {
-        "folder": "Icon",
-        "color": {
-
-        }},
-    "Jiaji, I Рестайлинг": {
-        "folder": "Jiaji",
-        "color": {
-
-        }},
     "Monjaro": {
         "folder": "Monjaro",
         "color": {
             "Черный": "black-metallic",
+            "Черный/Черный": "black-metallic",
             "Зеленый": "emerald-metallic",
             "Серый": "gray-metallic",
             "Серебристый": "silver-metallic",
@@ -357,38 +263,20 @@ model_mapping = {
         "color": {
 
         }},
-    "Preface, I Рестайлинг": {
-        "folder": "Preface",
-        "color": {
-
-        }},
     "Tugella, I Рестайлинг": {
         "folder": "Tugella",
         "color": {
             "Черный": "black-metallic",
+            "Черный/Черный": "black-metallic",
             "Серо-голубой": "gray-blue-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
         }},
-    "Vision X3 Pro": {
-        "folder": "Vision",
+    "X50": {
+        "folder": "Belgee X50",
         "color": {
-
-        }},
-    "Vision X6 Pro": {
-        "folder": "Vision",
-        "color": {
-
-        }},
-    "Xingyue L": {
-        "folder": "Xingyue",
-        "color": {
-
-        }},
-    "Xingyue, I Рестайлинг (S)": {
-        "folder": "Xingyue",
-        "color": {
-
+            "Черный": "black",
+            "Черный/Черный": "black",
         }},
     # ... добавьте другие модели по мере необходимости
 }
