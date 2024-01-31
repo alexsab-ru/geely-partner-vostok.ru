@@ -252,8 +252,9 @@ model_mapping = {
         "folder": "Monjaro",
         "color": {
             "Черный": "black-metallic",
-            "Черный/Черный": "black-metallic",
+            "Черный/черный": "black-metallic",
             "Зеленый": "emerald-metallic",
+            "Синий": "emerald-metallic",
             "Серый": "gray-metallic",
             "Серебристый": "silver-metallic",
             "Белый": "white-metallic",
@@ -267,7 +268,7 @@ model_mapping = {
         "folder": "Tugella",
         "color": {
             "Черный": "black-metallic",
-            "Черный/Черный": "black-metallic",
+            "Черный/черный": "black-metallic",
             "Серо-голубой": "gray-blue-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
@@ -276,7 +277,7 @@ model_mapping = {
         "folder": "Belgee X50",
         "color": {
             "Черный": "black",
-            "Черный/Черный": "black",
+            "Черный/черный": "black",
         }},
     # ... добавьте другие модели по мере необходимости
 }
