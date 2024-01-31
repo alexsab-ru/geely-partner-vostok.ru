@@ -284,6 +284,7 @@ model_mapping = {
             "Черный": "black-metallic",
             "Синий": "blue-metallic",
             "Золотой": "gold-metallic",
+            "Оранжевый": "gold-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
         }},
