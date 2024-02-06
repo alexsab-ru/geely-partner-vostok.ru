@@ -194,6 +194,7 @@ model_mapping = {
         "folder": "Atlas Pro",
         "color": {
             "Черный": "black-metallic",
+            "Черный/черный": "black-metallic",
             "Серый": "gray-metallic",
             "Красный": "red-metallic",
             "Серебристый": "silver-metallic",
@@ -207,6 +208,7 @@ model_mapping = {
         "folder": "Atlas-2024",
         "color": {
             "Черный": "black-metallic",
+            "Черный/черный": "black-metallic",
             "Серебристый": "silver-metallic",
             "Серый": "starry-blue-metallic",
             "Белый": "white",
@@ -278,6 +280,11 @@ model_mapping = {
         "color": {
             "Черный": "black",
             "Черный/черный": "black",
+            "Серый": "gray",
+            "Красный": "red",
+            "Синий": "blue",
+            "Серебристый": "silver",
+            "Белый": "white",
         }},
     # ... добавьте другие модели по мере необходимости
 }
