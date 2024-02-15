@@ -3,6 +3,10 @@ import re
 import yaml
 import shutil
 import requests
+import urllib.parse
+from PIL import Image, ImageOps
+from io import BytesIO
+from config import dealer, model_mapping
 
 # Parsing XML
 import xml.etree.ElementTree as ET
@@ -79,7 +83,9 @@ def create_file(car, filename, unique_id):
             continue
         if child.tag == 'images':
             images = [img.text for img in child.findall('image')]
+            thumbs_files = createThumbs(images)
             content += f"{child.tag}: {images}\n"
+            content += f"thumbs: {thumbs_files}\n"
         elif child.tag == 'color':
             content += f"{child.tag}: {color}\n"
             content += f"image: {thumb}\n"
@@ -150,6 +156,65 @@ def update_yaml(car, filename):
 
     return filename
 
+def createThumbs(image_urls):
+    global current_thumbs
+    global output_dir
+
+    # Определение относительного пути для возврата
+    relative_output_dir = "/img/thumbs/"
+
+    # Проверка наличия папки, если нет - создаем
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # Список для хранения путей к новым или существующим файлам
+    new_or_existing_files = []
+
+    # Обработка первых 5 изображений
+    for img_url in image_urls[:5]:
+        try:
+            original_filename = os.path.basename(urllib.parse.urlparse(img_url).path)
+            filename_without_extension, _ = os.path.splitext(original_filename)
+            output_filename = f"thumb_{filename_without_extension}.webp"
+            output_path = os.path.join(output_dir, output_filename)
+            relative_output_path = os.path.join(relative_output_dir, output_filename)
+
+            # Проверка существования файла
+            if not os.path.exists(output_path):
+                # Загрузка и обработка изображения, если файла нет
+                response = requests.get(img_url)
+                image = Image.open(BytesIO(response.content))
+                aspect_ratio = image.width / image.height
+                new_width = 360
+                new_height = int(new_width / aspect_ratio)
+                resized_image = image.resize((new_width, new_height), Image.Resampling.LANCZOS)
+                resized_image.save(output_path, "WEBP")
+                print(f"Создано превью: {relative_output_path}")
+            else:
+                print(f"Файл уже существует: {relative_output_path}")
+
+            # Добавление относительного пути файла в списки
+            new_or_existing_files.append(relative_output_path)
+            current_thumbs.append(output_path)  # Здесь сохраняем полный путь для дальнейшего использования
+        except Exception as e:
+            print(f"Ошибка при обработке изображения {img_url}: {e}")
+
+    return new_or_existing_files
+
+def cleanup_unused_thumbs():
+    global current_thumbs
+    all_thumbs = [os.path.join(output_dir, f) for f in os.listdir(output_dir)]
+    unused_thumbs = [thumb for thumb in all_thumbs if thumb not in current_thumbs]
+
+    for thumb in unused_thumbs:
+        os.remove(thumb)
+        print(f"Удалено неиспользуемое превью: {thumb}")
+
+# Путь к папке для сохранения уменьшенных изображений
+output_dir = "public/img/thumbs/"
+
+# Глобальный список для хранения путей к текущим превьюшкам
+current_thumbs = []
 
 # Переменная для отслеживания наличия 404 ошибки
 error_404_found = False
@@ -184,110 +249,6 @@ os.makedirs(directory)
 
 existing_files = set()  # для сохранения имен созданных или обновленных файлов
 
-dealer = {
-    "city": "Орск",
-    "where": "Орске",
-}
-# Словарь соответствия цветов
-model_mapping = {
-    "Atlas Pro": {
-        "folder": "Atlas Pro",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серый": "gray-metallic",
-            "Красный": "red-metallic",
-            "Серебристый": "silver-metallic",
-        }},
-    "Atlas, I": {
-        "folder": "Atlas Pro",
-        "color": {
-
-        }},
-    "Atlas, II": {
-        "folder": "Atlas-2024",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серебристый": "silver-metallic",
-            "Серый": "starry-blue-metallic",
-            "Белый": "white",
-        }},
-    "Coolray, I Рестайлинг": {
-        "folder": "New Coolray",
-        "color": {
-            "Красный": "bright-vermilion",
-            "Белый": "crystal-white",
-            "Синий": "cyber-blue",
-            "Серый": "magnetic-grey",
-            "Серебристый": "unicorn-grey",
-        }},
-    "Coolray, I": {
-        "folder": "Coolray",
-        "color": {
-            "Синий": "blue-metallic",
-            "Серый": "grey",
-            "Красный": "red",
-            "Серебристый": "silver-metallic",
-            "Белый": "white",
-        }},
-    "Emgrand L": {
-        "folder": "Emgrand",
-        "color": {
-            "Черный": "black-metallic",
-            "Синий": "blue-metallic",
-            "Золотой": "gold-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Emgrand, II": {
-        "folder": "Emgrand",
-        "color": {
-            "Черный": "black-metallic",
-            "Синий": "blue-metallic",
-            "Золотой": "gold-metallic",
-            "Оранжевый": "gold-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Monjaro": {
-        "folder": "Monjaro",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Зеленый": "emerald-metallic",
-            "Синий": "emerald-metallic",
-            "Серый": "gray-metallic",
-            "Серебристый": "silver-metallic",
-            "Белый": "white-metallic",
-        }},
-    "Okavango": {
-        "folder": "Okavango",
-        "color": {
-
-        }},
-    "Tugella, I Рестайлинг": {
-        "folder": "Tugella",
-        "color": {
-            "Черный": "black-metallic",
-            "Черный/черный": "black-metallic",
-            "Серо-голубой": "gray-blue-metallic",
-            "Серый": "gray-metallic",
-            "Белый": "white-metallic",
-        }},
-    "X50": {
-        "folder": "Belgee X50",
-        "color": {
-            "Черный": "black",
-            "Черный/черный": "black",
-            "Серый": "gray",
-            "Красный": "red",
-            "Синий": "blue",
-            "Серебристый": "silver",
-            "Белый": "white",
-        }},
-    # ... добавьте другие модели по мере необходимости
-}
 
 
 for car in root.find('cars'):
@@ -300,6 +261,9 @@ for car in root.find('cars'):
         update_yaml(car, file_path)
     else:
         create_file(car, file_path, unique_id)
+
+# Удаление неиспользуемых превьюшек
+cleanup_unused_thumbs()
 
 
 for existing_file in os.listdir(directory):
