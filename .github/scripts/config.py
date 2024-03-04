@@ -78,7 +78,10 @@ model_mapping = {
     "Okavango": {
         "folder": "Okavango",
         "color": {
-
+            "Серый": "ink-black",
+            "Белый": "indigo-blue",
+            "Синий": "crystal-white",
+            "Черный": "basalt-gray",
         }},
     "Tugella, I Рестайлинг": {
         "folder": "Tugella",
