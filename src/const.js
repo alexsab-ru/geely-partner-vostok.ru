@@ -1,15 +1,24 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
-
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'geely-partner-vostok.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'Джили Партнер-Восток'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО "ПАРТНЕР-ВОСТОК"'; // Юр лицо
-export const LEGAL_INN = '5614088704'; // ИНН
-export const LEGAL_CITY = 'г. Орск'; // Город
-export const LEGAL_CITY_WHERE = 'Орске'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилерский центр Geely в Орске'; // Описание сайта по умолчанию
-export const TELEGRAM = ''; // Имя пользователя в Телегам
-export const PHONE = '+7 (3537) 22-33-55'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'geely-partner-vostok.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'Джили Партнер-Восток';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО "ПАРТНЕР-ВОСТОК"';
+// ИНН
+export const LEGAL_INN = '5614088704';
+// Город
+export const LEGAL_CITY = 'г. Орск';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Орске';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилерский центр Geely в Орске';
+// Имя пользователя в Телегам
+export const TELEGRAM = '';
+// Телефон по умолчанию
+export const PHONE = '+7 (3537) 22-33-55';
 
 export const BRAND = 'Geely';
 
