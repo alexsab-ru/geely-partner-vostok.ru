@@ -36,7 +36,6 @@ model_mapping = {
             "Синий": "cyber-blue.webp",
             "Серый": "magnetic-grey.webp",
             "Серебристый": "unicorn-grey.webp",
-            "Белый": "white.webp",
         }},
     "Coolray, I": {
         "folder": "Coolray",
