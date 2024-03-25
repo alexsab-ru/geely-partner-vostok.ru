@@ -12,6 +12,7 @@ model_mapping = {
             "Серый": "gray-metallic.webp",
             "Красный": "red-metallic.webp",
             "Серебристый": "silver-metallic.webp",
+            "Белый": "white.webp",
         }},
     "Atlas, I": {
         "folder": "Atlas Pro",
@@ -35,6 +36,7 @@ model_mapping = {
             "Синий": "cyber-blue.webp",
             "Серый": "magnetic-grey.webp",
             "Серебристый": "unicorn-grey.webp",
+            "Белый": "white.webp",
         }},
     "Coolray, I": {
         "folder": "Coolray",
@@ -58,6 +60,7 @@ model_mapping = {
         "folder": "Emgrand",
         "color": {
             "Черный": "black-metallic.webp",
+            "Темно-синий": "blue-metallic.webp",
             "Синий": "blue-metallic.webp",
             "Золотой": "gold-metallic.webp",
             "Оранжевый": "gold-metallic.webp",
