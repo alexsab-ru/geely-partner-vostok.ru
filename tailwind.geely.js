@@ -1,7 +1,7 @@
 import defaultTheme from 'tailwindcss/defaultTheme'
 import colors from 'tailwindcss/colors'
 
-export const content = ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue,json}']
+export const content = ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}']
 export const theme = {
   container: {
     center: true,
