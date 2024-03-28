@@ -39,6 +39,12 @@ export const theme = {
         400: '#3150A2',
         500: '#1D449B',
       },
+      vk: '#4B76A8',
+      ok: '#F7931D',
+      fb: '#3C5A99',
+      youtube: '#FF0018',
+      tiktok: '#000000',
+      telegram: '#2FACE1',
     },
     screens: {
       'xs': {'max': '430px'},
