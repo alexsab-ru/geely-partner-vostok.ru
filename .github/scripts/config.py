@@ -10,6 +10,7 @@ model_mapping = {
             "Черный": "black-metallic.webp",
             "Черный/черный": "black-metallic.webp",
             "Серый": "gray-metallic.webp",
+            "Серый металлик": "gray-metallic.webp",
             "Красный": "red-metallic.webp",
             "Серебристый": "silver-metallic.webp",
             "Белый": "white.webp",
@@ -35,6 +36,7 @@ model_mapping = {
             "Белый": "crystal-white.webp",
             "Синий": "cyber-blue.webp",
             "Серый": "magnetic-grey.webp",
+            "Серый металлик": "magnetic-grey.webp",
             "Серебристый": "unicorn-grey.webp",
         }},
     "Coolray, I": {
@@ -84,6 +86,7 @@ model_mapping = {
             "Серый": "ink-black.webp",
             "Белый": "indigo-blue.webp",
             "Синий": "crystal-white.webp",
+            "Черный/черный": "basalt-gray.webp",
             "Черный": "basalt-gray.webp",
         }},
     "Tugella, I Рестайлинг": {
@@ -93,6 +96,7 @@ model_mapping = {
             "Черный/черный": "black-metallic.webp",
             "Серо-голубой": "gray-blue-metallic.webp",
             "Серый": "gray-metallic.webp",
+            "Серый металлик": "gray-metallic.webp",
             "Белый": "white-metallic.webp",
         }},
     "X50": {
@@ -101,6 +105,7 @@ model_mapping = {
             "Черный": "black.webp",
             "Черный/черный": "black.webp",
             "Серый": "gray.webp",
+            "Серый металлик": "gray.webp",
             "Красный": "red.webp",
             "Синий": "blue.webp",
             "Серебристый": "silver.webp",
