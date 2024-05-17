@@ -54,4 +54,16 @@ export const theme = {
     },
   },
 }
-export const plugins = []
+export const plugins = [
+	plugin(function({ matchUtilities, theme }) {
+		matchUtilities({ fz: (value) => ({ fontSize: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)` })});
+		matchUtilities({ ptop: (value) => ({ paddingTop: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)` })});
+		matchUtilities({ pbottom: (value) => ({ paddingBottom: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)` })});
+		matchUtilities({ plr: (value) => ({ paddingLeft: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)`, paddingRight: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)` })});
+		matchUtilities({ t: (value) => ({ top: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)`})});
+		matchUtilities({ r: (value) => ({ right: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)`})});
+		matchUtilities({ b: (value) => ({ bottom: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)`})});
+		matchUtilities({ l: (value) => ({ left: `clamp(1rem, calc(calc(1vw + 1vh) * ${value}), 3rem)`})});
+	})
+]
+
