@@ -2,90 +2,6 @@
 <data>
 	<cars>
 		<car>
-			<unique_id>ec7a5496395776909909053f2314f866</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>3393990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D4RB307735</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-белый-2024/</url></car>
-		<car>
-			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3393990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D3RB309783</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>38ee08f82fe60bf06b541d33aaa2d8fe</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3393990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722DXRB306301</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
 			<unique_id>56f8b68a354c175078f2f3b1e1ecc3b2</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -169,6 +85,90 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>38ee08f82fe60bf06b541d33aaa2d8fe</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>3393990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>270000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722DXRB306301</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>3393990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>270000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D3RB309783</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>ec7a5496395776909909053f2314f866</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>3393990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>270000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D4RB307735</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-белый-2024/</url></car>
 		<car>
 			<unique_id>cb5f0942cbcb70a1a03b862ded020021</unique_id>
 			<mark_id>Geely</mark_id>
