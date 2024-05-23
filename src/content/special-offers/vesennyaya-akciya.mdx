@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-01-30
 caption: Акция «Весенняя акция»
-image: /img/banners/vesennyaya-akciya/thumb.webp
+image: /img/banners/vesennyaya-akciya/banner_767x575.webp
 title: Весенняя акция в GEELY ОРСК!
 description: "Получите выгоду 50% на услуги по техническому обслуживанию автомобиля"
 breadcrumb: Весенняя акция в GEELY ОРСК!
@@ -9,7 +9,13 @@ h1: Акция «Весенняя акция» в Джили Орск!
 ---
 import Button from '@/components/Button/Button.astro';
 
-<img src="/img/banners/vesennyaya-akciya/vesennyaya-akciya.webp" alt="Весенняя акция в GEELY ОРСК!" class="w-full" />
+<picture>
+    <source media="(min-width: 1200px)" srcset="/img/banners/vesennyaya-akciya/banner_1920x637.webp" />
+    <source media="(min-width: 942px)" srcset="/img/banners/vesennyaya-akciya/banner_941x460.webp" />
+    <source media="(min-width: 576px)" srcset="/img/banners/vesennyaya-akciya/banner_767x575.webp" />
+    <source media="(min-width: 320px)" srcset="/img/banners/vesennyaya-akciya/banner_1280x1280.webp" />
+    <img src="/img/banners/vesennyaya-akciya/banner_1920x637.webp" class="w-full" alt="Весенняя акция в GEELY ОРСК!" />
+</picture>
 <br/>
 
 В акцию входят следующие работы:
