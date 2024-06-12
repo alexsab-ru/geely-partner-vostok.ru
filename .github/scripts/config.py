@@ -28,6 +28,7 @@ model_mapping = {
             "Серебристый": "silver-metallic.webp",
             "Синий": "starry-blue-metallic.webp",
             "Белый": "white.webp",
+            "Зелёный": "racing-green.webp",
         }},
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
