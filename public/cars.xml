@@ -78,47 +78,6 @@
 			</multiposting>
 		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
-			<unique_id>127619590e8f752b7b70fafbfff37cf0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3393990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D6RB304979</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/f7b55e027c7b9563858c358168147c82.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/54d9fac64d7c4fadb00904aba3c179ab.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/42903a2cc4be42efdb95612d4b3780fb.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/aec134d0edaff78de47e60d11cd337dc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/110fa39f08edc59177f466c8ad6fedb4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/daf8684e03de653e4d51f9b976635952.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/a65b342467e5c449c8ba3beee73de801.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/758f1c52ea092c1f5cf095f92ce1d568.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/80887ac626e7813e671213378e326225.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/cee057bdd62259feaef4d13ba199ef74.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/c0657f317cab9726636876af3ff95589.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/1ea5a049a4981889ff4043f2528cc8ac.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
 			<unique_id>38ee08f82fe60bf06b541d33aaa2d8fe</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -195,6 +154,47 @@
 				<image>https://photo.toyotasever.ru/Y4K8722DXRB306315/d0b118b987584c92d9108a036931d181.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722DXRB306315/d74d22af5e90db7fd8c88160f9304a47.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722DXRB306315/ec0e519ee7bd9d5468f8a3f1366fb7d9.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>127619590e8f752b7b70fafbfff37cf0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3393990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>270000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D6RB304979</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/f7b55e027c7b9563858c358168147c82.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/54d9fac64d7c4fadb00904aba3c179ab.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/42903a2cc4be42efdb95612d4b3780fb.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/aec134d0edaff78de47e60d11cd337dc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/110fa39f08edc59177f466c8ad6fedb4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/daf8684e03de653e4d51f9b976635952.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/a65b342467e5c449c8ba3beee73de801.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/758f1c52ea092c1f5cf095f92ce1d568.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/80887ac626e7813e671213378e326225.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/cee057bdd62259feaef4d13ba199ef74.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/c0657f317cab9726636876af3ff95589.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB304979/1ea5a049a4981889ff4043f2528cc8ac.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
