@@ -229,88 +229,6 @@
 			</multiposting>
 		<priceWithDiscount>3123990</priceWithDiscount><sale_price>3123990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
-			<unique_id>64ea2275a5fc062517eb6fd27b6cbbc6</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2500990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>185000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB917208</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/841de2812391f47f455db2a076188900.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/83608840c0dc378fc30298f5d2401153.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/d8ec116beef4356928e67b70589bbbf4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/61e916407fbd23f7523b8f52c36b4b61.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/2b15f9eafb07ca7ee6ab245ebdba0aa3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/4b63a7caccdce096115a0b8cd52e1123.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/d119eb4053941c4dcba0e72014d41cad.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/7d386ad2a368149dc9c5175011e3242d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/e1223a888d6c2da76b7430b1b60c1fa6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/4e40242d2c798eaa6bd62ee2dc8911c2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/a8fba7e5f81b18c602f74944947500ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/2e8f56b962b257043118e159ef2dd2c5.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>ad464ac898d35958224194f0e4c04a4f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>2500990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>185000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB921134</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/be7a80acc93be0821b50db849689911c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/060fec698ec3fbdc87f5eaa3025e8613.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/025c68e36328248bf1c8199a1061f1bf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/ad6a44008810ad221b603cfc97fa30ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/7da584b2b18adab986121c8850250a04.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/96022ba5fd306da8320fdde7e4b09294.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/9def61acab456ba3b671b69fd7c2c59f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/e1acc7fadb4c2aec8e2bc4abf4f74daa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/c043605a87337fab164ef1c6c1fc0d00.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b61e3abe1609769f94b14898e3b06fc2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/beef8cf98a496da2899d290bb5ae9bf3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b3e0f318a2daff85f57740dffa285d09.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
 			<unique_id>cd43bb7e0e675022d64b760397ccc8cd</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>X50</folder_id>
@@ -387,6 +305,47 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921182/251a57f528ecb4817c948c9ced88f180.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921182/eeb2e4c36f7045e2b20245349f3024a0.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921182/6239eadbfd832d5b1d666bd1ff2f909e.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>ad464ac898d35958224194f0e4c04a4f</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2500990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>185000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z4RB921134</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/be7a80acc93be0821b50db849689911c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/060fec698ec3fbdc87f5eaa3025e8613.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/025c68e36328248bf1c8199a1061f1bf.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/ad6a44008810ad221b603cfc97fa30ce.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/7da584b2b18adab986121c8850250a04.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/96022ba5fd306da8320fdde7e4b09294.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/9def61acab456ba3b671b69fd7c2c59f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/e1acc7fadb4c2aec8e2bc4abf4f74daa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/c043605a87337fab164ef1c6c1fc0d00.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b61e3abe1609769f94b14898e3b06fc2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/beef8cf98a496da2899d290bb5ae9bf3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b3e0f318a2daff85f57740dffa285d09.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -516,47 +475,6 @@
 			</multiposting>
 		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
-			<unique_id>9932cae572b5eb2f8dd098618b2af340</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2500990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>185000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB913147</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/cd6baa1896eefdc7b2189c222b516a9a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/7a6868e633a5b6d2dd380235a54d7186.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/44ca08aeece489b106e6f2f7cf69fd3c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/aa17b9c3553338561aeaa8f00d0cf185.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/9b25b593052ec4ad974ae0a4c271c529.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/852a86cd1c46ccee614cedc2250447ec.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/522d4e9d5cdbe0c64d7225e5f6f684a5.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/59e398f7164c32870ce813d7b9d40350.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/bfad644d80f99064f7f86e3a095a37c4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/27fc527e496b7cf5eea6f5318c724829.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/517cfbbae2093ec17f7f2a97c9b8abe7.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB913147/cc12ff0a733ac68d582b2060847e0bbe.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
 			<unique_id>e8755f08b012a23d80e5aa812be2bc6a</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>X50</folder_id>
@@ -633,6 +551,47 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB917226/c73cf17868ea26e246f62a98f93ad544.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB917226/df1376549825c439329fbdebee6cc5d8.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB917226/c08b4410edb5a3316ecd1f0513f97bdc.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2315990</priceWithDiscount><sale_price>2315990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>64ea2275a5fc062517eb6fd27b6cbbc6</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>2500990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>185000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB917208</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/841de2812391f47f455db2a076188900.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/83608840c0dc378fc30298f5d2401153.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/d8ec116beef4356928e67b70589bbbf4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/61e916407fbd23f7523b8f52c36b4b61.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/2b15f9eafb07ca7ee6ab245ebdba0aa3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/4b63a7caccdce096115a0b8cd52e1123.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/d119eb4053941c4dcba0e72014d41cad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/7d386ad2a368149dc9c5175011e3242d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/e1223a888d6c2da76b7430b1b60c1fa6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/4e40242d2c798eaa6bd62ee2dc8911c2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/a8fba7e5f81b18c602f74944947500ce.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB917208/2e8f56b962b257043118e159ef2dd2c5.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
