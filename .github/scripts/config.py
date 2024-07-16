@@ -28,8 +28,10 @@ model_mapping = {
             "Серебристый": "silver-metallic.webp",
             "Серый": "silver-metallic.webp",
             "Синий": "starry-blue-metallic.webp",
+            "Серо-голубой": "starry-blue-metallic.webp",
             "Белый": "white.webp",
             "Зелёный": "racing-green.webp",
+            "Зеленый": "racing-green.webp",
         }},
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
@@ -87,11 +89,14 @@ model_mapping = {
     "Okavango": {
         "folder": "Okavango",
         "color": {
-            "Серый": "ink-black.webp",
-            "Белый": "indigo-blue.webp",
-            "Синий": "crystal-white.webp",
-            "Черный/черный": "basalt-gray.webp",
-            "Черный": "basalt-gray.webp",
+            "Синий": "indigo-blue.webp",
+            "Синий металлик": "indigo-blue.webp",
+            "Черный/черный": "ink-black.webp",
+            "Черный": "ink-black.webp",
+            "Черный металик": "ink-black.webp",
+            "Серый металлик": "basalt-gray.webp",
+            "Серый": "basalt-gray.webp",
+            "Белый": "crystal-white.webp",
         }},
     "Tugella, I Рестайлинг": {
         "folder": "Tugella",
