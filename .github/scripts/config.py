@@ -98,6 +98,18 @@ model_mapping = {
             "Серый": "basalt-gray.webp",
             "Белый": "crystal-white.webp",
         }},
+    "Okavango, I Рестайлинг": {
+        "folder": "Okavango",
+        "color": {
+            "Синий": "indigo-blue.webp",
+            "Синий металлик": "indigo-blue.webp",
+            "Черный/черный": "ink-black.webp",
+            "Черный": "ink-black.webp",
+            "Черный металик": "ink-black.webp",
+            "Серый металлик": "basalt-gray.webp",
+            "Серый": "basalt-gray.webp",
+            "Белый": "crystal-white.webp",
+        }},
     "Tugella, I Рестайлинг": {
         "folder": "Tugella",
         "color": {
