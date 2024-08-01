@@ -326,7 +326,7 @@
 			</multiposting>
 		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>ad464ac898d35958224194f0e4c04a4f</unique_id>
+			<unique_id>05650a66f515060df452c09a27485149</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -337,7 +337,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>2515990</price>
 			<credit_discount>0</credit_discount>
@@ -346,22 +346,37 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB921134</vin>
+			<vin>Y4K8622Z9RB922456</vin>
 			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/be7a80acc93be0821b50db849689911c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/060fec698ec3fbdc87f5eaa3025e8613.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/025c68e36328248bf1c8199a1061f1bf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/ad6a44008810ad221b603cfc97fa30ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/7da584b2b18adab986121c8850250a04.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/96022ba5fd306da8320fdde7e4b09294.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/9def61acab456ba3b671b69fd7c2c59f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/e1acc7fadb4c2aec8e2bc4abf4f74daa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/c043605a87337fab164ef1c6c1fc0d00.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b61e3abe1609769f94b14898e3b06fc2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/beef8cf98a496da2899d290bb5ae9bf3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b3e0f318a2daff85f57740dffa285d09.jpg</image>
-			</images>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>5a6e926450f2b1cc864d980877561b2b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>2515990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB922463</vin>
+			<description />
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -408,7 +423,7 @@
 			</multiposting>
 		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>5a6e926450f2b1cc864d980877561b2b</unique_id>
+			<unique_id>ad464ac898d35958224194f0e4c04a4f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -417,80 +432,37 @@
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB922463</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>05650a66f515060df452c09a27485149</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB922456</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>a1d71bf0f15f17d6232a4c1e5e2f4c61</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>3</run>
 			<year>2024</year>
-			<price>2949990</price>
+			<price>2515990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37622Z5RX531502</vin>
+			<vin>Y4K8622Z4RB921134</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/be7a80acc93be0821b50db849689911c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/060fec698ec3fbdc87f5eaa3025e8613.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/025c68e36328248bf1c8199a1061f1bf.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/ad6a44008810ad221b603cfc97fa30ce.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/7da584b2b18adab986121c8850250a04.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/96022ba5fd306da8320fdde7e4b09294.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/9def61acab456ba3b671b69fd7c2c59f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/e1acc7fadb4c2aec8e2bc4abf4f74daa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/c043605a87337fab164ef1c6c1fc0d00.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b61e3abe1609769f94b14898e3b06fc2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/beef8cf98a496da2899d290bb5ae9bf3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB921134/b3e0f318a2daff85f57740dffa285d09.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2949990</priceWithDiscount><sale_price>2949990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<priceWithDiscount>2515990</priceWithDiscount><sale_price>2515990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
 			<unique_id>9eab85d204b3b727521fa6ecc7dac698</unique_id>
 			<mark_id>Geely</mark_id>
@@ -532,6 +504,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2949990</priceWithDiscount><sale_price>2949990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-красный-2023/</url></car>
+		<car>
+			<unique_id>a1d71bf0f15f17d6232a4c1e5e2f4c61</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2949990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z5RX531502</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2949990</priceWithDiscount><sale_price>2949990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>c8e81bcdd4ab1794fd06f139f127695a</unique_id>
 			<mark_id>Geely</mark_id>
@@ -617,34 +617,6 @@
 			</multiposting>
 		<priceWithDiscount>2749990</priceWithDiscount><sale_price>2749990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-серый-2024/</url></car>
 		<car>
-			<unique_id>5dd14749e72ca86eab06869bdf74160c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z3RX526508</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2749990</priceWithDiscount><sale_price>2749990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
 			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -666,6 +638,34 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z8RX530103</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2749990</priceWithDiscount><sale_price>2749990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>5dd14749e72ca86eab06869bdf74160c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2749990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z3RX526508</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -758,6 +758,34 @@
 			</multiposting>
 		<priceWithDiscount>2249990</priceWithDiscount><sale_price>2249990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-желтый-2024/</url></car>
 		<car>
+			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4774990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS067660</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4774990</priceWithDiscount><sale_price>4774990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
 			<unique_id>d0c47b4d7134b0c626abcef2793fd41d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -835,34 +863,6 @@
 				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
 			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4774990</priceWithDiscount><sale_price>4774990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4774990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS067660</vin>
-			<description />
-			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
