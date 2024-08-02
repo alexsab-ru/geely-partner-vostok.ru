@@ -978,19 +978,19 @@
 			</multiposting>
 		<priceWithDiscount>3479990</priceWithDiscount><sale_price>3479990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>420bc2e68615127609ef90055b0809c0</unique_id>
+			<unique_id>f26dc23898efd7848cdbe1b6515e69a6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Tugella, I Рестайлинг</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
+			<run>5</run>
+			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
@@ -998,13 +998,28 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>L6T7852D6RD045326</vin>
+			<vin>L6T7852D0PD124472</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/72794729d550e8181c922400c003a11b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/9ad34c004ff21a311fb36467d481ba27.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/74e18a2b507cab607f05e88b37303ea3.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/f43dab7e4e7c103d7cacb096d9371f2c.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/d2081eb7b3efe1776c5c1576d65251ef.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/2c45f2c0a71b8d83ba41b174daa2ce75.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/89066b7888845c6cddf28f1034d2ed3e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/d21d7376b6fed6317c7392da0a962b23.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/5128b7e7ea89f85b863313a127c2e6c3.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/1b8112f5999382d2a46c33fcb0d8e0f4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/6c1064c484e5d6a338a3a3216c7e8398.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/dfb0a18a74b85a3c861349f880ca7f2e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/4daeaa3979c8063c7d290c69cfbeee02.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/e3949d51849f6ddfc8697004a454d49d.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-серый-2023/</url></car>
 		<car>
 			<unique_id>035f67b84384cf796843287905eef2c7</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1049,130 +1064,61 @@
 			</multiposting>
 		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>f26dc23898efd7848cdbe1b6515e69a6</unique_id>
+			<unique_id>420bc2e68615127609ef90055b0809c0</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Tugella, I Рестайлинг</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4289990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>L6T7852D6RD045326</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>da45761b4607393c240d454528773b22</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Tugella, I Рестайлинг</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2023</year>
-			<price>4289990</price>
+			<run>2</run>
+			<year>2024</year>
+			<price>4389990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>L6T7852D0PD124472</vin>
+			<vin>L6T7852D8RD048809</vin>
 			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/72794729d550e8181c922400c003a11b.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/9ad34c004ff21a311fb36467d481ba27.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/74e18a2b507cab607f05e88b37303ea3.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/f43dab7e4e7c103d7cacb096d9371f2c.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/d2081eb7b3efe1776c5c1576d65251ef.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/2c45f2c0a71b8d83ba41b174daa2ce75.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/89066b7888845c6cddf28f1034d2ed3e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/d21d7376b6fed6317c7392da0a962b23.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/5128b7e7ea89f85b863313a127c2e6c3.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/1b8112f5999382d2a46c33fcb0d8e0f4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/6c1064c484e5d6a338a3a3216c7e8398.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/dfb0a18a74b85a3c861349f880ca7f2e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/4daeaa3979c8063c7d290c69cfbeee02.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD124472/e3949d51849f6ddfc8697004a454d49d.jpg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-серый-2023/</url></car>
-		<car>
-			<unique_id>8971a438323a7df25c46d9716d4bf25c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Tugella, I Рестайлинг</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2023</year>
-			<price>4289990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6T7852D6PD097844</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/0dc75cd4040d7cf4de49f854084b8b24.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/b1237f7f98f9a7d0cd6ff81896c33146.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/c7c566109e070e2e5ab47028b30899ff.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/66896a1e72b162a1fa6d01d474cf09d6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/ed8722113ad4bc152e3a6a50a2c5ebb9.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/30fe78cc1afa9ec763db943b7d796c76.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/5b79d7f5e86f1f6beea29c3608e88758.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/122be0b3008c619435c5dfc85cbb7e6c.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/eff22de0abbdaf785fad81fac9f595ab.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/6f41b25d0ebb04273e6fd73e613bf6b8.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/8a3673d457b9cf071bfeef3a8a41374a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/a2762efcc04c8257f3504bc8d30fd990.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-черный-2023/</url></car>
-		<car>
-			<unique_id>7d2219093a346506742e0d1584caa27c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Tugella, I Рестайлинг</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2023</year>
-			<price>4289990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6T7852D1PD097864</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/77f92d6681f01646b9755c53017904b4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/6ede3edaca4f0d58de7ade0ed2f375d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/ac6feaa4a1fee5e1e6ae462a3e72e6c0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/5fe0d4a2a99732eaa82ec8c1118d6884.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/b23e69e8b7417566ac95dadb766d8c42.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/d361216c1c2130383bfc385526e067e0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/7f987106c630549454285c7037571142.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/261c556adc190374c1335e359cc10791.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/c4a8fb29e7bc616db675fedb34d25d2a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/2dff16e0c47f3b77c09ee84379e0c9d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/626dec8b317222df9bb345a8a324a282.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/454845dac070438bbb167a34a8f2afae.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-черный-2023/</url></car>
+		<priceWithDiscount>4389990</priceWithDiscount><sale_price>4389990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>f37c4eebd0c908f434ac10b12d2544fc</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1215,33 +1161,87 @@
 			</multiposting>
 		<priceWithDiscount>4389990</priceWithDiscount><sale_price>4389990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>da45761b4607393c240d454528773b22</unique_id>
+			<unique_id>7d2219093a346506742e0d1584caa27c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Tugella, I Рестайлинг</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4389990</price>
+			<run>4</run>
+			<year>2023</year>
+			<price>4289990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>L6T7852D8RD048809</vin>
+			<vin>L6T7852D1PD097864</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/77f92d6681f01646b9755c53017904b4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/6ede3edaca4f0d58de7ade0ed2f375d0.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/ac6feaa4a1fee5e1e6ae462a3e72e6c0.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/5fe0d4a2a99732eaa82ec8c1118d6884.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/b23e69e8b7417566ac95dadb766d8c42.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/d361216c1c2130383bfc385526e067e0.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/7f987106c630549454285c7037571142.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/261c556adc190374c1335e359cc10791.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/c4a8fb29e7bc616db675fedb34d25d2a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/2dff16e0c47f3b77c09ee84379e0c9d4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/626dec8b317222df9bb345a8a324a282.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D1PD097864/454845dac070438bbb167a34a8f2afae.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>4389990</priceWithDiscount><sale_price>4389990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-черный-2023/</url></car>
+		<car>
+			<unique_id>8971a438323a7df25c46d9716d4bf25c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Tugella, I Рестайлинг</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2023</year>
+			<price>4289990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>L6T7852D6PD097844</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/0dc75cd4040d7cf4de49f854084b8b24.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/b1237f7f98f9a7d0cd6ff81896c33146.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/c7c566109e070e2e5ab47028b30899ff.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/66896a1e72b162a1fa6d01d474cf09d6.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/ed8722113ad4bc152e3a6a50a2c5ebb9.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/30fe78cc1afa9ec763db943b7d796c76.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/5b79d7f5e86f1f6beea29c3608e88758.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/122be0b3008c619435c5dfc85cbb7e6c.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/eff22de0abbdaf785fad81fac9f595ab.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/6f41b25d0ebb04273e6fd73e613bf6b8.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/8a3673d457b9cf071bfeef3a8a41374a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D6PD097844/a2762efcc04c8257f3504bc8d30fd990.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-черный-2023/</url></car>
 		<car>
 			<unique_id>7b72f2da62f85a1322c952ce26667e6c</unique_id>
 			<mark_id>Geely</mark_id>
