@@ -745,6 +745,47 @@
 			</multiposting>
 		<priceWithDiscount>2149990</priceWithDiscount><sale_price>2149990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-желтый-2024/</url></car>
 		<car>
+			<unique_id>d0c47b4d7134b0c626abcef2793fd41d</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2023</year>
+			<price>4574990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D2PS196628</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/51929fc1fb550cdcc7a178b31435e451.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/47bd7828412ea128684e2c6accfa880e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/94bc599b573d3c237138e7c0c433dc6c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/ec426ac4a19ddd45f0feab4f7316c985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/43219b25084f9d6d1e4caa2d461091ec.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/7a26ce11962a93fe32702522d98034fc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/1584da36bd881c48e30e82f917a61672.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/27379041303e5bcb08d9e0a0aafd1254.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/f9a1cbcecbc09743b3e8e9e5865b8259.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/ed51cd27874ad4785ab8b338502ce55f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/c74e4b0ef215d984402daea35c77afd1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2PS196628/e0430e05dc6c9a6fcc766a746e8509af.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2023/</url></car>
+		<car>
 			<unique_id>7ca35f873d2ae7ea6e02aa1271d231e9</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -772,6 +813,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4774990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS067660</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
 			<mark_id>Geely</mark_id>
@@ -813,75 +882,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4774990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS067660</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>d0c47b4d7134b0c626abcef2793fd41d</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2023</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D2PS196628</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/51929fc1fb550cdcc7a178b31435e451.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/47bd7828412ea128684e2c6accfa880e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/94bc599b573d3c237138e7c0c433dc6c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/ec426ac4a19ddd45f0feab4f7316c985.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/43219b25084f9d6d1e4caa2d461091ec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/7a26ce11962a93fe32702522d98034fc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/1584da36bd881c48e30e82f917a61672.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/27379041303e5bcb08d9e0a0aafd1254.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/f9a1cbcecbc09743b3e8e9e5865b8259.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/ed51cd27874ad4785ab8b338502ce55f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/c74e4b0ef215d984402daea35c77afd1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2PS196628/e0430e05dc6c9a6fcc766a746e8509af.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4574990</priceWithDiscount><sale_price>4574990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2023/</url></car>
 		<car>
 			<unique_id>41d8a278ebd0be7778edbdfc489d2ec8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -980,6 +980,34 @@
 			</multiposting>
 		<priceWithDiscount>3479990</priceWithDiscount><sale_price>3479990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango</folder_id>
+			<modification_id>2.0 AMT (218 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>3479990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S67RY014535</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3479990</priceWithDiscount><sale_price>3479990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>349d399d7f36f225a29f945d9f672db1</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango</folder_id>
@@ -1021,34 +1049,6 @@
 			</multiposting>
 		<priceWithDiscount>3479990</priceWithDiscount><sale_price>3479990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY014535</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3479990</priceWithDiscount><sale_price>3479990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>98a580c2ec8eb8d5305581f16e39192c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Tugella, I Рестайлинг</folder_id>
@@ -1076,6 +1076,75 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3899990</priceWithDiscount><sale_price>3899990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>da45761b4607393c240d454528773b22</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Tugella, I Рестайлинг</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4389990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>290000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>290000</max_discount>
+			<currency>RUR</currency>
+			<vin>L6T7852D8RD048809</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4099990</priceWithDiscount><sale_price>4099990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<car>
+			<unique_id>7b72f2da62f85a1322c952ce26667e6c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Tugella, I Рестайлинг</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2023</year>
+			<price>4389990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>L6T7852D0PD138257</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/bb0dfd038cb662afa0416d543c7cbcfa.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/55294fca492e23cb1de65c9071bf091a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f58dcd7d32d2ca9b1577f5e52b4f0cd8.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/e63e2ed13aaa8073727b3f9fd2afeb00.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/5ce989637183c592b171c921c9339a7e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f941ceb164b16d53af5d19821b706042.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f5a292d522aecbcaf8a239a2cb7aa362.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/2c7a6dacd7a227f45925522b9d1fa80f.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/3d0b5f109d58a17f0bfe88000696bcdd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/c6df465796aaccabb98f3439aa700e4b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/84d52c7e83fc805f7236bd5ad3844529.jpg</image>
+				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/d5057765ba1fb53e166351f6e7a6792e.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4389990</priceWithDiscount><sale_price>4389990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-черный-2023/</url></car>
 		<car>
 			<unique_id>035f67b84384cf796843287905eef2c7</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1201,75 +1270,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4289990</priceWithDiscount><sale_price>4289990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-черный-2023/</url></car>
-		<car>
-			<unique_id>da45761b4607393c240d454528773b22</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Tugella, I Рестайлинг</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4389990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>290000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>290000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6T7852D8RD048809</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4099990</priceWithDiscount><sale_price>4099990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
-		<car>
-			<unique_id>7b72f2da62f85a1322c952ce26667e6c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Tugella, I Рестайлинг</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2023</year>
-			<price>4389990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6T7852D0PD138257</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/bb0dfd038cb662afa0416d543c7cbcfa.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/55294fca492e23cb1de65c9071bf091a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f58dcd7d32d2ca9b1577f5e52b4f0cd8.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/e63e2ed13aaa8073727b3f9fd2afeb00.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/5ce989637183c592b171c921c9339a7e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f941ceb164b16d53af5d19821b706042.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/f5a292d522aecbcaf8a239a2cb7aa362.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/2c7a6dacd7a227f45925522b9d1fa80f.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/3d0b5f109d58a17f0bfe88000696bcdd.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/c6df465796aaccabb98f3439aa700e4b.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/84d52c7e83fc805f7236bd5ad3844529.jpg</image>
-				<image>https://photo.toyotasever.ru/L6T7852D0PD138257/d5057765ba1fb53e166351f6e7a6792e.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4389990</priceWithDiscount><sale_price>4389990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-tugella-i-рестайлинг-20-at-238-лс-4wd-flagship-sport-черный-2023/</url></car>
 		<car>
 			<unique_id>420bc2e68615127609ef90055b0809c0</unique_id>
 			<mark_id>Geely</mark_id>
