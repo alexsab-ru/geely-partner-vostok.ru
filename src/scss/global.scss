@@ -43,7 +43,7 @@ section {
 		}
 	}
 	table {
-		@apply border-collapse bg-white text-xs sm:text-base inline-block min-w-full w-auto text-center;
+		@apply border-collapse w-full bg-white text-center text-xs sm:text-sm md:text-base;
 		thead {
 			@apply bg-slate-50;
 			th {
@@ -54,9 +54,6 @@ section {
 			td {
 				@apply border border-slate-300 p-4;
 			}
-		}
-		p{
-			@apply text-xs sm:text-base;
 		}
 	}
 }

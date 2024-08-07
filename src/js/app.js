@@ -88,3 +88,9 @@ if (typeof grecaptcha === "undefined") {
 }
 
 const hiddenClasses = 'text-xl sm:text-3xl text-6xl sm:text-7xl lg:text-[100px] w-fit text-right';
+// Редирект, если в конце URL больше одного слеша
+const path = window.location.pathname;
+const regex = /\/{2,}$/;
+if(regex.test(path)){
+	window.location.href = path.replace(regex, '/');
+}
