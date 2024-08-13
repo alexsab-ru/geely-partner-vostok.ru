@@ -74,6 +74,11 @@ model_mapping = {
             "Серо-голубой": "gray-blue-metallic.webp",
             "Белый": "white-metallic.webp",
         }},
+    "Geometry G6": {
+        "folder": "Geometry G6",
+        "color": {
+            "Серый": "gray.webp",
+        }},
     "Monjaro": {
         "folder": "Monjaro",
         "color": {
