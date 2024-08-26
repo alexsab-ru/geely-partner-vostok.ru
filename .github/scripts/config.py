@@ -125,6 +125,22 @@ model_mapping = {
             "Серый металлик": "gray-metallic.webp",
             "Белый": "white-metallic.webp",
         }},
+    "Preface, I Рестайлинг 2": {
+        "folder": "Preface",
+        "color": {
+            "Black": "black.webp",
+            "Черный": "black.webp",
+            "Gray-blue": "gray-blue.webp",
+            "Серо-голубой": "gray-blue.webp",
+            "Gray-purple": "gray-purple.webp",
+            "Серо-фиолетовый": "gray-purple.webp",
+            "Gray": "gray.webp",
+            "Серый": "gray.webp",
+            "Green": "green.webp",
+            "Зеленый": "green.webp",
+            "White": "white.webp",
+            "Белый": "white.webp",
+        }},
     "X50": {
         "folder": "Belgee X50",
         "color": {
