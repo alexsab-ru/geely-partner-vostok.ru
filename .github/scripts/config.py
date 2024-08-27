@@ -153,5 +153,21 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "Белый": "white.webp",
         }},
+    "X70": {
+        "folder": "Belgee X70",
+        "color": {
+            "Black": "black.webp",
+            "Черный": "black.webp",
+            "Blue": "blue.webp",
+            "Синий": "blue.webp",
+            "Gray": "gray.webp",
+            "Серый": "gray.webp",
+            "Red": "red.webp",
+            "Красный": "red.webp",
+            "Silver": "silver.webp",
+            "Серебристый": "silver.webp",
+            "White": "white.webp",
+            "Белый": "white.webp",
+        }},
     # ... добавьте другие модели по мере необходимости
 }
