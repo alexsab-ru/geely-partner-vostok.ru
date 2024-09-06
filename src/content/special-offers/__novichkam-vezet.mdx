@@ -8,6 +8,9 @@ breadcrumb: Техническое обслуживание с выгодой 50
 h1: Новичкам везет!
 ---
 import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <img src="/img/banners/novichkam-vezet/novichkam-vezet.webp" alt="Выгодное Техническое Обслуживание" class="w-full" />
 <br/>
@@ -15,7 +18,7 @@ import Button from '@/components/Button/Button.astro';
 Для всех новых клиентов <b>Geely ПАРТНЕР-ВОСТОК</b> делает специальное предложение&nbsp;&mdash; <b>выгоду&nbsp;50%</b> на&nbsp;услуги по&nbsp;техническому обслуживанию автомобиля.
 <br/>
 
-Более подробная информация в отделе сервисного обслуживания по телефону: <a href="tel:+73537223355">+7 (3537) 22-33-55</a>
+Более подробная информация в отделе сервисного обслуживания по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button 
