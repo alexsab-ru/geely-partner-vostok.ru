@@ -527,6 +527,48 @@
 			</multiposting>
 		<priceWithDiscount>2209990</priceWithDiscount><sale_price>2209990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-серый-2024/</url></car>
 		<car>
+			<unique_id>d4a3e73f49bf36a1fe3cfb225e8d3b89</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Comfort</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>2269990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31036RG034309</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/92aba54d124a992dbfa07fd089e86616.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/32e6d74a25e05f23c6fdbe389212f9f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/8f0306e202c2a9480b402bc2a3b59a0c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/aba5696fde30e083a3ace9c403a54770.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/e1964d986480eaa882ff3d1965175469.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/a2b9b980c1ea7a9db09ca83a14336356.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/b1971055b0eb4c0d2e88d720e556d765.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/5e15de5d2f3dab1aaa620d15968ede59.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/72e3e2859b047c57997420dbc2135809.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/4c675308e1289f33290424ca914d9b32.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/40e803150d5d0d8b5b7afd0beced1c36.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/1053f673881c8dc1216cf8111497a7ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/695c523cc78fa49196c88850fb7fa567.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2119990</priceWithDiscount><sale_price>2119990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
+		<car>
 			<unique_id>9bafa84ebe8ae2f94cb9e6f3639b2b9d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -571,47 +613,61 @@
 			</multiposting>
 		<priceWithDiscount>2119990</priceWithDiscount><sale_price>2119990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-желтый-2024/</url></car>
 		<car>
-			<unique_id>d4a3e73f49bf36a1fe3cfb225e8d3b89</unique_id>
+			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
 			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Comfort</complectation_name>
-			<body_type>Седан</body_type>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>4</run>
 			<year>2024</year>
-			<price>2269990</price>
+			<price>4774990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3F31036RG034309</vin>
+			<vin>LB37852D7RS067660</vin>
 			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/92aba54d124a992dbfa07fd089e86616.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/32e6d74a25e05f23c6fdbe389212f9f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/8f0306e202c2a9480b402bc2a3b59a0c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/aba5696fde30e083a3ace9c403a54770.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/e1964d986480eaa882ff3d1965175469.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/a2b9b980c1ea7a9db09ca83a14336356.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/b1971055b0eb4c0d2e88d720e556d765.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/5e15de5d2f3dab1aaa620d15968ede59.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/72e3e2859b047c57997420dbc2135809.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/4c675308e1289f33290424ca914d9b32.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/40e803150d5d0d8b5b7afd0beced1c36.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/1053f673881c8dc1216cf8111497a7ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/695c523cc78fa49196c88850fb7fa567.jpg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2119990</priceWithDiscount><sale_price>2119990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
+		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>0681cb75e30d91ef2d3be257cf869e4a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4574990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS135127</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4324990</priceWithDiscount><sale_price>4324990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
 			<unique_id>1d0cfc48c811bb7829dfb0cf7ff36086</unique_id>
 			<mark_id>Geely</mark_id>
@@ -697,18 +753,18 @@
 			</multiposting>
 		<priceWithDiscount>4324990</priceWithDiscount><sale_price>4324990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>307cafb005d8793b8ac24e832ca0bb37</unique_id>
+			<unique_id>41d8a278ebd0be7778edbdfc489d2ec8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Exclusive</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Синий</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -717,13 +773,41 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7RS067660</vin>
+			<vin>LB37852D3RS098369</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>77549a7ef573b9dbd7b7e28814504b86</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4774990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852DXRS141251</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
 			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
 			<mark_id>Geely</mark_id>
@@ -765,90 +849,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>77549a7ef573b9dbd7b7e28814504b86</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4774990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852DXRS141251</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>41d8a278ebd0be7778edbdfc489d2ec8</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4774990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS098369</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4524990</priceWithDiscount><sale_price>4524990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>0681cb75e30d91ef2d3be257cf869e4a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS135127</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4324990</priceWithDiscount><sale_price>4324990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
 			<unique_id>7c7a64ddcfa221de969670e51122aa3b</unique_id>
 			<mark_id>Geely</mark_id>
