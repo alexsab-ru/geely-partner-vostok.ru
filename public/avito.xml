@@ -12,7 +12,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -312,7 +312,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -914,53 +914,6 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY014535</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>f36b9859f1f66bf06ef36a038e3bbcad</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Preface, I Рестайлинг 2</folder_id>
@@ -1116,7 +1069,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1144,7 +1097,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1172,7 +1125,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1200,7 +1153,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1228,7 +1181,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -2616,7 +2569,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2644,7 +2597,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2672,7 +2625,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2700,7 +2653,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2728,7 +2681,7 @@ Geely Okavango — это идеальный выбор для тех, кто ц
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -5665,241 +5618,6 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<vin>L6TVX1S69RY094851</vin>
 			<description />
 			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY094535</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY094534</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY094533</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY094532</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>048f9312cb025e559bbc64cbff5d78c5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3479990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S67RY094531</vin>
-			<description>Ищете автомобиль, который сочетает в себе стиль, комфорт и передовые технологии? Тогда вам стоит обратить внимание на Geely Okavango в комплектации Flagship 2024 года.
-
-Этот автомобиль оснащён бензиновым двигателем объёмом 2.0 литра и мощностью 200 лошадиных сил, что обеспечивает ему отличную динамику и управляемость. Коробка передач — робот, который позволяет быстро и плавно переключать передачи.
-
-Geely Okavango отличается просторным и комфортабельным салоном. В нём есть всё необходимое для удобства водителя и пассажиров: регулировка руля по высоте и вылету, подогрев всех сидений, электростеклоподъёмники, светодиодные фары и многое другое.
-
-Автомобиль оснащён передовыми системами безопасности, включая адаптивный круиз-контроль, датчик давления в шинах, систему курсовой стабилизации и другие.
-
-Geely Okavango — это идеальный выбор для тех, кто ценит комфорт, безопасность и передовые технологии.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/1442ff436080f07e32a7331e55590182.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/0cc6e6016d0bb59591b066a48c24bf08.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/c44a5cf87374577325711eb073698319.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/6ce97e3c8909bca881f1bfad8f8a20d4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/045086abe1ecf08a79836938b2ef68f6.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/a5e7a134173a8e1ea5685d8e566a9753.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/5506a8c0a38683353d08ba99d58ec552.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/e64f218fc2daa9df024bf4d5973b82d0.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/dd8dfc090f3131870d11edb45fa8e04a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S67RY014535/48d4e61e385ec08a8ad5f7b821216c05.jpg</image>
-			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
