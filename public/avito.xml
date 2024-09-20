@@ -12,7 +12,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -284,7 +284,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -372,34 +372,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX530103</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>920e50481b954d085d80e758ec22881e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -604,7 +576,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -620,34 +592,6 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS142850</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>0681cb75e30d91ef2d3be257cf869e4a</unique_id>
 			<mark_id>Geely</mark_id>
@@ -936,7 +880,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
@@ -990,7 +934,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1018,7 +962,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1046,7 +990,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1074,7 +1018,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -1102,7 +1046,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3629990</price>
 			<credit_discount>0</credit_discount>
@@ -2350,7 +2294,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2378,7 +2322,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2406,7 +2350,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2434,7 +2378,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2462,7 +2406,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3123990</price>
 			<credit_discount>0</credit_discount>
@@ -2838,146 +2782,6 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX590103</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX590102</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX590101</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX590100</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>69da6a1d04dcef607a3e89b3b505b8a7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2749990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z8RX590099</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>920e50481b954d085d80e758ec22881e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -3950,7 +3754,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -3978,7 +3782,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -4006,7 +3810,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -4034,7 +3838,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -4062,7 +3866,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4774990</price>
 			<credit_discount>0</credit_discount>
@@ -4078,146 +3882,6 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS192850</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS192849</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS192848</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS192847</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>c3f586e0ce7f5d616194d7fa9e56bf5f</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в пути</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4574990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D4RS192846</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>0681cb75e30d91ef2d3be257cf869e4a</unique_id>
 			<mark_id>Geely</mark_id>
@@ -5610,7 +5274,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
@@ -5664,7 +5328,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
@@ -5718,7 +5382,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
@@ -5772,7 +5436,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
@@ -5826,7 +5490,7 @@ Geely Coolray — это идеальный выбор для тех, кто ц�
 			<metallic>да</metallic>
 			<availability>в пути</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>7</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
