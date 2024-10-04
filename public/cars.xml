@@ -1,62 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>bc551302227830f66e06504feec7719c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3793990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16RB101813</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3793990</priceWithDiscount><sale_price>3793990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-зеленый-2024/</url></car>
-		<car>
-			<unique_id>121e377a813248c7a30bf6f3d18933f6</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>3793990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S18RB081273</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3793990</priceWithDiscount><sale_price>3793990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
 			<unique_id>9491517a4c1350d068897a3a9a22608e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -112,6 +56,62 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3693990</priceWithDiscount><sale_price>3693990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>bc551302227830f66e06504feec7719c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3793990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB101813</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3793990</priceWithDiscount><sale_price>3793990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-зеленый-2024/</url></car>
+		<car>
+			<unique_id>121e377a813248c7a30bf6f3d18933f6</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>3793990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S18RB081273</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3793990</priceWithDiscount><sale_price>3793990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>1786092c32f3b5f2257ec1773c08ecaa</unique_id>
 			<mark_id>Geely</mark_id>
@@ -184,6 +184,97 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3361990</priceWithDiscount><sale_price>3361990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
+			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3466990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D3RB309783</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/6988baa38274c002c59eae2c05aecf7f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ff8f32d1d09c8dea42b6ecb8e388e375.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/11ca333402de90665760852bc24d7df4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ecdbd7b02b72eec380ec04a96f17cefa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/0b250d2986b0fbd9e2a838a30e1b5596.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/3fde663881a33bbc1f400b3f1dafe1b4.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>bd5809062e96d2fb2e224216afe1e126</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>3466990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722DXRB318416</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>9176ae1d10d76010874bcf1a1ef18691</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3466990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D8RB314994</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
 			<unique_id>3d7aa145beb00ae1f35c506ea5e7dab9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -284,97 +375,6 @@
 			</multiposting>
 		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
-			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3466990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D3RB309783</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/6988baa38274c002c59eae2c05aecf7f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ff8f32d1d09c8dea42b6ecb8e388e375.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/11ca333402de90665760852bc24d7df4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ecdbd7b02b72eec380ec04a96f17cefa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/0b250d2986b0fbd9e2a838a30e1b5596.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/3fde663881a33bbc1f400b3f1dafe1b4.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>bd5809062e96d2fb2e224216afe1e126</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>3466990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722DXRB318416</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>9176ae1d10d76010874bcf1a1ef18691</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3466990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D8RB314994</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
-		<car>
 			<unique_id>fca0ebaf667475bea72c634bd9765cda</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -403,34 +403,6 @@
 			</multiposting>
 		<priceWithDiscount>3161990</priceWithDiscount><sale_price>3161990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-luxury-серый-2024/</url></car>
 		<car>
-			<unique_id>82f92b264c8e42faebe3c35cbdd9eef2</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>2956990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z4RB321002</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2956990</priceWithDiscount><sale_price>2956990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-at-150-лс-luxury-белый-2024/</url></car>
-		<car>
 			<unique_id>aeeb049d3828c491361d89517c3213a3</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -458,6 +430,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2956990</priceWithDiscount><sale_price>2956990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-at-150-лс-luxury-серый-2024/</url></car>
+		<car>
+			<unique_id>82f92b264c8e42faebe3c35cbdd9eef2</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AT (150 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2956990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722Z4RB321002</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2956990</priceWithDiscount><sale_price>2956990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-at-150-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>52a56f9a0630663c6b9fd5f43a44cebe</unique_id>
 			<mark_id>Geely</mark_id>
@@ -600,6 +600,90 @@
 			</multiposting>
 		<priceWithDiscount>2322990</priceWithDiscount><sale_price>2322990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
 		<car>
+			<unique_id>bbc25b6e797713ea81ac368565f73adf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D3RS141205</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS160033</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS123290</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
 			<unique_id>01eab7c3e3e406672d026f31d1d67ac4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -627,6 +711,47 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D3RS030167</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/c06fc13c275d0c4bfb3d85ae4c3aa417.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/aa32f33f04eb416e3c3e37021b72a1c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/96cb8e99e3323f662037402daf541e4b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/2d023acb8353ede56eca29cb7deb4bbd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1fc4037536c70ca04d0b2f4fc8fb3eb5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/edd45ac26d06e8b518bb53b0235e8d37.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/da749b695dd52af60349968ed8479ae0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/083e7d801161bf91fac407579e6a236c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/fc2d064e79df3cb68fb92d48e0ab5736.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/7cf37c533284225a5cb4a6c6a0bb788e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>b5c917937683db370db6aeb56d041e3b</unique_id>
 			<mark_id>Geely</mark_id>
@@ -684,34 +809,6 @@
 			</multiposting>
 		<priceWithDiscount>4626990</priceWithDiscount><sale_price>4626990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>bbc25b6e797713ea81ac368565f73adf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4826990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS141205</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
 			<unique_id>c7eb4db4fe7b8b268102cca98208a9da</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -739,47 +836,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4626990</priceWithDiscount><sale_price>4626990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>4826990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS030167</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/c06fc13c275d0c4bfb3d85ae4c3aa417.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/aa32f33f04eb416e3c3e37021b72a1c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/96cb8e99e3323f662037402daf541e4b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/2d023acb8353ede56eca29cb7deb4bbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1fc4037536c70ca04d0b2f4fc8fb3eb5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/edd45ac26d06e8b518bb53b0235e8d37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/da749b695dd52af60349968ed8479ae0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/083e7d801161bf91fac407579e6a236c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/fc2d064e79df3cb68fb92d48e0ab5736.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/7cf37c533284225a5cb4a6c6a0bb788e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>52a4ddfd7a51b7c6890083a71fec09ab</unique_id>
 			<mark_id>Geely</mark_id>
@@ -830,62 +886,6 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852DXRS141251</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4826990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS160033</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4826990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS123290</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1137,7 +1137,7 @@
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2517990</priceWithDiscount><sale_price>2517990</sale_price><url>https://geely-partner-vostok.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car><car><unique_id>3ebeff077af544deed357bf0d1ff69a9</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>7</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S12RB108080</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b0448c060e9ccdeb9160a79fbdcfe74f.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/810759d27d0d299c1dab729a1503a6e4.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/89e487a801d13db510ae8fbb78d609ae.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5c9c9ecce5cfd98771180230a2967d94.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/610be3fb8c94b14b02557cc2fe82e757.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b4071909ea544cb83a567113607fcade.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/532efe3f13d3eea103a21ffc5e209d8c.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/41f75fff9d717fa0ed055a8fe45246ed.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/8dce45952cb670b6e55928cd3d7c27c9.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/5cd931d7ab55b1c96bba9e51c3d372c2.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/e64132755e737dd139bbc44d25458f96.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/3af8b2523574fb15c437a0549fe017d8.jpeg</image><image>https://photo.toyotasever.ru/Y4K8722D5RB322566/b46f4cb61651d1c48c9a634866b6daa6.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2517990</priceWithDiscount><sale_price>2517990</sale_price><url>https://geely-partner-vostok.ru/cars/belgee-x70-15-amt-177-лс-4wd-style-белый-2024/</url></car><car><unique_id>85b92d1f2a7d1df7e77d56be937de064</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>Зелёный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><run>44</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S15RB100426</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
 
 B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
 
@@ -1182,7 +1182,7 @@ Geely Atlas II оснащён современными технологиями,
 
 Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
 
-Не упустите возможность стать обладателем этого замечательного автомобиля!</description><images><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/76924ab96ebcfd80a01bbddf86a74b90.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/5952b7223c77c2b716a437e7a6628745.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/c0fe65d299905951b97ae377f5a949fd.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/ab55f3e0923cdea5938b2590f652462e.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b719947d99a6ae72e2b1d697aea4f314.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/d1931a7dda46ce8f978f311c81ae6760.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b69b82bfaa85b52b8bf042c6c5888207.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b872757ed790a821e39184b44ca920b2.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/2436468c0b89d894d17562678ccf2515.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/501e46ead9feedfc0b5ff089eea7389a.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/929b6cb6cb42b1f897d8db65f4bb5d53.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/468fd3354dddc2194fd7dc0dcd262a58.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/5135c2863679e6907c0af7e1990900ad.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/3523e4ea2adc66909d10fe029110ab46.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>3443990</priceWithDiscount><sale_price>3443990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car><car><unique_id>85b92d1f2a7d1df7e77d56be937de064</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>Зелёный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><run>44</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S15RB100426</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description><images><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/4c3fd8a3d7be02ea0d9f8d2d7f16f477.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/eb8136ac5beb373c2e380e1a7eeee013.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/1405240ce75aa6333d73951266a2d1dc.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/1e31e37830b71107952871e09b04134e.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/f7b5ff4d4c1637ef35e26f4e1892132d.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/2f662629f7216fd8e5e6bf470ef99458.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/93aedaea8143010cc7d710175fdd771d.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/80e48ae59da284307cb9cc45f56c2d21.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/274f8b684e1d3f6b7dcbf2cb409a146b.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/832fd9d0092c0124fa8a6ffab71d236f.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/0b4da8775aca4c46757e52af7eec0c56.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/4c325ee79c6c1e8438e3c1907e4f1c23.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/64ab5a649f97063e6ad8b8cc7bb60361.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>3443990</priceWithDiscount><sale_price>3443990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-зелёный-2024/</url></car><car><unique_id>3ebeff077af544deed357bf0d1ff69a9</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>7</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S12RB108080</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
 
 B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
 
@@ -1227,7 +1227,7 @@ Geely Atlas II оснащён современными технологиями,
 
 Элегантный дизайн и стильные детали, такие как светодиодные фары, 20-дюймовые диски и панорамная крыша, придают Geely Atlas II особый шарм.
 
-Не упустите возможность стать обладателем этого замечательного автомобиля!</description><images><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/4c3fd8a3d7be02ea0d9f8d2d7f16f477.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/eb8136ac5beb373c2e380e1a7eeee013.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/1405240ce75aa6333d73951266a2d1dc.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/1e31e37830b71107952871e09b04134e.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/f7b5ff4d4c1637ef35e26f4e1892132d.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/2f662629f7216fd8e5e6bf470ef99458.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/93aedaea8143010cc7d710175fdd771d.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/80e48ae59da284307cb9cc45f56c2d21.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/274f8b684e1d3f6b7dcbf2cb409a146b.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/832fd9d0092c0124fa8a6ffab71d236f.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/0b4da8775aca4c46757e52af7eec0c56.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/4c325ee79c6c1e8438e3c1907e4f1c23.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S15RB100426/64ab5a649f97063e6ad8b8cc7bb60361.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>3443990</priceWithDiscount><sale_price>3443990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-зелёный-2024/</url></car><car><unique_id>942d92b1b388314205647c069d7a6c04</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>6</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S16RB081434</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
+Не упустите возможность стать обладателем этого замечательного автомобиля!</description><images><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/76924ab96ebcfd80a01bbddf86a74b90.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/5952b7223c77c2b716a437e7a6628745.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/c0fe65d299905951b97ae377f5a949fd.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/ab55f3e0923cdea5938b2590f652462e.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b719947d99a6ae72e2b1d697aea4f314.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/d1931a7dda46ce8f978f311c81ae6760.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b69b82bfaa85b52b8bf042c6c5888207.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/b872757ed790a821e39184b44ca920b2.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/2436468c0b89d894d17562678ccf2515.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/501e46ead9feedfc0b5ff089eea7389a.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/929b6cb6cb42b1f897d8db65f4bb5d53.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/468fd3354dddc2194fd7dc0dcd262a58.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/5135c2863679e6907c0af7e1990900ad.jpeg</image><image>https://photo.toyotasever.ru/LB3FX1S12RB108080/3523e4ea2adc66909d10fe029110ab46.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>3443990</priceWithDiscount><sale_price>3443990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car><car><unique_id>942d92b1b388314205647c069d7a6c04</unique_id><mark_id>Geely</mark_id><folder_id>Atlas, II</folder_id><modification_id>2.0 AT (200 л.с.) 4WD</modification_id><complectation_name>Flagship Sport</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>6</run><year>2024</year><price>3793990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3FX1S16RB081434</vin><description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
 
 B наличии HOBЫЙ ATLАS , 2024 года, в кoмплeктации Flаgshiр Sport.
 
@@ -1686,7 +1686,7 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31032PG027015/899dac1717b4fb2e97d4b25fcda3e5c7.jpg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>1972990</priceWithDiscount><sale_price>1972990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car><car><unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>9</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31036PG028510</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31032PG027015/899dac1717b4fb2e97d4b25fcda3e5c7.jpg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>1972990</priceWithDiscount><sale_price>1972990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2023/</url></car><car><unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>11</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31034PG028425</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely Emgrand, 2023 года, в комплектации Flagship.
 
@@ -1708,7 +1708,7 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>Оранжевый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>38</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31031PG020010</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31034PG028425/c94e4b43990c45c2f8bcdfba12f02dd3.jpg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/a87a8436220759efc2272a0c896b7151.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/707c30a03a0798380964f7d11698d0e0.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/0edcd23d8103848973f75c25e40b48dc.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/5ada2b7a30539bc3095151f8ab33a8ef.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/d371a4196ffc656fcebbc688e416f73b.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/09f563dfff08915b2e7f787fe8891359.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>d2cc6017b08e0b4e991fd604f30cf76e</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>9</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31036PG028510</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely Emgrand, 2023 года, в комплектации Flagship.
 
@@ -1730,29 +1730,7 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car><car><unique_id>c403b9e67b155ba14bbf2f824d003e35</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>БЕЛЫЙ</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>11</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31034PG028425</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely Emgrand, 2023 года, в комплектации Flagship.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Стоимость автомобиля 2 592 990 рублей (без учета установленного дополнительного оборудования)
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31034PG028425/c94e4b43990c45c2f8bcdfba12f02dd3.jpg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/a87a8436220759efc2272a0c896b7151.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/707c30a03a0798380964f7d11698d0e0.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/0edcd23d8103848973f75c25e40b48dc.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/5ada2b7a30539bc3095151f8ab33a8ef.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/d371a4196ffc656fcebbc688e416f73b.jpeg</image><image>https://photo.toyotasever.ru/LB3F31034PG028425/09f563dfff08915b2e7f787fe8891359.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>804d43edb62ede8e2153765ce092e073</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>Бежевый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>6</run><year>2024</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31037RG040734</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31036PG028510/9fec671b8b3ddcfb254a0fe4648587c7.jpg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/fff3a144a593afdc96caf4f2fb157403.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/17171512106389ef6e09e2d8b6a74259.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/44f521f44637c8981bc8863086be2519.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/e1c78bd78f51a3ce82de75661ef10bbc.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/cbf1bd746249aa13dd0ff295d74a1e17.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/2e1acbd3d2bd1851d61d9c3f236d138b.jpeg</image><image>https://photo.toyotasever.ru/LB3F31036PG028510/e41295e1208b22b3b0455e55e5259b5c.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>804d43edb62ede8e2153765ce092e073</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>Бежевый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>6</run><year>2024</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31037RG040734</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely Emgrand, 2024 года, в комплектации Flagship.
 
@@ -1796,7 +1774,29 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F3103XPG028252/0b641a5472cd9d9bafc53f80d8ad901e.jpg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/a9558157990eff3cdf9f813ac262e35d.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/34a312950da8b9ee601e7f27389eda81.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/14a35ef29b9a32c99da5d1642da99f35.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/ed68a425bd79e7bb153f9255d19d9e18.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/5fe34bdd736f3cff1cae70e34ed9a811.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/3f07f914adf1bc1985d410fb567e89c6.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/e2cf168ffa98bfdf9cbc90820741bce7.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>83d7f7ff256015f504d6fae8209d36db</unique_id><mark_id>Geely</mark_id><folder_id>Monjaro</folder_id><modification_id>2.0 AT (238 л.с.) 4WD</modification_id><complectation_name>Exclusive</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>Синий</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><run>7</run><year>2024</year><price>4826990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><optional_discount>0</optional_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>LB37852D5RS124504</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F3103XPG028252/0b641a5472cd9d9bafc53f80d8ad901e.jpg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/a9558157990eff3cdf9f813ac262e35d.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/34a312950da8b9ee601e7f27389eda81.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/14a35ef29b9a32c99da5d1642da99f35.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/ed68a425bd79e7bb153f9255d19d9e18.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/5fe34bdd736f3cff1cae70e34ed9a811.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/3f07f914adf1bc1985d410fb567e89c6.jpeg</image><image>https://photo.toyotasever.ru/LB3F3103XPG028252/e2cf168ffa98bfdf9cbc90820741bce7.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-белый-2023/</url></car><car><unique_id>bc9a94595a4f4c38dfc8ad27987eb690</unique_id><mark_id>Geely</mark_id><folder_id>Emgrand, II</folder_id><modification_id>1.5 AT (122 л.с.)</modification_id><complectation_name>Flagship</complectation_name><body_type>Седан</body_type><wheel>левый</wheel><color>Оранжевый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><run>38</run><year>2023</year><price>2592990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><optional_discount>0</optional_discount><max_discount>350000</max_discount><currency>RUR</currency><vin>LB3F31031PG020010</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely Emgrand, 2023 года, в комплектации Flagship.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Стоимость автомобиля 2 592 990 рублей (без учета установленного дополнительного оборудования)
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description><images><image>https://photo.toyotasever.ru/LB3F31031PG020010/ff6d7bf921108379389f8acc9ced16b5.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/15f7164d87831a8b29838132ba9b5a87.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/14efb389722d324c413428bc7a466668.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/86cfc2d97ad84757e31e6e5e2cd341f8.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/71f23a4b8befedc73c365c41b3e3b9e0.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/84de38cd295a04912c528e87e3550bda.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/088eb8b42991b8f6d1c509f330bdf38c.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/ecda475b9683a58625fc2dc9adf8ec62.jpeg</image><image>https://photo.toyotasever.ru/LB3F31031PG020010/1b31ab9565112dc1fc839e0189862c99.jpeg</image></images><multiposting><classifieds>autoru,avito</classifieds></multiposting><priceWithDiscount>2242990</priceWithDiscount><sale_price>2242990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-оранжевый-2023/</url></car><car><unique_id>83d7f7ff256015f504d6fae8209d36db</unique_id><mark_id>Geely</mark_id><folder_id>Monjaro</folder_id><modification_id>2.0 AT (238 л.с.) 4WD</modification_id><complectation_name>Exclusive</complectation_name><body_type>Внедорожник 5 дв.</body_type><wheel>левый</wheel><color>Синий</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><run>7</run><year>2024</year><price>4826990</price><credit_discount>200000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><optional_discount>0</optional_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>LB37852D5RS124504</vin><description>ПАРТНЕР - новый официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, 2024 года, в комплектации Exclusive.
 
