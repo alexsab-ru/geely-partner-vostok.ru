@@ -628,7 +628,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
 		<car>
-			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
+			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -639,7 +639,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4826990</price>
 			<credit_discount>0</credit_discount>
@@ -648,7 +648,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7RS123290</vin>
+			<vin>LB37852D7RS160033</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -865,7 +865,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
+			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -876,7 +876,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4826990</price>
 			<credit_discount>0</credit_discount>
@@ -885,7 +885,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7RS160033</vin>
+			<vin>LB37852D7RS123290</vin>
 			<description />
 			<images />
 			<multiposting>
