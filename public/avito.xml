@@ -169,6 +169,34 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
+			<unique_id>5e94759fc4065b41bd21370492891e69</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>1</run>
+			<year>2024</year>
+			<price>3431990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>270000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D6RB324651</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>f2a75499afa9f62c82a9e18acc4634fa</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -664,7 +692,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>2367990</price>
 			<credit_discount>0</credit_discount>
@@ -1164,7 +1192,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>10</run>
 			<year>2023</year>
 			<price>4289990</price>
 			<credit_discount>0</credit_discount>
