@@ -731,7 +731,21 @@
 			<currency>RUR</currency>
 			<vin>LB37852DXRS141251</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/46fb179ba2353f72994dedf675f865ab.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/ad4cd25e31a74320f8e9c67d730e44e5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/2b2142d1061dcfb2d90c7a503629fab9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/8ae566cb9b16b95fda818e851905eb19.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/481376bf8c8c0456baf9adf249931ad9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/bdf6812f952609d6fd3b89ae1fa8cab0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/29dcad325e9c8043478a3b64a2799141.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/91bd489b46a5692af50c975be5a058c4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/57c388cd6aaadbd26ae38eb4e364e2f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/8421ca0ff17c05ebe687b1a1d6180138.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/818f8346f9b25c3ea64e38875ece39f0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/759179d48e2ce7a8652034667c4c956d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS141251/771967130d7dd87da549ec0e5a7b81e0.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
