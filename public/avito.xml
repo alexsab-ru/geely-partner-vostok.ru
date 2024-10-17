@@ -622,7 +622,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2457990</price>
 			<credit_discount>0</credit_discount>
@@ -720,7 +720,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>0</credit_discount>
@@ -1139,9 +1139,9 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
-			<price>3798990</price>
+			<price>3748990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1150,7 +1150,22 @@
 			<currency>RUR</currency>
 			<vin>L6TVX1S6XRY029871</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/2a9c48e2ab3dfb2bcde9e0d9153e9ef2.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/c908a59044d290bcd58c3b019207c5cb.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/cd9e919f48b7c540311e55ba12709fd7.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/54c3c046efb70147623d0a9179b05153.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/c542b6a04d7216b8196a3073d4836bc1.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/9046d426176121224866a815f391227b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/10afb2aeb8288a9f0841a7b0df2e2b6f.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/d14f52d3f5c9fedca1c0435d2cae5b51.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/e047b605565303fdf8b0736b70867e29.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/0612bea0f841a928137d2e70cc4ccb94.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/0adf42a26b9ce5d3ec5fee8b654d47fd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/c1ba1482aa48863dee9f83f889caa2f8.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/e741696e4f3bf6ae2546fe0dd3af8748.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S6XRY029871/1d70e5d1900e344e9b346f0f32b0eb89.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
