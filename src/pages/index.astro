@@ -16,6 +16,7 @@ import models from '@/data/models.json'
 import salons from '@/data/salons.json'
 const modelsWithComplectations = models.filter(m => (m?.complectations !== undefined && m?.complectations.length))
 const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(', ');
+import SeoText from '@/components/Seo/Index.astro';
 ---
 
 <Layout title="GEELY Партнер-Восток - Официальный дилер Джили в Орске" description="Автомобили GEELY в наличии и с ПТС. Пройдите тест-драйв уже сегодня!">
@@ -27,6 +28,7 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="bg-gray-100" />
 	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services />
+	<SeoText mdx="index" />
 	<Contacts
 		mapImg="/img/map-bg.webp"
 		title="Наши контакты"
