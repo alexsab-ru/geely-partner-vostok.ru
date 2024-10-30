@@ -869,51 +869,6 @@
 			</multiposting>
 		<priceWithDiscount>3266990</priceWithDiscount><sale_price>3266990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
-			<unique_id>fca0ebaf667475bea72c634bd9765cda</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3231990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D4RB323627</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/d240e65ca5aabd8a9f2f339516732a31.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/34d6b345d9c02507ee692001b6df8cc2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/c5d4a38a4f74423f2110ed909fea9765.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/6a4a184d018494d61ef7eb2121d5ee16.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/c2f54c7a9f0509caa80531ea739cb5a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/7e855dcdb6bbb246eaefe619378606f6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/18c5576399df0b26b709f3a13ed0aed0.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/77b19c52925d18d87676787eb3e726ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/fefb826afa4ef86ce87fed51310c9ae2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/8f71962dd419710cfff48519d7266425.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/c7f2c8bb67e077cfba5b6843b31be532.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/0c0184c7f390cc2fe4e6956569603e09.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/bd6bcae3161b3656e125e5a64ba84e95.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/fcc1c061f2f241b6e161e2dc814743e9.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/5d42a493c16b5d95aa3911aaa2078fec.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB323627/2e2141b293ea2fbea59d663bda799034.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2961990</priceWithDiscount><sale_price>2961990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-luxury-серый-2024/</url></car>
-		<car>
 			<unique_id>6227b1ac8fd5b2f4fae8892331e0c431</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
