@@ -191,18 +191,18 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>def3072f8e3d2a0e544c997d38158156</unique_id>
+			<unique_id>971b8a7d41d21b27ae8b45fa68bd355f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>да</metallic>
+			<color>Белый</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3624190</price>
 			<credit_discount>0</credit_discount>
@@ -211,28 +211,23 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S12RB108533</vin>
+			<vin>LB3FX1S16RB112195</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/d008ec93b5495fd020830f92f5f8d865.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/602e2b667d44a573fcdcc54bb118ecb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/dc7b0a0969482280d2bd51d76d9f8954.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/f830c9f51f91654c546744b0f3f9dd9f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/5347dd41faf27fa99464ac72efa6cd1c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/1256cd6b590676079fdae69ec9ad708a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/c366ca1942551762b54bb76b50cead9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b2fe86a2bbcc9f9975ecb7a81d1fd5a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/3b1fd4c0d6fbdd51cc96c70c31132d39.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b8da07cc7f57baa353e5a011d788a49e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/242021237560df4b2b01c4e9ed519f4d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6d20350e5cd1b08393ae32d47661b774.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6978faf76f7443e8b740c7db3da7cc83.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6a3ff50d42ee396594a5f2d632278198.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/0d82bdf15e4be07fa7a95cf44ff7f635.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/14e494caf0cd1e85fd769c6c733b74d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/6dcc7f8592b13790318ee7da962f1307.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/f857570748cd6431c8fe9f983f8e6989.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/3cc29e8409843c3a7c5740c395f5f4d5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/051ce77f2d00b449266570bffef52434.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/c096ce7ae3592b9afd3d2f0811dc8137.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/7682ed8e755cfd522e586c66cdfd3eb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/8701357d7a62768a4de36a7a42d34b0a.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-зеленый-2024/</url></car>
+		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>8b7bc05ef4c91c939c9ccf526c8ef983</unique_id>
 			<mark_id>Geely</mark_id>
@@ -331,18 +326,18 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
-			<unique_id>971b8a7d41d21b27ae8b45fa68bd355f</unique_id>
+			<unique_id>def3072f8e3d2a0e544c997d38158156</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Зеленый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>3624190</price>
 			<credit_discount>0</credit_discount>
@@ -351,23 +346,28 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S16RB112195</vin>
+			<vin>LB3FX1S12RB108533</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/0d82bdf15e4be07fa7a95cf44ff7f635.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/14e494caf0cd1e85fd769c6c733b74d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/6dcc7f8592b13790318ee7da962f1307.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/f857570748cd6431c8fe9f983f8e6989.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/3cc29e8409843c3a7c5740c395f5f4d5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/051ce77f2d00b449266570bffef52434.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/c096ce7ae3592b9afd3d2f0811dc8137.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/7682ed8e755cfd522e586c66cdfd3eb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/8701357d7a62768a4de36a7a42d34b0a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/d008ec93b5495fd020830f92f5f8d865.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/602e2b667d44a573fcdcc54bb118ecb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/dc7b0a0969482280d2bd51d76d9f8954.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/f830c9f51f91654c546744b0f3f9dd9f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/5347dd41faf27fa99464ac72efa6cd1c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/1256cd6b590676079fdae69ec9ad708a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/c366ca1942551762b54bb76b50cead9b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b2fe86a2bbcc9f9975ecb7a81d1fd5a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/3b1fd4c0d6fbdd51cc96c70c31132d39.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b8da07cc7f57baa353e5a011d788a49e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/242021237560df4b2b01c4e9ed519f4d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6d20350e5cd1b08393ae32d47661b774.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6978faf76f7443e8b740c7db3da7cc83.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6a3ff50d42ee396594a5f2d632278198.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-зеленый-2024/</url></car>
 		<car>
 			<unique_id>f2a75499afa9f62c82a9e18acc4634fa</unique_id>
 			<mark_id>Geely</mark_id>
@@ -945,51 +945,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-голубой-2024/</url></car>
 		<car>
-			<unique_id>83a727e0d463b3de4c0429e094064449</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2457990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31037RG038286</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/8fea7e418a9083f2da43ee2432fa03b1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/da9a7b9f066e9f442545d9c0780c4cbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/97209e846ff845bbbc7b7c5d5ebf72b1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/4f5444e65542ccaec1ae6ac0c03007bf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/e61348680c0925ed3de6d2f1c57356a7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/46e8e290f5ee34d1d1ebb81ba4e809fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/2edca9f0717c4a0cfa5cd1624eb93c9c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6c309176b669b5ef05f43b0c7f4a1408.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/3d442efc4a6d3b83f371d8a836ee0a89.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/f24793d3a411981fd04615575831f7ed.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/d9e9e2017a18fe91a7af8df7e7d9a026.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/9705d19f675e4435457ab0188cf622ab.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/2f58d5cdae216fa554b5897c5818e34d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6ad62f4fe02bf3c9320ba081d74dc58a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/8832922ee4eeab70f2e366096c11f98f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6268dfa021c4edc1e6d123f3ff854792.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-серый-2024/</url></car>
-		<car>
 			<unique_id>4cb52565ef6ed1306f691024cb10bea8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -1037,6 +992,93 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
+			<unique_id>83a727e0d463b3de4c0429e094064449</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>2457990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31037RG038286</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/8fea7e418a9083f2da43ee2432fa03b1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/da9a7b9f066e9f442545d9c0780c4cbd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/97209e846ff845bbbc7b7c5d5ebf72b1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/4f5444e65542ccaec1ae6ac0c03007bf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/e61348680c0925ed3de6d2f1c57356a7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/46e8e290f5ee34d1d1ebb81ba4e809fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/2edca9f0717c4a0cfa5cd1624eb93c9c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6c309176b669b5ef05f43b0c7f4a1408.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/3d442efc4a6d3b83f371d8a836ee0a89.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/f24793d3a411981fd04615575831f7ed.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/d9e9e2017a18fe91a7af8df7e7d9a026.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/9705d19f675e4435457ab0188cf622ab.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/2f58d5cdae216fa554b5897c5818e34d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6ad62f4fe02bf3c9320ba081d74dc58a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/8832922ee4eeab70f2e366096c11f98f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31037RG038286/6268dfa021c4edc1e6d123f3ff854792.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-серый-2024/</url></car>
+		<car>
+			<unique_id>d4a3e73f49bf36a1fe3cfb225e8d3b89</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Comfort</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>2367990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31036RG034309</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/92aba54d124a992dbfa07fd089e86616.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/32e6d74a25e05f23c6fdbe389212f9f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/8f0306e202c2a9480b402bc2a3b59a0c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/aba5696fde30e083a3ace9c403a54770.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/e1964d986480eaa882ff3d1965175469.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/a2b9b980c1ea7a9db09ca83a14336356.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/b1971055b0eb4c0d2e88d720e556d765.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/5e15de5d2f3dab1aaa620d15968ede59.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/72e3e2859b047c57997420dbc2135809.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/4c675308e1289f33290424ca914d9b32.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/40e803150d5d0d8b5b7afd0beced1c36.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/1053f673881c8dc1216cf8111497a7ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31036RG034309/695c523cc78fa49196c88850fb7fa567.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
+		<car>
 			<unique_id>6ea2a44a979fbc267b1f2f6ddab5cd5d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Emgrand, II</folder_id>
@@ -1083,48 +1125,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
-		<car>
-			<unique_id>d4a3e73f49bf36a1fe3cfb225e8d3b89</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Comfort</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2367990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31036RG034309</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/92aba54d124a992dbfa07fd089e86616.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/32e6d74a25e05f23c6fdbe389212f9f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/8f0306e202c2a9480b402bc2a3b59a0c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/aba5696fde30e083a3ace9c403a54770.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/e1964d986480eaa882ff3d1965175469.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/a2b9b980c1ea7a9db09ca83a14336356.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/b1971055b0eb4c0d2e88d720e556d765.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/5e15de5d2f3dab1aaa620d15968ede59.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/72e3e2859b047c57997420dbc2135809.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/4c675308e1289f33290424ca914d9b32.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/40e803150d5d0d8b5b7afd0beced1c36.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/1053f673881c8dc1216cf8111497a7ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31036RG034309/695c523cc78fa49196c88850fb7fa567.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-белый-2024/</url></car>
 		<car>
 			<unique_id>bbc25b6e797713ea81ac368565f73adf</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1662,48 +1662,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-черный-2024/</url></car>
 		<car>
-			<unique_id>70661651ae2e9397a231453be08d82f3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3806190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S61RY037230</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/313f86615a8538da06d83c960e173dd3.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0b333daaeea645e2a50f8eb73b9fea2d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f35ea0cf778409075871dc1559f69581.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/11c5e584aceda23691410953082dd3c7.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/78500bfb208a82e4efdda67025c6cf3a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/6e82a6294d65a98bdd07f79253faf463.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/518247137d15ee76d28782f080f282e2.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a403497725759ae2fc6e974a9bdeb679.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/5bac5b922fe0a875d760ea6a7720eb3d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e65b4840ea55aa61fe91e9bf68d03f4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e3165f590f8a966a8592a1f6e18edbdd.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/eba7d31ae1216e506516ef4f5978274e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/4258bbe8e1e11190afb645973a54f422.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
-		<car>
 			<unique_id>62b748120495992db26dadec80c0170d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango</folder_id>
@@ -1746,6 +1704,48 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>70661651ae2e9397a231453be08d82f3</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango</folder_id>
+			<modification_id>2.0 AMT (218 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3806190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S61RY037230</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/313f86615a8538da06d83c960e173dd3.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0b333daaeea645e2a50f8eb73b9fea2d.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f35ea0cf778409075871dc1559f69581.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/11c5e584aceda23691410953082dd3c7.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/78500bfb208a82e4efdda67025c6cf3a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/6e82a6294d65a98bdd07f79253faf463.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/518247137d15ee76d28782f080f282e2.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a403497725759ae2fc6e974a9bdeb679.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/5bac5b922fe0a875d760ea6a7720eb3d.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e65b4840ea55aa61fe91e9bf68d03f4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e3165f590f8a966a8592a1f6e18edbdd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/eba7d31ae1216e506516ef4f5978274e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/4258bbe8e1e11190afb645973a54f422.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>f36b9859f1f66bf06ef36a038e3bbcad</unique_id>
 			<mark_id>Geely</mark_id>
