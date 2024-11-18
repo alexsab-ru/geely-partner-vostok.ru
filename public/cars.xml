@@ -1,53 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>6a15b1ec3e3d8a7863713faf2655f811</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3724190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S66RB110040</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/bbb9f8811dddfc7ae447587fca46f106.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/4f443b1131a301365083ed459571a877.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/6dbcd4158a41d097699612ec97a0bd47.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/f2bf51de6f2f89f0e1dca844973ff475.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/b31880ee1f37779251fba2dcc772e175.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/dcfdd7a33c83e515c4b07abbee298717.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/3428644c45831a1c5cfb88890347a566.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/4df84ce58c7e75c35ce7bcd69bacca9c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/faa3a2a7f6b09cac21dd6e22d58cedba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/67fd3c0f7f7f20259f311e367d784c19.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/9f812f39a0bca2ef8bef2452fbeb8cd9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/bbe341298f88621dec26896901866023.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/1d370639be249ce70a2d8a7514d9c02f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/d55beaa123f51d32c97e836adec24794.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/6beaa0d23586cb813fb76130cf514d3f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/d89bc3fdcd901edf2cd581a24122dd7b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/813c85eea5554acadc2493802a18d2d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/c0a53cf7c84c2d0c55fe56007ac58b6a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3574190</priceWithDiscount><sale_price>3574190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
-		<car>
 			<unique_id>e46c0e841f79323480fc3f2b4f68dc27</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -98,6 +51,53 @@
 			</multiposting>
 		<priceWithDiscount>3474190</priceWithDiscount><sale_price>3474190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
+			<unique_id>6a15b1ec3e3d8a7863713faf2655f811</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3724190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S66RB110040</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/bbb9f8811dddfc7ae447587fca46f106.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/4f443b1131a301365083ed459571a877.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/6dbcd4158a41d097699612ec97a0bd47.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/f2bf51de6f2f89f0e1dca844973ff475.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/b31880ee1f37779251fba2dcc772e175.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/dcfdd7a33c83e515c4b07abbee298717.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/3428644c45831a1c5cfb88890347a566.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/4df84ce58c7e75c35ce7bcd69bacca9c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/faa3a2a7f6b09cac21dd6e22d58cedba.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/67fd3c0f7f7f20259f311e367d784c19.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/9f812f39a0bca2ef8bef2452fbeb8cd9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/bbe341298f88621dec26896901866023.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/1d370639be249ce70a2d8a7514d9c02f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/d55beaa123f51d32c97e836adec24794.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/6beaa0d23586cb813fb76130cf514d3f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/d89bc3fdcd901edf2cd581a24122dd7b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/813c85eea5554acadc2493802a18d2d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S66RB110040/c0a53cf7c84c2d0c55fe56007ac58b6a.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3574190</priceWithDiscount><sale_price>3574190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
+		<car>
 			<unique_id>1cfe6520ddd111b03c744294a574c71b</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -125,53 +125,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3574190</priceWithDiscount><sale_price>3574190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серебристый-2024/</url></car>
-		<car>
-			<unique_id>be302b9ea2b7564798688c1b304ea351</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3724190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S68RB108788</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/eda6351a6554ba26ad56801f8322e230.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/b41341c570ec02359686d32b3dad89e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/2aa83560d57fc7865d116cbc06f86123.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/000083d83ee121d325262345cb5408f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/bb2060db45ff2e4244d3f0210a1a2e7e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/090498b6d6e9b75ed8aa7093197d15b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/79d061159b6becbeed6c5cffabb5ab1b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/5dc6489edb571c42af86c236edd405e3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/2a0cf9153641901bb42bf4724144081e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/1058e2bb6408c3ba8db4da2ab0f07c11.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/0c9d98a09610b8d80cdbcf1a8b02354c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/840d9f7126152ca1c941b192012fa8b4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/a4fc86b0b6b3fb341aa646480d675f3f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/468a8798828615992217952d29ccece2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/01b4958c42e4c5e4a936800d85827db8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/b6c1adaed55e130659b3aef5a8749fc9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/f2a928647fe709085eea97ac76af728e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/c434a91369caa3a50afef06d7fc1c3bf.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3574190</priceWithDiscount><sale_price>3574190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>7dbd82b2f22c101b176b437bf6e205d4</unique_id>
 			<mark_id>Geely</mark_id>
@@ -219,43 +172,52 @@
 			</multiposting>
 		<priceWithDiscount>3774190</priceWithDiscount><sale_price>3774190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>971b8a7d41d21b27ae8b45fa68bd355f</unique_id>
+			<unique_id>be302b9ea2b7564798688c1b304ea351</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
+			<complectation_name>Flagship Sport</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>4</run>
 			<year>2024</year>
-			<price>3624190</price>
+			<price>3724190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S16RB112195</vin>
+			<vin>LB3FX1S68RB108788</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/0d82bdf15e4be07fa7a95cf44ff7f635.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/14e494caf0cd1e85fd769c6c733b74d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/6dcc7f8592b13790318ee7da962f1307.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/f857570748cd6431c8fe9f983f8e6989.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/3cc29e8409843c3a7c5740c395f5f4d5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/051ce77f2d00b449266570bffef52434.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/c096ce7ae3592b9afd3d2f0811dc8137.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/7682ed8e755cfd522e586c66cdfd3eb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/8701357d7a62768a4de36a7a42d34b0a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/eda6351a6554ba26ad56801f8322e230.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/b41341c570ec02359686d32b3dad89e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/2aa83560d57fc7865d116cbc06f86123.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/000083d83ee121d325262345cb5408f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/bb2060db45ff2e4244d3f0210a1a2e7e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/090498b6d6e9b75ed8aa7093197d15b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/79d061159b6becbeed6c5cffabb5ab1b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/5dc6489edb571c42af86c236edd405e3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/2a0cf9153641901bb42bf4724144081e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/1058e2bb6408c3ba8db4da2ab0f07c11.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/0c9d98a09610b8d80cdbcf1a8b02354c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/840d9f7126152ca1c941b192012fa8b4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/a4fc86b0b6b3fb341aa646480d675f3f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/468a8798828615992217952d29ccece2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/01b4958c42e4c5e4a936800d85827db8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/b6c1adaed55e130659b3aef5a8749fc9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/f2a928647fe709085eea97ac76af728e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/c434a91369caa3a50afef06d7fc1c3bf.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>3474190</priceWithDiscount><sale_price>3474190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<priceWithDiscount>3574190</priceWithDiscount><sale_price>3574190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>8b7bc05ef4c91c939c9ccf526c8ef983</unique_id>
 			<mark_id>Geely</mark_id>
@@ -354,6 +316,44 @@
 			</multiposting>
 		<priceWithDiscount>3474190</priceWithDiscount><sale_price>3474190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
+			<unique_id>971b8a7d41d21b27ae8b45fa68bd355f</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>3624190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S16RB112195</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/0d82bdf15e4be07fa7a95cf44ff7f635.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/14e494caf0cd1e85fd769c6c733b74d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/6dcc7f8592b13790318ee7da962f1307.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/f857570748cd6431c8fe9f983f8e6989.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/3cc29e8409843c3a7c5740c395f5f4d5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/051ce77f2d00b449266570bffef52434.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/c096ce7ae3592b9afd3d2f0811dc8137.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/7682ed8e755cfd522e586c66cdfd3eb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16RB112195/8701357d7a62768a4de36a7a42d34b0a.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3474190</priceWithDiscount><sale_price>3474190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<car>
 			<unique_id>def3072f8e3d2a0e544c997d38158156</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -396,51 +396,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3474190</priceWithDiscount><sale_price>3474190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-зеленый-2024/</url></car>
-		<car>
-			<unique_id>f2a75499afa9f62c82a9e18acc4634fa</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>3431990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D7RB316493</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/cd5a82d9b972496dcbd2a3ba1c99bbcf.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/7ccab45a28440eedcddbd6ff18bc0aaa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/cf9bfe47d1ff2b20b23fd8366dfffd59.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/9174a5974df9467a3655f38c12b9a3c8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/4e686a89a92ba763d0b367c5c2eb033e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/f1f921f938131e9499e766efe46cb347.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/458eaecd112a79fa53dfdaa911285275.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1b900e9fd63ed0d4f976550ce224be6d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1d9437b1787d66b353a95a60cb6b0ede.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/a39795c182340656ec2670e7f59c5c8f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/3e7c1b4df229c5293ee6db3d8323e75a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/360b4871fef4ec0fc58279a9c59b2920.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1738fa76209b059e48cc28f8f8400dbc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/bb92d634819115fa1dce284a6da6ded8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/5bb62b2f88423b96015058e2335a102d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/9684c5523bfedeba7eaa95449cf4ef3b.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3211990</priceWithDiscount><sale_price>3211990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>20a37297125e0e3671224e0d5db8df45</unique_id>
 			<mark_id>Geely</mark_id>
@@ -488,6 +443,51 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3211990</priceWithDiscount><sale_price>3211990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
+			<unique_id>f2a75499afa9f62c82a9e18acc4634fa</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>3431990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>220000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D7RB316493</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/cd5a82d9b972496dcbd2a3ba1c99bbcf.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/7ccab45a28440eedcddbd6ff18bc0aaa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/cf9bfe47d1ff2b20b23fd8366dfffd59.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/9174a5974df9467a3655f38c12b9a3c8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/4e686a89a92ba763d0b367c5c2eb033e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/f1f921f938131e9499e766efe46cb347.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/458eaecd112a79fa53dfdaa911285275.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1b900e9fd63ed0d4f976550ce224be6d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1d9437b1787d66b353a95a60cb6b0ede.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/a39795c182340656ec2670e7f59c5c8f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/3e7c1b4df229c5293ee6db3d8323e75a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/360b4871fef4ec0fc58279a9c59b2920.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/1738fa76209b059e48cc28f8f8400dbc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/bb92d634819115fa1dce284a6da6ded8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/5bb62b2f88423b96015058e2335a102d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D7RB316493/9684c5523bfedeba7eaa95449cf4ef3b.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3211990</priceWithDiscount><sale_price>3211990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>3d7aa145beb00ae1f35c506ea5e7dab9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -578,85 +578,6 @@
 			</multiposting>
 		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
-			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3536990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D3RB309783</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/6988baa38274c002c59eae2c05aecf7f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ff8f32d1d09c8dea42b6ecb8e388e375.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/11ca333402de90665760852bc24d7df4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ecdbd7b02b72eec380ec04a96f17cefa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/0b250d2986b0fbd9e2a838a30e1b5596.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/3fde663881a33bbc1f400b3f1dafe1b4.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>bd5809062e96d2fb2e224216afe1e126</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3536990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722DXRB318416</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/9a9b0b1b61f8e62fc0739471099aeee5.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/4f0c19e494fa0f4cf9a1962d387c1e0a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/2bc85f310bc5501302c51690affc4bab.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/e69a341c41785a3c84de83e428963a94.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/0be502a69a0a037aa53fc9ee1ba6db66.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/ee78cbd88574db9be5fcae9563593436.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/21b053b3141e7a1a6bffc2d24ff16332.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/38a4b515e764862c78c634f1808546e3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/c66cbb90ae19eac3ec2574d7ecfc74ab.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/17bf806ae10539becbebd2ea00ee519b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/020a0985d49419b959f5822f3a0ab174.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/406929944d81d451e34c951bff37b081.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/9c1fe01fb985d5ef00d657c4f5ce2b60.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/fb9c361cd8d68b1dcb11a26f07623d62.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/075c4c7712f129f4c5e474dc4e2955b1.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
-		<car>
 			<unique_id>9176ae1d10d76010874bcf1a1ef18691</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -703,6 +624,85 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
+		<car>
+			<unique_id>bd5809062e96d2fb2e224216afe1e126</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3536990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>220000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722DXRB318416</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/9a9b0b1b61f8e62fc0739471099aeee5.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/4f0c19e494fa0f4cf9a1962d387c1e0a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/2bc85f310bc5501302c51690affc4bab.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/e69a341c41785a3c84de83e428963a94.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/0be502a69a0a037aa53fc9ee1ba6db66.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/ee78cbd88574db9be5fcae9563593436.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/21b053b3141e7a1a6bffc2d24ff16332.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/38a4b515e764862c78c634f1808546e3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/c66cbb90ae19eac3ec2574d7ecfc74ab.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/17bf806ae10539becbebd2ea00ee519b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/020a0985d49419b959f5822f3a0ab174.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/406929944d81d451e34c951bff37b081.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/9c1fe01fb985d5ef00d657c4f5ce2b60.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/fb9c361cd8d68b1dcb11a26f07623d62.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXRB318416/075c4c7712f129f4c5e474dc4e2955b1.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<car>
+			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3536990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>220000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D3RB309783</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/6988baa38274c002c59eae2c05aecf7f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ff8f32d1d09c8dea42b6ecb8e388e375.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/11ca333402de90665760852bc24d7df4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/ecdbd7b02b72eec380ec04a96f17cefa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/0b250d2986b0fbd9e2a838a30e1b5596.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB309783/3fde663881a33bbc1f400b3f1dafe1b4.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3316990</priceWithDiscount><sale_price>3316990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>2252cb6592f0a59dd921030c1951d07c</unique_id>
 			<mark_id>Geely</mark_id>
@@ -795,6 +795,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2903190</priceWithDiscount><sale_price>2903190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3023190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z0RX536686</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2873190</priceWithDiscount><sale_price>2873190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>86227566fd132ffa449c10a3c6940cc6</unique_id>
 			<mark_id>Geely</mark_id>
@@ -891,34 +919,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2873190</priceWithDiscount><sale_price>2873190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3023190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z0RX536686</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2873190</priceWithDiscount><sale_price>2873190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>7b1011ac525d1f96e3ffae67016666e9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1109,316 +1109,6 @@
 			</multiposting>
 		<priceWithDiscount>2267990</priceWithDiscount><sale_price>2267990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
 		<car>
-			<unique_id>bbc25b6e797713ea81ac368565f73adf</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS141205</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4fda684725077d88d7356d34701c08b3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/20f7974ce1e6af816a76d6cac4c104bd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/f71138fa3ed4487c7e63e89832fa6e9f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/51b51efb2f2c2d587abe8f5d27074a11.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/739522b7d18e79771541396d781a3546.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/ca69748b19016255a446daadba6ddd27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4b27581707863b8ac29d45b18fbffe7c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/9a35cad21eeee6dad3243061ae84e671.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/eab409009ddbea3617c7f92d77a111df.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/be23c3188c217d58a1a92f1d9a582611.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4ed1ec604b1247e94e6ef6d3b574f2ee.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/f70f2926e2d8591a311bc3e4474d7bf9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/e52952d950599fe7568f4e0ba7e07a3c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS141205/6200883c3db5e29ab297394d95cd84e1.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS160033</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/8ec994c73398bf6c890da134b18ee874.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/8c02e996e1635d01318488e6843c835f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/b51cf05f5b896ddf434a797bfddad05b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/3da61ca0417532cb32744a07eea2d622.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/50d13dd34a366317065f2e2b307ef185.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/1da3d4bde54157ac3f1a99fac2b35c4d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/6df8e3e1b80fa3b2b7205c714f4da00d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/fe72c34912e0960867df719f45a695fb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/ae75d4eeef672b89f3053c40861a34f1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/51db1247ec1025bd290cfd1c725bb3d6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/f98fdd468c60c7ffe990dfe695ccd56a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/f3c692d0548b0cf56fd53cc59bc2a073.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/586946773d93edb4cbace42f7a87d75e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/fefa3441487411d4745014e545f987b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS160033/2b36dc397f87e092333273ae1031747e.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7RS123290</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/e10ac3cc55969c963ad844e6290151b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6eaa4319b1e0d81a2b325fc59b560956.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/346a4b243a2598e2d0348042a9c88492.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/01ca5fa8dffc6e94bc5e29b9176db8eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/10f5df635608cd80179a0096c79979ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/f65bd5359b1250ec9f6a3b291ef11985.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/a3de368fa0bd32ca23baadb4e1b0f41c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/61560e6d52966ab9ddccbc7fb23b2922.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6028c315ec8f3b39b14c98caa537090a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/17c3cb90e3b9a5f947fcb640db806240.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/e6a621104fbdaf5cb054b614b79c2287.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/18a8b367a570f30a2ac8cd7ad28bb078.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/bef64f36b2eb6de1348f877782375d1e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/3053788211d237c9ef41392e85cf8d40.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6b30003cf6226c1f32e652e0b3fd18d2.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>01eab7c3e3e406672d026f31d1d67ac4</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS123373</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/ad23a0ad99e7e79745a82482cc13a06e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/d063de400553be8cce9b06b063d7e4bd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/a0ccb86a02e146eb84d5eb0237545d05.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/d8a75079c1d3b14623e57684b7644ef7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/bb68ff4628a4d99b5b9125bf3d1cb31c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/98a41c90347f6817f3d9e16e599c578b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/c57e9e6dbb8a315def04b16d2f932374.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/10328498c2a46fb514998223206d3b57.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/6869a2d4a07b2ec51797011bf6963763.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/b19d0f9807dbd1a7732cde70a9fe252e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/4c19f913ad8017d624a6fb82af458ba2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/3c0a6cf9879c94bb34c2968644a68847.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/327bd521be7d7da5e9c1cf94901c2563.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/027a60ee5822d40fe62765974c8ba5f0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0RS123373/3eca4cb32d7824443cf1fce61acb9580.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS030167</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/c06fc13c275d0c4bfb3d85ae4c3aa417.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/aa32f33f04eb416e3c3e37021b72a1c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/96cb8e99e3323f662037402daf541e4b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/2d023acb8353ede56eca29cb7deb4bbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1fc4037536c70ca04d0b2f4fc8fb3eb5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/edd45ac26d06e8b518bb53b0235e8d37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/da749b695dd52af60349968ed8479ae0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/083e7d801161bf91fac407579e6a236c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/fc2d064e79df3cb68fb92d48e0ab5736.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/7cf37c533284225a5cb4a6c6a0bb788e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>b0e22cfc4f5ce21bdb98dde6da736fec</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS149819</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/918568bb565d4cdf44cfe6d0771a260a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/eb5750af75b567750de1c7ce7fef6ac6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/d71cea48b8dfaec0cadd5c2ae0befe12.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/2c0b3eb71f265791b2c402b10e220327.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/cbf1c7f6cd83f2ba8afeeebfd0c31b0a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/90fa332f09b815187a861c3a0ed2056b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/71282b8299e7d7e300b3acc5c24262ad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/b5af52f26032ace6ea01586cb42781b7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/ee0fd1a362ff023f222f5390a8c6b75a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/73e2cc5777778ebf4d7a569d5c81f5cf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/faf23fc69c0c217429c92fe9e117e0b1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/03dbe4f792a5477c9bfd308a0eadf38a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/545b0b9b6dae8d181292617035bcc7d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/0cc3ab47f3c725f32e8bc3f2fb15d53c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/b09be339e1bee1d225ced36dbf9d8f99.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/3ec6d3882d28064f8b1c5dc1224e7f3b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/63ef93aaee5034c63ec96d97ad5520ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS149819/52bb4bf82220e2fc60389ef6f730eefa.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
-			<unique_id>b5c917937683db370db6aeb56d041e3b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4990190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D2RS159484</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/4385b981b390a8bc2d2f3c1d1efd3ec6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/39de3f12ae39b4551d2e36dabb77fce1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/ac252f932bc55812953274b0b23a9f2d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/39458213c6420d47be6cc330fb8c9fe3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/3b95834d5e04efc1cf482f28f238274d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/f0284ad96e545b42e6e917ee1bbde045.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/2c0f2ce1a1b2de82aeda43fb3554b0b9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/b12f3c5c882815f1c097427d135960a5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/74b88bd23dc38e173b2be4bbc8f065be.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/025242f72911fe7fa337e5eebba5c1e6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/12ba805301cbc6276dd5e9e84903bf07.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/6dfa4f933d1fae1eaadd92a3cce6b857.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/f52019805b4057571c7c2069291762ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/701044192c3bcb62fd3bcc81a406bdc1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/d815863cadb7112393c174a25361b0e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/20696cf7d2fc754ecfdd6829965d2d22.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/ef650e2bcfbd688ee234a502dc5d641d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2RS159484/a1ae0eba6a50f3e4d3c6127923c64687.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
-		<car>
 			<unique_id>abe762b26664b97bb3f48ab5cfdc9cb6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1594,6 +1284,316 @@
 			</multiposting>
 		<priceWithDiscount>4590190</priceWithDiscount><sale_price>4590190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
+			<unique_id>bbc25b6e797713ea81ac368565f73adf</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D3RS141205</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4fda684725077d88d7356d34701c08b3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/20f7974ce1e6af816a76d6cac4c104bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/f71138fa3ed4487c7e63e89832fa6e9f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/51b51efb2f2c2d587abe8f5d27074a11.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/739522b7d18e79771541396d781a3546.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/ca69748b19016255a446daadba6ddd27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4b27581707863b8ac29d45b18fbffe7c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/9a35cad21eeee6dad3243061ae84e671.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/eab409009ddbea3617c7f92d77a111df.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/be23c3188c217d58a1a92f1d9a582611.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/4ed1ec604b1247e94e6ef6d3b574f2ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/f70f2926e2d8591a311bc3e4474d7bf9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/e52952d950599fe7568f4e0ba7e07a3c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS141205/6200883c3db5e29ab297394d95cd84e1.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D3RS030167</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/c06fc13c275d0c4bfb3d85ae4c3aa417.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/aa32f33f04eb416e3c3e37021b72a1c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/96cb8e99e3323f662037402daf541e4b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/2d023acb8353ede56eca29cb7deb4bbd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1fc4037536c70ca04d0b2f4fc8fb3eb5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/edd45ac26d06e8b518bb53b0235e8d37.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/da749b695dd52af60349968ed8479ae0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/083e7d801161bf91fac407579e6a236c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/fc2d064e79df3cb68fb92d48e0ab5736.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/7cf37c533284225a5cb4a6c6a0bb788e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS160033</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/8ec994c73398bf6c890da134b18ee874.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/8c02e996e1635d01318488e6843c835f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/b51cf05f5b896ddf434a797bfddad05b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/3da61ca0417532cb32744a07eea2d622.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/50d13dd34a366317065f2e2b307ef185.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/1da3d4bde54157ac3f1a99fac2b35c4d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/6df8e3e1b80fa3b2b7205c714f4da00d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/fe72c34912e0960867df719f45a695fb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/ae75d4eeef672b89f3053c40861a34f1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/51db1247ec1025bd290cfd1c725bb3d6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/f98fdd468c60c7ffe990dfe695ccd56a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/f3c692d0548b0cf56fd53cc59bc2a073.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/586946773d93edb4cbace42f7a87d75e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/fefa3441487411d4745014e545f987b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS160033/2b36dc397f87e092333273ae1031747e.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>757e9b73216b9f187c099dd2c68c787a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS123290</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/e10ac3cc55969c963ad844e6290151b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6eaa4319b1e0d81a2b325fc59b560956.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/346a4b243a2598e2d0348042a9c88492.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/01ca5fa8dffc6e94bc5e29b9176db8eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/10f5df635608cd80179a0096c79979ce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/f65bd5359b1250ec9f6a3b291ef11985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/a3de368fa0bd32ca23baadb4e1b0f41c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/61560e6d52966ab9ddccbc7fb23b2922.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6028c315ec8f3b39b14c98caa537090a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/17c3cb90e3b9a5f947fcb640db806240.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/e6a621104fbdaf5cb054b614b79c2287.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/18a8b367a570f30a2ac8cd7ad28bb078.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/bef64f36b2eb6de1348f877782375d1e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/3053788211d237c9ef41392e85cf8d40.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS123290/6b30003cf6226c1f32e652e0b3fd18d2.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>01eab7c3e3e406672d026f31d1d67ac4</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D0RS123373</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/ad23a0ad99e7e79745a82482cc13a06e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/d063de400553be8cce9b06b063d7e4bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/a0ccb86a02e146eb84d5eb0237545d05.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/d8a75079c1d3b14623e57684b7644ef7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/bb68ff4628a4d99b5b9125bf3d1cb31c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/98a41c90347f6817f3d9e16e599c578b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/c57e9e6dbb8a315def04b16d2f932374.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/10328498c2a46fb514998223206d3b57.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/6869a2d4a07b2ec51797011bf6963763.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/b19d0f9807dbd1a7732cde70a9fe252e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/4c19f913ad8017d624a6fb82af458ba2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/3c0a6cf9879c94bb34c2968644a68847.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/327bd521be7d7da5e9c1cf94901c2563.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/027a60ee5822d40fe62765974c8ba5f0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0RS123373/3eca4cb32d7824443cf1fce61acb9580.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>b0e22cfc4f5ce21bdb98dde6da736fec</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS149819</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/918568bb565d4cdf44cfe6d0771a260a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/eb5750af75b567750de1c7ce7fef6ac6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/d71cea48b8dfaec0cadd5c2ae0befe12.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/2c0b3eb71f265791b2c402b10e220327.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/cbf1c7f6cd83f2ba8afeeebfd0c31b0a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/90fa332f09b815187a861c3a0ed2056b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/71282b8299e7d7e300b3acc5c24262ad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/b5af52f26032ace6ea01586cb42781b7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/ee0fd1a362ff023f222f5390a8c6b75a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/73e2cc5777778ebf4d7a569d5c81f5cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/faf23fc69c0c217429c92fe9e117e0b1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/03dbe4f792a5477c9bfd308a0eadf38a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/545b0b9b6dae8d181292617035bcc7d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/0cc3ab47f3c725f32e8bc3f2fb15d53c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/b09be339e1bee1d225ced36dbf9d8f99.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/3ec6d3882d28064f8b1c5dc1224e7f3b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/63ef93aaee5034c63ec96d97ad5520ee.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS149819/52bb4bf82220e2fc60389ef6f730eefa.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>b5c917937683db370db6aeb56d041e3b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4990190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D2RS159484</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/4385b981b390a8bc2d2f3c1d1efd3ec6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/39de3f12ae39b4551d2e36dabb77fce1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/ac252f932bc55812953274b0b23a9f2d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/39458213c6420d47be6cc330fb8c9fe3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/3b95834d5e04efc1cf482f28f238274d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/f0284ad96e545b42e6e917ee1bbde045.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/2c0f2ce1a1b2de82aeda43fb3554b0b9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/b12f3c5c882815f1c097427d135960a5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/74b88bd23dc38e173b2be4bbc8f065be.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/025242f72911fe7fa337e5eebba5c1e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/12ba805301cbc6276dd5e9e84903bf07.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/6dfa4f933d1fae1eaadd92a3cce6b857.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/f52019805b4057571c7c2069291762ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/701044192c3bcb62fd3bcc81a406bdc1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/d815863cadb7112393c174a25361b0e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/20696cf7d2fc754ecfdd6829965d2d22.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/ef650e2bcfbd688ee234a502dc5d641d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2RS159484/a1ae0eba6a50f3e4d3c6127923c64687.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4790190</priceWithDiscount><sale_price>4790190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
 			<unique_id>4d828708a24d4c54b3022ecb1999e688</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1645,6 +1645,48 @@
 			</multiposting>
 		<priceWithDiscount>4290190</priceWithDiscount><sale_price>4290190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-черный-2024/</url></car>
 		<car>
+			<unique_id>70661651ae2e9397a231453be08d82f3</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango</folder_id>
+			<modification_id>2.0 AMT (218 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3806190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S61RY037230</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/313f86615a8538da06d83c960e173dd3.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0b333daaeea645e2a50f8eb73b9fea2d.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f35ea0cf778409075871dc1559f69581.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/11c5e584aceda23691410953082dd3c7.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/78500bfb208a82e4efdda67025c6cf3a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/6e82a6294d65a98bdd07f79253faf463.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/518247137d15ee76d28782f080f282e2.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a403497725759ae2fc6e974a9bdeb679.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/5bac5b922fe0a875d760ea6a7720eb3d.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e65b4840ea55aa61fe91e9bf68d03f4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e3165f590f8a966a8592a1f6e18edbdd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/eba7d31ae1216e506516ef4f5978274e.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/4258bbe8e1e11190afb645973a54f422.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3656190</priceWithDiscount><sale_price>3656190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
+		<car>
 			<unique_id>62b748120495992db26dadec80c0170d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango</folder_id>
@@ -1688,48 +1730,6 @@
 			</multiposting>
 		<priceWithDiscount>3656190</priceWithDiscount><sale_price>3656190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>70661651ae2e9397a231453be08d82f3</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>2.0 AMT (218 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3806190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S61RY037230</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/313f86615a8538da06d83c960e173dd3.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0b333daaeea645e2a50f8eb73b9fea2d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f35ea0cf778409075871dc1559f69581.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/11c5e584aceda23691410953082dd3c7.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/78500bfb208a82e4efdda67025c6cf3a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/6e82a6294d65a98bdd07f79253faf463.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/518247137d15ee76d28782f080f282e2.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a403497725759ae2fc6e974a9bdeb679.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/5bac5b922fe0a875d760ea6a7720eb3d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e65b4840ea55aa61fe91e9bf68d03f4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e3165f590f8a966a8592a1f6e18edbdd.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/eba7d31ae1216e506516ef4f5978274e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/4258bbe8e1e11190afb645973a54f422.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3656190</priceWithDiscount><sale_price>3656190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
-		<car>
 			<unique_id>f36b9859f1f66bf06ef36a038e3bbcad</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Preface, I Рестайлинг 2</folder_id>
@@ -1768,6 +1768,53 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3396190</priceWithDiscount><sale_price>3396190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>bdd42cdf631fdfe31e7f5008d614f5c9</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>4203190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD6RB001038</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d443671255426aca6ac6cf27a68aab18.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/12f714e03e7f3a5b9ce38b02edbdd370.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/454b0ab386fff849d9f74f3ed6a15e54.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/89570d98c0fcf6bf2e47f2b7e636c5f1.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/c75e7f67e70b58bcbfc2f28450c21149.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/89126f7a041f6ac1e1b21d9ace5d8350.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/236536b48d576d232f98794601ddc9f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d2dd8a92a637e29ebbb8ba69e2e1ffdc.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/67c4094ac16825eb31d2422a343ca05e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d53fec88d3581686b6d861023333e2a5.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/62fe13b4c3ec9da2a5b2709e2b335dc0.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/eb552f5a694ca62d93dd39314d2d23c8.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d3f899769a6ce5373063ce01aa2c6d28.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/1337c49fd9d1e31179e28d019e162128.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/acbdbb64428005036830b78f45651955.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/7ba208fe1c017509c4a508c0d9b3b659.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/4b95617942a7a14ad2d7c2623f63e717.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/0473932a449cde76138a7f690355e403.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4203190</priceWithDiscount><sale_price>4203190</sale_price><url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>96f1ea2dad3f5ca6d5d06d8fbcafae9c</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
@@ -1862,105 +1909,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4203190</priceWithDiscount><sale_price>4203190</sale_price><url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>bdd42cdf631fdfe31e7f5008d614f5c9</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>4203190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD6RB001038</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d443671255426aca6ac6cf27a68aab18.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/12f714e03e7f3a5b9ce38b02edbdd370.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/454b0ab386fff849d9f74f3ed6a15e54.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/89570d98c0fcf6bf2e47f2b7e636c5f1.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/c75e7f67e70b58bcbfc2f28450c21149.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/89126f7a041f6ac1e1b21d9ace5d8350.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/236536b48d576d232f98794601ddc9f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d2dd8a92a637e29ebbb8ba69e2e1ffdc.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/67c4094ac16825eb31d2422a343ca05e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d53fec88d3581686b6d861023333e2a5.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/62fe13b4c3ec9da2a5b2709e2b335dc0.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/eb552f5a694ca62d93dd39314d2d23c8.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/d3f899769a6ce5373063ce01aa2c6d28.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/1337c49fd9d1e31179e28d019e162128.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/acbdbb64428005036830b78f45651955.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/7ba208fe1c017509c4a508c0d9b3b659.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/4b95617942a7a14ad2d7c2623f63e717.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD6RB001038/0473932a449cde76138a7f690355e403.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4203190</priceWithDiscount><sale_price>4203190</sale_price><url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>1b2deef802c447047512417d79aa4bbc</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4303190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD3RB003152</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/098bd28a0409780f40d6f26aee615481.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/04906fad3027bc4faf482ff1c5479762.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d8802f4974a6244a521312b047bd447a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c0e49a9fdb38accbea0dcff8684a26d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5df4ae352c9eafccbf61a7e19bbf6e68.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c3e0b13d6ffb8e51bca91470b614f30a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/67888927b5b7a2c5c5bd8bf1ce17cb55.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d3912765a38a97a37d3581b1f2c29c0c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5514c2fae9404f85315a935e3c7436e8.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/b730075521c4adc6f74894f12a8d2e9a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/be8c43b8c83867a6aeb4daa611a9efd9.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/56c9e76673652a925fb25a1b438ecf74.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/a1a1789136f0154411cd1116aaf09ac3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/63df16d2b4cac88f31a7fe2a4f77b1fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/ea63bff120907ae342087f85da8e45b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d0873d5d5710ae014c4a157bff98f637.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/07a4b192dcbeae79b0faf2a228161f6b.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/60b02ea042722b6e36614f21d162fb8a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7da1a3fd500a0ed75b6586ba6c2db148.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/2dab722f663294e32df878c70b7e5580.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/52d57c13c495469d0c3f2f375a99b88e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/3d489189faea843db1df4caffa319b6d.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7db6be96b8e7a44f96b0ca121d4ce21d.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4303190</priceWithDiscount><sale_price>4303190</sale_price><url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
 			<unique_id>757737700427446cb3069058f5991294</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
@@ -2059,6 +2007,58 @@
 				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/118d932c57535cff65c480c327319144.jpg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/634ee455635b2a81e92bce7f746cc48e.jpg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/bf9c574cb1a36f1631ece01419b4b114.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4303190</priceWithDiscount><sale_price>4303190</sale_price><url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
+		<car>
+			<unique_id>1b2deef802c447047512417d79aa4bbc</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4303190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD3RB003152</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/098bd28a0409780f40d6f26aee615481.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/04906fad3027bc4faf482ff1c5479762.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d8802f4974a6244a521312b047bd447a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c0e49a9fdb38accbea0dcff8684a26d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5df4ae352c9eafccbf61a7e19bbf6e68.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c3e0b13d6ffb8e51bca91470b614f30a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/67888927b5b7a2c5c5bd8bf1ce17cb55.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d3912765a38a97a37d3581b1f2c29c0c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5514c2fae9404f85315a935e3c7436e8.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/b730075521c4adc6f74894f12a8d2e9a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/be8c43b8c83867a6aeb4daa611a9efd9.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/56c9e76673652a925fb25a1b438ecf74.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/a1a1789136f0154411cd1116aaf09ac3.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/63df16d2b4cac88f31a7fe2a4f77b1fa.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/ea63bff120907ae342087f85da8e45b6.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d0873d5d5710ae014c4a157bff98f637.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/07a4b192dcbeae79b0faf2a228161f6b.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/60b02ea042722b6e36614f21d162fb8a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7da1a3fd500a0ed75b6586ba6c2db148.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/2dab722f663294e32df878c70b7e5580.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/52d57c13c495469d0c3f2f375a99b88e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/3d489189faea843db1df4caffa319b6d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7db6be96b8e7a44f96b0ca121d4ce21d.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
