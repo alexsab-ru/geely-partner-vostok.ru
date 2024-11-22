@@ -1,0 +1,37 @@
+---
+title: "Акция GEELY: Выиграйте путешествие в Пекин! – Партнер-Восток Орск"
+h1: Выиграйте путешествие в Пекин с GEELY!
+caption: Путешествие в Пекин с GEELY
+description: "Пройдите диагностику вашего автомобиля GEELY по специальной цене и участвуйте в розыгрыше путешествия в Пекин. Узнайте подробности на сайте!"
+breadcrumb: Путешествие в Пекин
+pubDate: 2024-11-22
+image: /img/specials/puteshestvie-v-pekin-s-geely/puteshestvie-v-pekin-s-geely.webp
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const from = '01.07.2024';
+export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
+
+<picture>
+	<source media="(min-width: 942px)" srcset="/img/specials/puteshestvie-v-pekin-s-geely/puteshestvie-v-pekin-s-geely.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/puteshestvie-v-pekin-s-geely/thumb.webp" />
+	<img src="/img/specials/puteshestvie-v-pekin-s-geely/puteshestvie-v-pekin-s-geely.webp" class="w-full mb-10" alt="Путешествие в Пекин" />
+</picture>
+
+**Уважаемые клиенты GEELY Партнер-Восток!**
+
+Акция для владельцев автомобилей GEELY. Только с 15.10.24 по 31.12.24 у вас есть шанс выиграть путешествие в ПЕКИН.
+
+**Что для это требуется?**
+
+Все просто: проведите комплексную диагностику своего автомобиля GEELY по специальной цене - всего 1350 рублей. После завершения работ перейдите на сайт https://www.geely-motors.com/. Нажмите на кнопку «Принять участие». Введите последние 4 цифры VIN номера вашего автомобиля Geely. 
+
+Вращайте **«Колесо фортуны»** и испытайте свою удачу!
+
+**Пекин ждет вас!** Не упустите шанс стать счастливым обладателем сертификата и насладиться путешествием мечты!
+
+<SpecialSalonsInfo />
