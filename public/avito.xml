@@ -1675,49 +1675,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>17de5e0feea7704fb43fcefa3d2f6607</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852DXRS182639</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/0f4a9cf5e6fe3cedc063a98c18d13748.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/079391a56fed11683f04d68e3c4e81a3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/65ce37e0afafc9a16837432920efe0b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/57daad44738de16dc5c726f7eca72bfb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/678b44234cc270b98f0c348d4acc130a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/d9ad78794112b962c4ecd998bf6e7ced.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/bd1372e25fcd552bbf6f1ddadcdc3c24.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/a4775d17baa4f477837bc7a90767c998.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/2ace737e2f5298e9089eed64cf6d7449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/0954aa541385f2e4e932eae9dd06f398.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/fd52793f4e4ccab75f3d00a5f65153cf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/cb3a45966b75a04356fab57c440cc1c2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/73532d6cd036f79b8785bcd24b365563.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXRS182639/5a90b8c01e970263d87c74a336aab2ed.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
 			<unique_id>c7adba53b3bc206ae97a65075c75e079</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1759,6 +1716,49 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>17de5e0feea7704fb43fcefa3d2f6607</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852DXRS182639</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/0f4a9cf5e6fe3cedc063a98c18d13748.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/079391a56fed11683f04d68e3c4e81a3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/65ce37e0afafc9a16837432920efe0b6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/57daad44738de16dc5c726f7eca72bfb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/678b44234cc270b98f0c348d4acc130a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/d9ad78794112b962c4ecd998bf6e7ced.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/bd1372e25fcd552bbf6f1ddadcdc3c24.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/a4775d17baa4f477837bc7a90767c998.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/2ace737e2f5298e9089eed64cf6d7449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/0954aa541385f2e4e932eae9dd06f398.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/fd52793f4e4ccab75f3d00a5f65153cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/cb3a45966b75a04356fab57c440cc1c2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/73532d6cd036f79b8785bcd24b365563.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS182639/5a90b8c01e970263d87c74a336aab2ed.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>c6243e6145876f57c870e25c4503048d</unique_id>
 			<mark_id>Geely</mark_id>
