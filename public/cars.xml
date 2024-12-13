@@ -488,53 +488,6 @@
 			</multiposting>
 		<priceWithDiscount>3317190</priceWithDiscount><sale_price>3317190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-черный-2024/</url></car>
 		<car>
-			<unique_id>bb7e22cde2dfffe832a5876ea325c56b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>3717190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S10RB068453</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/62f3f52c1c06c697660e72627ab04027.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/a6645de406d63020cb9a51a1e7d47b87.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/9a61a5d3e1c06194240e0438489b2649.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/12e98365c06f777899bc619dfeb006aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/c3ad2e997d4b1e71ba6cf48080955c58.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/d18e9d890b1312d8e20b4f01da04617f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/92a87b2d4a5eb270923bc1a52f9da664.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/bca9c51a46502fb133240a3a1ee52cfe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/7bbb47ea86733ad2dc71984b2a555bec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/f4a39874c3cd2360dc3f2ec934a15923.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/5c35522cb84046d91db836e31325161f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/68742b9c5745427422050eff3c6e7bcb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/3f7e65f7c2fed0a39fb803074f444469.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/dbea55a34c0e4e5e8a745faa813f1ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/52927f56501d009270c8626b6e47bf41.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/78eb7660faa74d1ac7dc19504bbff807.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/2de4e0f367f345817f3f1ffa58bdccfa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/86d4216c46f39e96485bf9c3a25bce40.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3567190</priceWithDiscount><sale_price>3567190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
-		<car>
 			<unique_id>971b8a7d41d21b27ae8b45fa68bd355f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -581,6 +534,49 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>3567190</priceWithDiscount><sale_price>3567190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>def3072f8e3d2a0e544c997d38158156</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3717190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>150000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S12RB108533</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b44e93c3f3855bc9fde747205a83417c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/602e2b667d44a573fcdcc54bb118ecb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/dc7b0a0969482280d2bd51d76d9f8954.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/f830c9f51f91654c546744b0f3f9dd9f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/5347dd41faf27fa99464ac72efa6cd1c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/1256cd6b590676079fdae69ec9ad708a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/c366ca1942551762b54bb76b50cead9b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b2fe86a2bbcc9f9975ecb7a81d1fd5a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/3b1fd4c0d6fbdd51cc96c70c31132d39.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/b8da07cc7f57baa353e5a011d788a49e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/242021237560df4b2b01c4e9ed519f4d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6d20350e5cd1b08393ae32d47661b774.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6978faf76f7443e8b740c7db3da7cc83.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB108533/6a3ff50d42ee396594a5f2d632278198.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3567190</priceWithDiscount><sale_price>3567190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-зеленый-2024/</url></car>
 		<car>
 			<unique_id>20a37297125e0e3671224e0d5db8df45</unique_id>
 			<mark_id>Geely</mark_id>
