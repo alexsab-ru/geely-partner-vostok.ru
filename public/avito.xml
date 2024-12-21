@@ -2066,9 +2066,9 @@
 			<price>4393190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD1RB003232</vin>
 			<description />
@@ -2113,9 +2113,9 @@
 			<price>4393190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD2RB003224</vin>
 			<description />
@@ -2160,9 +2160,9 @@
 			<price>4393190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD6RB001038</vin>
 			<description />
@@ -2207,9 +2207,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD5RB003153</vin>
 			<description />
@@ -2259,9 +2259,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003152</vin>
 			<description />
@@ -2311,9 +2311,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003149</vin>
 			<description />
