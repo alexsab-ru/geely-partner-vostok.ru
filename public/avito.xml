@@ -24,7 +24,7 @@
 			<vin>LB3FX1S1XRB131896</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB131896/b361addc5bc29c12d27b94bc4eea5e9b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB131896/1e7926d8ea261929e421f56d9a8ffe64.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB131896/0c4653d7f9ca9ad9cc6eac97c9ff4954.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB131896/def59af1b11a723ae90b363f85420e7e.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB131896/a8270ed56b7df5be97f1f40964ff0daf.jpg</image>
@@ -70,7 +70,7 @@
 			<vin>LB3FX1S61RB151174</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S61RB151174/7d0166a7afa6ee092429f313f127a616.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S61RB151174/1df8ed01253bec83f224ecef581757b7.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB151174/f5685648dbd08e2a0d39a31d66136290.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB151174/00a5811a16fa92c3609a9e79e247da0e.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB151174/454e2f764c60391204f0106109eb7ee9.jpg</image>
@@ -117,7 +117,7 @@
 			<vin>LB3FX1S61RB113461</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S61RB113461/2c140fe85b59be8b6a3a895884afc9f0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S61RB113461/39d141e6d6115787bc88e1aab2a516e5.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB113461/50d844107adc15c4400b9baa58fb2992.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB113461/b5c25a69aba08701cd54d39da2ff2001.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S61RB113461/9d43cd9d65db6efccb5d220a0fce86e2.jpg</image>
@@ -167,7 +167,7 @@
 			<vin>LB3FX1S14RB134633</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/704ec1d0342f7bef91a3f9c3af1cbbad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c6654b46f27d5c036c2d4eecc79a15e9.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b704dc712272903122a4945bfba85d33.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b8274e2e1e361c1eb2a886158d6a8df7.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5dc5ea80af0235bcc03b318da25a176d.jpg</image>
@@ -221,7 +221,7 @@
 			<vin>LB3FX1S17RB133122</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S17RB133122/0654c6c6562eef93ac3c1e7188abf941.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S17RB133122/ac6d0c9723dc0c620daf8cbcc8da8e99.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB133122/8c430c37fe2a7e9d9c97a679dfcab263.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB133122/27000436e69b07e3a639159a58447318.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S17RB133122/e22deeaddbc9ca031cf512a4051183b5.jpg</image>
@@ -316,7 +316,7 @@
 			<vin>LB3FX1S67RB130832</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S67RB130832/b7995f502dd93d28079dbeacd22dfbe0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S67RB130832/b19a37e5f0d3331323d47b456839646e.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S67RB130832/79b919794d7bc1dbb7f379db7e417f95.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S67RB130832/ff7371488a9fda12d7fed092a07042ad.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S67RB130832/c4b3890194968b74e727ee22b9134629.jpg</image>
@@ -363,7 +363,7 @@
 			<vin>LB3FX1S68RB108788</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/f8b3fe2bf3823a0e9199d360094e6d8d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/3d58bdd9f6430412e3c4a43d6911691c.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/b41341c570ec02359686d32b3dad89e9.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/2aa83560d57fc7865d116cbc06f86123.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S68RB108788/000083d83ee121d325262345cb5408f8.jpg</image>
@@ -410,24 +410,27 @@
 			<vin>LB3FX1S13RB081410</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/a1a6935fd6996911a03793301257bf52.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/3957ca257ef20240b064698aa6b6da16.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/ce3350beba235a374b505101af8521df.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/172e21af4eb87ee4c1baca6d03817cbc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/25dbcd08960c5ba4b7521a32f238c7ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/1a33e8e86cf7c2b07585cad4d78cef9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/83e7faffbe3d035a88b8a0b07d446d50.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/cdfd87c5c4d3a7bfe34f2e86ce2f0e9f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/f41eee10428244fc444ef1311fdf1d93.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/a5f75b918248b6d8ee593b76ae0ec112.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/81bd48f29b589448e9bf469314db9527.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/c887e0230cf5ca7404d0f6dd6fc4de91.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/84fa672ac69a2a1c44d016df03fdb0ba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/7f1d0c4aa9bcbc98172c592a55e755ad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/6de6a32a03b50954830b10e03d636598.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/f0b75d987e0636b9e8cfb71bcdfed547.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/c0cc6d0d43e8d621f811e0266b992ecd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/0efe29e474efb2651ce0c8138a7c27fe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/8406469acd1d5b2e1c5d3bdc179ece58.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/f28fa31463cfa102ee515de53bcbe718.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/47f518750a86cd7f03758a519cae8d9e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/7691cfeadabf197112bebc5bea2839f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/5ee2645972b48913f4fc336a6bf47a08.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/464f1e2d9eedb9a6e92716abe6da5362.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/15dadf993154e5304cb774a209d17ecc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/e7996ee81f8375f011e1b70c7f2966db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/62b807d43dfc2052184d340a1f8622e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/14f506057672ec62ee918b57ba686e40.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/bcf0ff42c358ca98b5866a6bb1562b7f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/a7816de759507cbd16bb40a074c167f0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/e02d71ca82556b63c127cd3f9e21740b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/eb162aa4ca15a6ec9d871a706c156f4d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/ed1bfcdb23182ed2a755319751bf1e07.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/c1f539c1ed2af9a39aca1a58b27a34f9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/1472f24dbb762d6523c59693143a59c6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/91ade96884ddc0e19b6ba164ea164d1b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/93ab146a2e59e93ab7a2adc7b1095ded.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/11f1ae417a8c4198580f9ff4d98ef3e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S13RB081410/dd6398f4fb73632466d0b9b679ce8277.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1378,47 +1381,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
-			<unique_id>52d1ff1d6878d0f92c3c51e3b3f3cedd</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>5052190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS030167</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/62fcd8148e449a7c62f65e3bc148d956.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/aa32f33f04eb416e3c3e37021b72a1c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/96cb8e99e3323f662037402daf541e4b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/2d023acb8353ede56eca29cb7deb4bbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1fc4037536c70ca04d0b2f4fc8fb3eb5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/edd45ac26d06e8b518bb53b0235e8d37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/da749b695dd52af60349968ed8479ae0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/083e7d801161bf91fac407579e6a236c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/fc2d064e79df3cb68fb92d48e0ab5736.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/7cf37c533284225a5cb4a6c6a0bb788e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/1134dd93b403c2f8b58ef489cbb04841.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS030167/70c69a1d35c47b12fc77ec18dc4c3e2a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>21fa4d4aefdf7790a2326b772a44d3d6</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2374,7 +2336,7 @@
 			<vin>LB3FX1S14RB134634</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/704ec1d0342f7bef91a3f9c3af1cbbad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c6654b46f27d5c036c2d4eecc79a15e9.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b704dc712272903122a4945bfba85d33.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b8274e2e1e361c1eb2a886158d6a8df7.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5dc5ea80af0235bcc03b318da25a176d.jpg</image>
