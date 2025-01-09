@@ -1541,7 +1541,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
@@ -1866,7 +1866,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>3897190</price>
 			<credit_discount>0</credit_discount>
@@ -1955,53 +1955,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>3ad67ed25b96046d816936bbf07656b7</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4393190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD2RB003224</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/126ad5822f1aec7593dfa2d1f332676f.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/4dd0ccd4471f0a375c0108bc0cc0c127.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/ea792d6c70de737770412b560b957dd3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/56b34c79d6de5c12d32cc6dad0920473.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/b2afe72b41c9403df3f9b5732787fe16.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/643c68f2ae7ec386ea863b8706dca4f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/59f532191786f5208a97d85330604d20.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/5fefe81b21fb20ef09f30c3a20e0b363.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/7da5e057d3fd61c362921054c9be450c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/e9acd225a6fd054d71539d89abe674ab.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/0d28164a2bed1327387e7e3b50416b8c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/422d2ceed66f3532c41bd4e08f57e327.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/191152edbb3e5b5d4a99beac0fedc255.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/237d80ae92ab10bdf4a4e983d2a9071f.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/2af9d11b5b76209c4d8b68342ece74a2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/535485818a74465011ed5e7de0b17240.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/ecd95bf7157339f0720d12569c207fd5.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB003224/0bbd79f78353db6c955a205f64a1bede.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>bdd42cdf631fdfe31e7f5008d614f5c9</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
@@ -2216,7 +2169,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
