@@ -17,9 +17,9 @@
 			<price>3817190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S66RB110040</vin>
 			<description />
@@ -64,9 +64,9 @@
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S61RB151174</vin>
 			<description />
@@ -111,9 +111,9 @@
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S61RB113461</vin>
 			<description />
@@ -161,9 +161,9 @@
 			<price>3917190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14RB134633</vin>
 			<description />
@@ -215,9 +215,9 @@
 			<price>3917190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S17RB133122</vin>
 			<description />
@@ -263,9 +263,9 @@
 			<price>3917190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S1XRB131896</vin>
 			<description />
@@ -309,9 +309,9 @@
 			<price>3817190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S67RB130832</vin>
 			<description />
@@ -356,9 +356,9 @@
 			<price>3817190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S68RB108788</vin>
 			<description />
@@ -403,9 +403,9 @@
 			<price>4017190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S13RB081410</vin>
 			<description />
@@ -453,9 +453,9 @@
 			<price>3517190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S68RB109438</vin>
 			<description />
@@ -503,9 +503,9 @@
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S16RB112195</vin>
 			<description />
@@ -550,9 +550,9 @@
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12RB108533</vin>
 			<description />
@@ -593,9 +593,9 @@
 			<price>3431990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB320568</vin>
 			<description />
@@ -640,9 +640,9 @@
 			<price>3536990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB318481</vin>
 			<description />
@@ -692,9 +692,9 @@
 			<price>3536990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3RB309783</vin>
 			<description />
@@ -740,9 +740,9 @@
 			<price>3536990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB318416</vin>
 			<description />
@@ -784,9 +784,9 @@
 			<price>3536990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D8RB314994</vin>
 			<description />
@@ -831,9 +831,9 @@
 			<price>3214190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
+			<max_discount>390000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S90RX302527</vin>
 			<description />
@@ -878,9 +878,9 @@
 			<price>3139190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z9RX537948</vin>
 			<description />
@@ -918,9 +918,9 @@
 			<price>3109190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z0RX536543</vin>
 			<description />
@@ -955,14 +955,14 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3109190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z0RX533819</vin>
 			<description />
@@ -1014,9 +1014,9 @@
 			<price>3109190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z0RX536686</vin>
 			<description />
@@ -1066,9 +1066,9 @@
 			<price>2909190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z1RX533988</vin>
 			<description />
@@ -1119,9 +1119,9 @@
 			<price>2663990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3F3103XRG043742</vin>
 			<description />
@@ -1172,9 +1172,9 @@
 			<price>2483990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31030RG041921</vin>
 			<description />
@@ -1219,9 +1219,9 @@
 			<price>2393990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31031RG041328</vin>
 			<description />
@@ -1266,9 +1266,9 @@
 			<price>5052190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D7RS123290</vin>
 			<description />
@@ -1310,9 +1310,9 @@
 			<price>5052190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D7RS160033</vin>
 			<description />
@@ -1354,9 +1354,9 @@
 			<price>5052190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D0RS123373</vin>
 			<description />
@@ -1398,9 +1398,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D3RS228117</vin>
 			<description />
@@ -1447,9 +1447,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D4RS228126</vin>
 			<description />
@@ -1496,9 +1496,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D5RS228118</vin>
 			<description />
@@ -1546,9 +1546,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D9RS184902</vin>
 			<description />
@@ -1598,9 +1598,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D3RS108088</vin>
 			<description />
@@ -1640,9 +1640,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D8RS107406</vin>
 			<description />
@@ -1686,9 +1686,9 @@
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D7RS179410</vin>
 			<description />
@@ -1732,9 +1732,9 @@
 			<price>4552190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D0RS146572</vin>
 			<description />
@@ -1783,9 +1783,9 @@
 			<price>3847190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S65RY065886</vin>
 			<description />
@@ -1829,9 +1829,9 @@
 			<price>3847190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S61RY037230</vin>
 			<description />
@@ -1972,9 +1972,9 @@
 			<price>4393190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD6RB001038</vin>
 			<description />
@@ -2019,9 +2019,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003152</vin>
 			<description />
@@ -2071,9 +2071,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003149</vin>
 			<description />
@@ -2122,9 +2122,9 @@
 			<price>4493190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD5RB003153</vin>
 			<description />
@@ -2284,9 +2284,9 @@
 			<price>3917190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14RB134634</vin>
 			<description />
