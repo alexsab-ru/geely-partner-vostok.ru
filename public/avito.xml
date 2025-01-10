@@ -944,60 +944,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-синий-2024/</url></car>
 		<car>
-			<unique_id>36f6585601c3fce3935261004952774a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3109190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z0RX533819</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/f0d6ea198d23b44a7451b831ee0f1d2b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/363d947279921ff3ee6596eabd1990f9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/c0b136ca9c3d89baf18ca2066e5df3aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/cb7158a70da9d16ce51e7b998e388988.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/67e1bbb630e4d7590530670bdb060897.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/f5384cff2898d374cc4f447d461fbc8d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/7dc6be3f449f9aba9c91712e112756c1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/2a4f87bf06dc4adaac4c3c0c95dc477d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/0374d744a0a194dce7733e2ddf84ad0d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/985bf5f5a98b38e9e0c512818ea548c4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/09f07f7399d23079e888670c323b46da.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/2ab65735f7798ded22708c20068379ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/1a64ac8bce3b206e09672684cdd815fb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/a7062017bca6b8c16ab5557529a99b0e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/70051072a1e323f10dca84e21c08ca99.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/aa85cb47d35de5cda4424041a15603bb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/dc1783fbcf8b2ec28668909f42c01dab.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/8fc950e57ebf2a9fc395181ca2f134c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/b0584b73a6075b06fb8c46a23435d1dd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/aa8c6c92db62beeafa0c58185192b955.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/9bb71795c3fe4371b9cbd9c84f5bde4e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/e14a10a3cda8661e237e81503858deeb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/141320ae81cbfe9f15fe8e2bfb7d13e8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/570c10c0906a6704bfd8947ad2a80b4a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX533819/af16f495b67da44d59a4f98e383d4897.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -2158,61 +2104,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>898ab64053284a4af318ac77cc9e22b5</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4493190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD8RB001333</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a55bad13b4b27e9528391675f74555a5.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/41c70740176a15a700b3225bccd63f2a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/7ee433bdb968e7dfefef77ebda062629.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/d7f9d83fe20c3e824b2627603f80e3bd.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5fb70da1aa16fc9712ac38b0e564481c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5a092ce8b17bc916de25a7bdde9a460d.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/66ca905338134ff9de8e8359e163300e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a3b6a92b23e25a93f68dd6410f996a76.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a723de49e65db4f27631fb6f8f26be77.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/b6f7d2056aaf2b26cb251a16fe5b3349.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/c2efa8c160ffe056b4209136b01b895e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/3049d9376fce15523f0de8230f7f1770.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/22d4a9e6d18ba6158b81dad91d4b560b.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/603b2885e4270c22e41fa4b0d33c4141.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/6e3210b3e6ce8353bb60ce3edb5760f0.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/3a556a1e1ec80f743aa0e88e8b0a73b8.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/deb7df629790a2a19630288415ff2961.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/2676bccf73c9df656b3c38ffb74bdcf2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/76cb7349c3183dca88e6c16609a17310.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/aff2db5298b6a8d9dbcd56f9dc54d83c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/804aaeb07b5838cea46c3a4be04ca5a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/e810f76c04d09b51b6b38c67e0eb36f1.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5464a6970d937f3605627d78f8ca2fa5.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/988556f5160cae76fe698924e527fff2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/bef7148695853cda77a7faed8e35a07e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/c56d2ec60728bb02ef51e0cda77232b7.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-красный-2024/</url></car>
-		<car>
 			<unique_id>ef2e7be6ad8d03230a40b8e46c1d5f7e</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -2267,6 +2158,61 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<car>
+			<unique_id>898ab64053284a4af318ac77cc9e22b5</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4493190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD8RB001333</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a55bad13b4b27e9528391675f74555a5.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/41c70740176a15a700b3225bccd63f2a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/7ee433bdb968e7dfefef77ebda062629.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/d7f9d83fe20c3e824b2627603f80e3bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5fb70da1aa16fc9712ac38b0e564481c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5a092ce8b17bc916de25a7bdde9a460d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/66ca905338134ff9de8e8359e163300e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a3b6a92b23e25a93f68dd6410f996a76.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/a723de49e65db4f27631fb6f8f26be77.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/b6f7d2056aaf2b26cb251a16fe5b3349.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/c2efa8c160ffe056b4209136b01b895e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/3049d9376fce15523f0de8230f7f1770.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/22d4a9e6d18ba6158b81dad91d4b560b.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/603b2885e4270c22e41fa4b0d33c4141.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/6e3210b3e6ce8353bb60ce3edb5760f0.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/3a556a1e1ec80f743aa0e88e8b0a73b8.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/deb7df629790a2a19630288415ff2961.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/2676bccf73c9df656b3c38ffb74bdcf2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/76cb7349c3183dca88e6c16609a17310.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/aff2db5298b6a8d9dbcd56f9dc54d83c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/804aaeb07b5838cea46c3a4be04ca5a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/e810f76c04d09b51b6b38c67e0eb36f1.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/5464a6970d937f3605627d78f8ca2fa5.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/988556f5160cae76fe698924e527fff2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/bef7148695853cda77a7faed8e35a07e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8RB001333/c56d2ec60728bb02ef51e0cda77232b7.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-красный-2024/</url></car>
 	<car>
 			<unique_id>fef179aa74b460ab95c27216dca8f7d1</unique_id>
 			<mark_id>Geely</mark_id>
