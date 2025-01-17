@@ -145,60 +145,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fef179aa74b460ab95c27216dca8f7d0</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S14RB134633</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c6654b46f27d5c036c2d4eecc79a15e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b704dc712272903122a4945bfba85d33.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b8274e2e1e361c1eb2a886158d6a8df7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5dc5ea80af0235bcc03b318da25a176d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/533d94ca25657e9cda803a3f01803786.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/1a6fa1286d0c7b7eac941e1b24a7ac33.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c249f883d5d01b25df4edc7f6170ae85.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/ae25513027fa03bf150b5cc6ecb44507.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/601a59cafe2e9b90a0fe276eacac195e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/2d9390f470bacc9073cb5c9d734bab67.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/702080bc3707129d5c9663eedfd15d19.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/cafa28989198ba3e010e7ebcb8f4189b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/6db6b5de98648b7eecc29f77226e8db3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/da0b9e33f2ed7492720fc8c324eaa05c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/d12ebdf17ef87e0b06382fcff54aa082.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/52961ff8c5db14ec7d9ce3decc039f74.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/7265d7d3fcad4c3fef0238eb7c45287c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/a5187f72a7c93424cb034349f9422592.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5ff8e309aab6ced5e7547cbec30d9890.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/7c3ae7e892e3137c0407b8342b5f277b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/17d2df8ab86be22fdef8df182ed1c366.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/ec113a71a4c2427b61566912bca5638a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/cd39c42bfd4f2155cfed6f3d9c990269.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/9761a79851300520121d5be1eea7f40b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/9d04a32fa86082536fab790fa752a527.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серый-2024/</url></car>
-		<car>
 			<unique_id>4d5477363f4289fde8a883adc7436ad4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -292,6 +238,60 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-зеленый-2024/</url></car>
+		<car>
+			<unique_id>fef179aa74b460ab95c27216dca8f7d0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S14RB134633</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c6654b46f27d5c036c2d4eecc79a15e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b704dc712272903122a4945bfba85d33.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/b8274e2e1e361c1eb2a886158d6a8df7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5dc5ea80af0235bcc03b318da25a176d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/533d94ca25657e9cda803a3f01803786.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/1a6fa1286d0c7b7eac941e1b24a7ac33.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/c249f883d5d01b25df4edc7f6170ae85.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/ae25513027fa03bf150b5cc6ecb44507.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/601a59cafe2e9b90a0fe276eacac195e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/2d9390f470bacc9073cb5c9d734bab67.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/702080bc3707129d5c9663eedfd15d19.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/cafa28989198ba3e010e7ebcb8f4189b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/6db6b5de98648b7eecc29f77226e8db3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/da0b9e33f2ed7492720fc8c324eaa05c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/d12ebdf17ef87e0b06382fcff54aa082.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/52961ff8c5db14ec7d9ce3decc039f74.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/7265d7d3fcad4c3fef0238eb7c45287c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/a5187f72a7c93424cb034349f9422592.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/5ff8e309aab6ced5e7547cbec30d9890.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/7c3ae7e892e3137c0407b8342b5f277b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/17d2df8ab86be22fdef8df182ed1c366.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/ec113a71a4c2427b61566912bca5638a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/cd39c42bfd4f2155cfed6f3d9c990269.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/9761a79851300520121d5be1eea7f40b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S14RB134633/9d04a32fa86082536fab790fa752a527.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>1cfe6520ddd111b03c744294a574c71b</unique_id>
 			<mark_id>Geely</mark_id>
@@ -398,7 +398,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>4017190</price>
 			<credit_discount>0</credit_discount>
@@ -448,7 +448,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3517190</price>
 			<credit_discount>0</credit_discount>
@@ -814,58 +814,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
-		<car>
-			<unique_id>86f38797bc408cd8bbb99d070e91d2e6</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>3214190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>390000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S90RX302527</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/035460b398dffde3ca5ce186010a1076.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/63e11a01adaea03cbd23abf8668be5e6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/a8bf34336429cf1ced813184bfbe4e05.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/3b71d92b3b2ce4d03527cfd1dec10a9f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/de794e52656ba6828e092ed01e49b17b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/c25eaa52d08d0b5bbe01f307e74d1aed.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/9ee7a6f96de071f96dd46be79f8259d1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/10b4e2fd875a5f7c34d0e423b132361d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/089e4863fa5e125edc5aa5ec0a1cec29.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/448778107afa3a79bd8acd24e4604d04.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/6794108b34086dc5aafe009959ca7ae3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/6b0b7a8f33698f037131590cf35222a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/acd218b55cd13176c929f9df0bd71e28.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/349e84718bf135170b88bc3fbc6f0431.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/1ba0542b7a68254f64cc6233c0f1e38c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/de859aee441f6c3672d7f0f35f13dae5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/6522e931b5be0bed27fb64f901e2c5e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/c3ec5422cda50e06c282a7ae990eeeea.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/d2b3219c3b71d9679ee0e037600b3b7b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/e34b1b9b0c3fc1df66628e583b8615e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/68d07aada51d259efbba4f9d1e243592.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/38c95de82de3a1690ed76f3267c0e80c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90RX302527/bdffa5311525093fc1a2e4a418809f51.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>13b36c365f84fa02afc148823589dc88</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2127,7 +2075,7 @@
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Синий</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -2172,6 +2120,6 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-синий-2024/</url></car>
 		</cars>
 </data>
