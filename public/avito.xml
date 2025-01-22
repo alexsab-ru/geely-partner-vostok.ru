@@ -1302,7 +1302,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>3139190</price>
 			<credit_discount>100000</credit_discount>
@@ -1601,7 +1601,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2663990</price>
 			<credit_discount>200000</credit_discount>
@@ -1670,81 +1670,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-синий-2024/</url></car>
-		<car>
-			<unique_id>4cb52565ef6ed1306f691024cb10bea8</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2483990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>550000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31030RG041921</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Январе ! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/b144abc80db03ea26ccd3b077853eb1a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/7d417bd0dd67d426616d2360bb3bdea9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/2e5d10e98b1bffa8b7ac95a16d4b7e70.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/3fb65e77f19d9aad47b80fe43ca76a27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/f3d253fd26dc2c8a1789494fb87a9d92.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/8dfa67e5a75f321e1eafb0a81c250ba8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/81f16c3aaa291032cb6274d0a20dcd3a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/36228d84af8dc1a8b6d31d15c4ed9cc0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/dc7636a6e11e23ad9ff357553eaf3e7d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/35b3c99fc3714950e91fc261c1682815.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/365edaef69b7220b4ed3af5899fd2b27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/f728b647df13d58fb428dfe7e5964864.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/28e1716102d58ead037d747fb2ff0eea.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/a924d66c4d4d9ca705cdd8aa7e376595.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/55997cfdc21ee7ba5e3598a37aabef8d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/acae6fa7bc285f8b81e2dc1d9ecc2ac1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/eb9553cf0ebda4e9d342b771bbe424e4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31030RG041921/540e668606080fe2bb3a4f649cb3c454.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>6ea2a44a979fbc267b1f2f6ddab5cd5d</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1820,6 +1745,81 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
+		<car>
+			<unique_id>4cb52565ef6ed1306f691024cb10bea8</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>2483990</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<optional_discount>50000</optional_discount>
+			<max_discount>550000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31030RG041921</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только в Январе ! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Кредитная ставка от 0,01%!
+✔️ Рассрочка 3 года
+✔️ ПТС в наличии
+✔️ Покупка за один день
+✔️ Без переплат
+✔️ Бонус по Трейд-ин
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/b144abc80db03ea26ccd3b077853eb1a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/7d417bd0dd67d426616d2360bb3bdea9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/2e5d10e98b1bffa8b7ac95a16d4b7e70.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/3fb65e77f19d9aad47b80fe43ca76a27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/f3d253fd26dc2c8a1789494fb87a9d92.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/8dfa67e5a75f321e1eafb0a81c250ba8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/81f16c3aaa291032cb6274d0a20dcd3a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/36228d84af8dc1a8b6d31d15c4ed9cc0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/dc7636a6e11e23ad9ff357553eaf3e7d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/35b3c99fc3714950e91fc261c1682815.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/365edaef69b7220b4ed3af5899fd2b27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/f728b647df13d58fb428dfe7e5964864.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/28e1716102d58ead037d747fb2ff0eea.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/a924d66c4d4d9ca705cdd8aa7e376595.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/55997cfdc21ee7ba5e3598a37aabef8d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/acae6fa7bc285f8b81e2dc1d9ecc2ac1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/eb9553cf0ebda4e9d342b771bbe424e4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31030RG041921/540e668606080fe2bb3a4f649cb3c454.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>bfb998f999588fab64c977364aad09ea</unique_id>
 			<mark_id>Geely</mark_id>
