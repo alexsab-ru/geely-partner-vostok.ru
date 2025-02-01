@@ -17,7 +17,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -114,7 +114,7 @@
 			<price>3917190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -264,7 +264,7 @@
 			<price>3817190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -489,7 +489,7 @@
 			<price>4017190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -567,7 +567,7 @@
 			<price>3517190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -645,7 +645,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>700000</max_discount>
 			<currency>RUR</currency>
@@ -791,7 +791,7 @@
 			<price>3431990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>740000</max_discount>
 			<currency>RUR</currency>
@@ -938,7 +938,7 @@
 			<price>3536990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>840000</max_discount>
 			<currency>RUR</currency>
@@ -1089,7 +1089,7 @@
 			<price>3139190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
@@ -1227,7 +1227,7 @@
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
@@ -1307,7 +1307,7 @@
 			<price>2909190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
@@ -1388,7 +1388,7 @@
 			<price>2663990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1469,7 +1469,7 @@
 			<price>2483990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1544,7 +1544,7 @@
 			<price>2393990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1915,7 +1915,7 @@
 			<price>4552190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>100000</optional_discount>
 			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
@@ -2068,7 +2068,7 @@
 			<price>3847190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
@@ -2375,7 +2375,7 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>700000</max_discount>
 			<currency>RUR</currency>
