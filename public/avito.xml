@@ -17,7 +17,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -320,7 +320,7 @@
 			<price>3817190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -545,7 +545,7 @@
 			<price>4017190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -623,7 +623,7 @@
 			<price>3517190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -847,7 +847,7 @@
 			<price>3431990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
+			<tradein_discount>453000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>740000</max_discount>
 			<currency>RUR</currency>
@@ -989,12 +989,12 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3536990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
+			<tradein_discount>453000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>840000</max_discount>
 			<currency>RUR</currency>
@@ -1283,7 +1283,7 @@
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
@@ -1363,7 +1363,7 @@
 			<price>2909190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
@@ -1444,7 +1444,7 @@
 			<price>2483990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1519,7 +1519,7 @@
 			<price>2393990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1594,7 +1594,7 @@
 			<price>2663990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1737,76 +1737,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>c7adba53b3bc206ae97a65075c75e079</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<max_discount>1050000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3RS108088</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Январе ! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/b3e1ec0247cc0824ee611e535578a3f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/24550578d0c08bf1e05804ce95a234ad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/ebca7c2a72d780cc0ab39bc78da33b0d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/20f2b7127bb35a45fddfa6a350ddc1b4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/b76f76d5186c5b93faaff3755ac0e4f0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/635916f2f1b36b2217a5561e2f23bb04.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/74b19006bdd9e6ec60e7c6c1e813c265.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/cced72e1247c26900b58718b543cb6ab.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/3701143ef944368d333dc10138d09856.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/1a1a92d722ffd58f17d94d532e86c35b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/147bbb93116d249bd5fd885527b3db72.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/d4e8159b531a883b842cb78732b11357.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3RS108088/55d2f836574bb42f3d727b668496d567.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
 			<unique_id>c6243e6145876f57c870e25c4503048d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1818,7 +1748,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
@@ -2050,7 +1980,7 @@
 			<price>3847190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
@@ -2115,7 +2045,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>3897190</price>
 			<credit_discount>250000</credit_discount>
@@ -2357,7 +2287,7 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>700000</max_discount>
 			<currency>RUR</currency>
