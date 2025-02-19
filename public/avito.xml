@@ -314,7 +314,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3817190</price>
 			<credit_discount>200000</credit_discount>
@@ -1967,9 +1967,9 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>550000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003149</vin>
 			<description>Подарки всeм покупатeлям!
@@ -2046,9 +2046,9 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>550000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003152</vin>
 			<description>Подарки всeм покупатeлям!
@@ -2126,9 +2126,9 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>550000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD5RB003153</vin>
 			<description>Подарки всeм покупатeлям!
@@ -2206,9 +2206,9 @@
 			<price>4493190</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>450000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<max_discount>850000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD2RB005877</vin>
 			<description>Подарки всeм покупатeлям!
@@ -2289,9 +2289,9 @@
 			<price>4493190</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>450000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<max_discount>850000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD8RB001333</vin>
 			<description>Подарки всeм покупатeлям!
