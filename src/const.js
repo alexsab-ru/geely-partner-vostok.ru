@@ -26,11 +26,17 @@ export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
 export const LINK_WIDGET_ORGNIZATION = 'CDV3IP3O';
 // Ссылки под хедером
+import modelsData from '@/data/models.json';
+const models = modelsData.filter(model => model.show);
 export const LINKS_MENU = [
 	{url: 'cars/', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
 	// {url: 'used_cars/', name: 'Авто с пробегом'},
-	{url: 'models/', name: 'Модели'},
+	{ 
+		url: 'models/', 
+		name: 'Модели',
+		children: models.map(model => ( { url: `models/${model.id}/`, name: `${model?.mark_id} ${model.name.toUpperCase()}` } ) )
+	},
 	{url: 'for-owners/', name: 'Владельцам'},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
@@ -39,6 +45,11 @@ export const LINKS_MENU = [
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},
 	{url: 'contacts/', name: 'Контакты'},
+];
+// Коллекции
+export const COLLECTIONS = [
+	{name: 'special-offers', title: 'Спецпредложения'},
+	{name: 'for-owners', title: 'Владельцам'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
