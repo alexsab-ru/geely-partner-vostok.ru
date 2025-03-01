@@ -17,7 +17,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S61RB151174</vin>
@@ -168,7 +168,7 @@
 			<price>3817190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S66RB110040</vin>
@@ -387,7 +387,7 @@
 			<price>4017190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S13RB081410</vin>
@@ -464,7 +464,7 @@
 			<price>3517190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S68RB109438</vin>
@@ -681,7 +681,7 @@
 			<price>3431990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>453000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXRB320568</vin>
@@ -755,7 +755,7 @@
 			<price>3536990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>453000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D8RB314994</vin>
@@ -975,7 +975,7 @@
 			<price>3214190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S93RX303199</vin>
@@ -1027,7 +1027,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>390000</max_discount><priceWithDiscount>2824190</priceWithDiscount><sale_price>2824190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>3014190</priceWithDiscount><sale_price>3014190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>13b36c365f84fa02afc148823589dc88</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1045,7 +1045,7 @@
 			<price>3139190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z9RX537948</vin>
@@ -1181,7 +1181,7 @@
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z0RX536686</vin>
@@ -1260,7 +1260,7 @@
 			<price>2909190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB37622Z1RX533988</vin>
@@ -1340,7 +1340,7 @@
 			<price>2393990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31031RG041328</vin>
@@ -1414,7 +1414,7 @@
 			<price>2663990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F3103XRG043742</vin>
@@ -1494,7 +1494,7 @@
 			<price>2483990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31030RG041921</vin>
@@ -1637,7 +1637,7 @@
 			<price>4552190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>100000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D0RS146572</vin>
@@ -1788,7 +1788,7 @@
 			<price>3847190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S61RY037230</vin>
