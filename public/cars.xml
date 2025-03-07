@@ -378,7 +378,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>10</run>
 			<year>2024</year>
 			<price>4017190</price>
 			<credit_discount>200000</credit_discount>
@@ -898,7 +898,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3139190</price>
 			<credit_discount>100000</credit_discount>
@@ -965,7 +965,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
@@ -1347,7 +1347,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2483990</price>
 			<credit_discount>200000</credit_discount>
@@ -1705,7 +1705,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3897190</price>
 			<credit_discount>250000</credit_discount>
