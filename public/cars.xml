@@ -73,7 +73,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>2967190</priceWithDiscount><sale_price>2967190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3717190</priceWithDiscount><sale_price>3717190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>e46c0e841f79323480fc3f2b4f68dc27</unique_id>
 			<mark_id>Geely</mark_id>
@@ -146,7 +146,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>2967190</priceWithDiscount><sale_price>2967190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3717190</priceWithDiscount><sale_price>3717190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>6a15b1ec3e3d8a7863713faf2655f811</unique_id>
 			<mark_id>Geely</mark_id>
@@ -220,7 +220,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>3067190</priceWithDiscount><sale_price>3067190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3817190</priceWithDiscount><sale_price>3817190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>1cfe6520ddd111b03c744294a574c71b</unique_id>
 			<mark_id>Geely</mark_id>
@@ -294,7 +294,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>3067190</priceWithDiscount><sale_price>3067190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серебристый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3817190</priceWithDiscount><sale_price>3817190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серебристый-2024/</url></car>
 		<car>
 			<unique_id>be302b9ea2b7564798688c1b304ea351</unique_id>
 			<mark_id>Geely</mark_id>
@@ -365,7 +365,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>3067190</priceWithDiscount><sale_price>3067190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3817190</priceWithDiscount><sale_price>3817190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>134c2c0e4fe40eab40df4d5b5481049c</unique_id>
 			<mark_id>Geely</mark_id>
@@ -442,7 +442,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>3267190</priceWithDiscount><sale_price>3267190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4017190</priceWithDiscount><sale_price>4017190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
 			<unique_id>8b7bc05ef4c91c939c9ccf526c8ef983</unique_id>
 			<mark_id>Geely</mark_id>
@@ -521,81 +521,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>750000</max_discount><priceWithDiscount>2762990</priceWithDiscount><sale_price>2762990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-черный-2024/</url></car>
-		<car>
-			<unique_id>bb7e22cde2dfffe832a5876ea325c56b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>13</run>
-			<year>2024</year>
-			<price>3717190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S10RB068453</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/833fdfe28e65e4fbad6943cc31ddbb29.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/a6645de406d63020cb9a51a1e7d47b87.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/9a61a5d3e1c06194240e0438489b2649.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/12e98365c06f777899bc619dfeb006aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/c3ad2e997d4b1e71ba6cf48080955c58.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/d18e9d890b1312d8e20b4f01da04617f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/92a87b2d4a5eb270923bc1a52f9da664.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/bca9c51a46502fb133240a3a1ee52cfe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/7bbb47ea86733ad2dc71984b2a555bec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/f4a39874c3cd2360dc3f2ec934a15923.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/5c35522cb84046d91db836e31325161f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/68742b9c5745427422050eff3c6e7bcb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/3f7e65f7c2fed0a39fb803074f444469.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/dbea55a34c0e4e5e8a745faa813f1ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/52927f56501d009270c8626b6e47bf41.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/78eb7660faa74d1ac7dc19504bbff807.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/2de4e0f367f345817f3f1ffa58bdccfa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/86d4216c46f39e96485bf9c3a25bce40.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>700000</max_discount><priceWithDiscount>3017190</priceWithDiscount><sale_price>3017190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3512990</priceWithDiscount><sale_price>3512990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-черный-2024/</url></car>
 		<car>
 			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
 			<mark_id>Geely</mark_id>
@@ -670,7 +596,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>840000</max_discount><priceWithDiscount>2696990</priceWithDiscount><sale_price>2696990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3536990</priceWithDiscount><sale_price>3536990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>bd5809062e96d2fb2e224216afe1e126</unique_id>
 			<mark_id>Geely</mark_id>
@@ -741,7 +667,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>840000</max_discount><priceWithDiscount>2696990</priceWithDiscount><sale_price>2696990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3536990</priceWithDiscount><sale_price>3536990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>9176ae1d10d76010874bcf1a1ef18691</unique_id>
 			<mark_id>Geely</mark_id>
@@ -815,7 +741,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>840000</max_discount><priceWithDiscount>2696990</priceWithDiscount><sale_price>2696990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3536990</priceWithDiscount><sale_price>3536990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
 			<unique_id>1cca16b2cfdd14bac9581c56a22146be</unique_id>
 			<mark_id>Geely</mark_id>
@@ -885,7 +811,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>390000</max_discount><priceWithDiscount>2824190</priceWithDiscount><sale_price>2824190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3214190</priceWithDiscount><sale_price>3214190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>13b36c365f84fa02afc148823589dc88</unique_id>
 			<mark_id>Geely</mark_id>
@@ -952,7 +878,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>500000</max_discount><priceWithDiscount>2639190</priceWithDiscount><sale_price>2639190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3139190</priceWithDiscount><sale_price>3139190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>86227566fd132ffa449c10a3c6940cc6</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1021,86 +947,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>600000</max_discount><priceWithDiscount>2509190</priceWithDiscount><sale_price>2509190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-синий-2024/</url></car>
-		<car>
-			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3109190</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z0RX536686</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/1065c713bf596ce3f4c88461c40dd00f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/95881073fd2441afca7a39fef3b71f5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/f9eaa0816c2c0f213c6d5a9c298a8501.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/da61c3114b73769d9e16d21c3ffaa229.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b3f246dab4973e8ff52be44029b06901.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/7fb59d3c8366e5cd0160061b20f08f66.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9ba040f50c62ba9e8caecf92fe599a98.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/eb1b254a7691ba381b311227ec48abec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/6007ea47db764e26541149e9d39c46c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/c9645f725ae7096f159e4e63153b0569.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b905745159c5bfbeb6667113802e7041.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/567b94da299b82859c6f6ba3efdf14a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/bec02531881b6da5fc3d53b5b8c1c037.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/d45973e483a107c99f1bea1a500cf019.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/153667933eb135f4133a82f411c6b4cf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/78c6dd1bceef563104692b3682bfc98c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/cb2657c07d7c7182aa9bc83be0a3b04c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/245770a24b24583f4da9730bdf71d601.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/08020309a47dc33294d31348832046c9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9c1fc63d03d6af981de7616e756fcfe4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/89eb45ca1e50cfdfd49f0d9bbf635f2c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/4121d3cb156c3da3a89446f214c2c134.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/ed85385da96a23a555e2bcacba29b366.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>600000</max_discount><priceWithDiscount>2509190</priceWithDiscount><sale_price>2509190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3109190</priceWithDiscount><sale_price>3109190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>7b1011ac525d1f96e3ffae67016666e9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1180,7 +1027,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>600000</max_discount><priceWithDiscount>2309190</priceWithDiscount><sale_price>2309190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-голубой-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2909190</priceWithDiscount><sale_price>2909190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-голубой-2024/</url></car>
 		<car>
 			<unique_id>6ea2a44a979fbc267b1f2f6ddab5cd5d</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1254,7 +1101,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>550000</max_discount><priceWithDiscount>1843990</priceWithDiscount><sale_price>1843990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2393990</priceWithDiscount><sale_price>2393990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
 		<car>
 			<unique_id>39088cfeed944732ae910787d74367fe</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1334,7 +1181,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>550000</max_discount><priceWithDiscount>2113990</priceWithDiscount><sale_price>2113990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-синий-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2663990</priceWithDiscount><sale_price>2663990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>4cb52565ef6ed1306f691024cb10bea8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1408,7 +1255,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>550000</max_discount><priceWithDiscount>1933990</priceWithDiscount><sale_price>1933990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2483990</priceWithDiscount><sale_price>2483990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>dbc2a92d5959b7d25ed43799c80010c9</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1482,7 +1329,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>1050000</max_discount><priceWithDiscount>3802190</priceWithDiscount><sale_price>3802190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4852190</priceWithDiscount><sale_price>4852190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>c7adba53b3bc206ae97a65075c75e079</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1551,7 +1398,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>1050000</max_discount><priceWithDiscount>3802190</priceWithDiscount><sale_price>3802190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4852190</priceWithDiscount><sale_price>4852190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
 			<unique_id>f29d50b86390ce08bd2d82a0237c3c07</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1620,7 +1467,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>1050000</max_discount><priceWithDiscount>3802190</priceWithDiscount><sale_price>3802190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4852190</priceWithDiscount><sale_price>4852190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>4d828708a24d4c54b3022ecb1999e688</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1693,7 +1540,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>1000000</max_discount><priceWithDiscount>3549990</priceWithDiscount><sale_price>3549990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-черный-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4549990</priceWithDiscount><sale_price>4549990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-черный-2024/</url></car>
 		<car>
 			<unique_id>6d05bc7f7df3820aef7cb2e56fd1d016</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1766,7 +1613,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>650000</max_discount><priceWithDiscount>3197190</priceWithDiscount><sale_price>3197190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3847190</priceWithDiscount><sale_price>3847190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>70661651ae2e9397a231453be08d82f3</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1835,7 +1682,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>650000</max_discount><priceWithDiscount>3197190</priceWithDiscount><sale_price>3197190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3847190</priceWithDiscount><sale_price>3847190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>9e2eb557cd8dd76ab6ad19e881e55dd8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1907,7 +1754,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>700000</max_discount><priceWithDiscount>3197190</priceWithDiscount><sale_price>3197190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3897190</priceWithDiscount><sale_price>3897190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>6cd3e418fa1f1a55dbecd37a1d1fc1e8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1990,6 +1837,6 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>500000</max_discount><priceWithDiscount>3067190</priceWithDiscount><sale_price>3067190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>3567190</priceWithDiscount><sale_price>3567190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
 		</cars>
 </data>
