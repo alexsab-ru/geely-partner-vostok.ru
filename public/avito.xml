@@ -466,7 +466,7 @@
 			<price>3512990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>213000</tradein_discount>
+			<tradein_discount>263000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>750000</max_discount>
 			<currency>RUR</currency>
@@ -529,81 +529,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-черный-2024/</url></car>
-		<car>
-			<unique_id>bb7e22cde2dfffe832a5876ea325c56b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>3717190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S10RB068453</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/833fdfe28e65e4fbad6943cc31ddbb29.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/a6645de406d63020cb9a51a1e7d47b87.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/9a61a5d3e1c06194240e0438489b2649.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/12e98365c06f777899bc619dfeb006aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/c3ad2e997d4b1e71ba6cf48080955c58.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/d18e9d890b1312d8e20b4f01da04617f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/92a87b2d4a5eb270923bc1a52f9da664.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/bca9c51a46502fb133240a3a1ee52cfe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/7bbb47ea86733ad2dc71984b2a555bec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/f4a39874c3cd2360dc3f2ec934a15923.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/5c35522cb84046d91db836e31325161f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/68742b9c5745427422050eff3c6e7bcb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/3f7e65f7c2fed0a39fb803074f444469.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/dbea55a34c0e4e5e8a745faa813f1ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/52927f56501d009270c8626b6e47bf41.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/78eb7660faa74d1ac7dc19504bbff807.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/2de4e0f367f345817f3f1ffa58bdccfa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S10RB068453/86d4216c46f39e96485bf9c3a25bce40.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>f1c70d938fc36a139affc000881e1142</unique_id>
 			<mark_id>Geely</mark_id>
@@ -769,7 +694,7 @@
 			<price>3536990</price>
 			<credit_discount>220000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>220000</tradein_discount>
+			<tradein_discount>453000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>840000</max_discount>
 			<currency>RUR</currency>
@@ -844,9 +769,9 @@
 			<price>3214190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
+			<max_discount>390000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S93RX303199</vin>
 			<description>Подарки всeм покупатeлям!
@@ -967,6 +892,86 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
+			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>3109190</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>210000</tradein_discount>
+			<optional_discount>50000</optional_discount>
+			<max_discount>600000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z0RX536686</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Кредитная ставка от 0,01%!
+✔️ Рассрочка 3 года
+✔️ ПТС в наличии
+✔️ Покупка за один день
+✔️ Без переплат
+✔️ Бонус по Трейд-ин
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/1065c713bf596ce3f4c88461c40dd00f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/95881073fd2441afca7a39fef3b71f5a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/f9eaa0816c2c0f213c6d5a9c298a8501.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/da61c3114b73769d9e16d21c3ffaa229.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b3f246dab4973e8ff52be44029b06901.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/7fb59d3c8366e5cd0160061b20f08f66.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9ba040f50c62ba9e8caecf92fe599a98.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/eb1b254a7691ba381b311227ec48abec.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/6007ea47db764e26541149e9d39c46c0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/c9645f725ae7096f159e4e63153b0569.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b905745159c5bfbeb6667113802e7041.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/567b94da299b82859c6f6ba3efdf14a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/bec02531881b6da5fc3d53b5b8c1c037.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/d45973e483a107c99f1bea1a500cf019.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/153667933eb135f4133a82f411c6b4cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/78c6dd1bceef563104692b3682bfc98c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/cb2657c07d7c7182aa9bc83be0a3b04c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/245770a24b24583f4da9730bdf71d601.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/08020309a47dc33294d31348832046c9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9c1fc63d03d6af981de7616e756fcfe4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/89eb45ca1e50cfdfd49f0d9bbf635f2c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/4121d3cb156c3da3a89446f214c2c134.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/ed85385da96a23a555e2bcacba29b366.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<car>
 			<unique_id>86227566fd132ffa449c10a3c6940cc6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -1037,86 +1042,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-синий-2024/</url></car>
 		<car>
-			<unique_id>fa5cd9276508be21a295096a997bc779</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3109190</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>600000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z0RX536686</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/1065c713bf596ce3f4c88461c40dd00f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/95881073fd2441afca7a39fef3b71f5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/f9eaa0816c2c0f213c6d5a9c298a8501.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/da61c3114b73769d9e16d21c3ffaa229.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b3f246dab4973e8ff52be44029b06901.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/7fb59d3c8366e5cd0160061b20f08f66.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9ba040f50c62ba9e8caecf92fe599a98.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/eb1b254a7691ba381b311227ec48abec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/6007ea47db764e26541149e9d39c46c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/c9645f725ae7096f159e4e63153b0569.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/b905745159c5bfbeb6667113802e7041.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/567b94da299b82859c6f6ba3efdf14a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/bec02531881b6da5fc3d53b5b8c1c037.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/d45973e483a107c99f1bea1a500cf019.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/153667933eb135f4133a82f411c6b4cf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/78c6dd1bceef563104692b3682bfc98c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/cb2657c07d7c7182aa9bc83be0a3b04c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/245770a24b24583f4da9730bdf71d601.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/08020309a47dc33294d31348832046c9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/9c1fc63d03d6af981de7616e756fcfe4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/89eb45ca1e50cfdfd49f0d9bbf635f2c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/4121d3cb156c3da3a89446f214c2c134.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z0RX536686/ed85385da96a23a555e2bcacba29b366.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>7b1011ac525d1f96e3ffae67016666e9</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -1133,7 +1058,7 @@
 			<price>2909190</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>600000</max_discount>
 			<currency>RUR</currency>
@@ -1214,7 +1139,7 @@
 			<price>2393990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1289,7 +1214,7 @@
 			<price>2663990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1370,7 +1295,7 @@
 			<price>2483990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
+			<tradein_discount>150000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
@@ -1808,7 +1733,7 @@
 			<price>3847190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
@@ -2019,7 +1944,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>1b2deef802c447047512417d79aa4bbc</unique_id>
+			<unique_id>7e54ee288a38209b624c7bd067375cc7</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -2039,7 +1964,7 @@
 			<optional_discount>50000</optional_discount>
 			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
-			<vin>LHA022GD3RB003152</vin>
+			<vin>LHA022GD5RB003153</vin>
 			<description>Подарки всeм покупатeлям!
 
 Реализация cкладa Knewstar по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
@@ -2070,29 +1995,29 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/fd013afb7814ea88d247da5974a7a697.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/04906fad3027bc4faf482ff1c5479762.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d8802f4974a6244a521312b047bd447a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c0e49a9fdb38accbea0dcff8684a26d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5df4ae352c9eafccbf61a7e19bbf6e68.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c3e0b13d6ffb8e51bca91470b614f30a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/67888927b5b7a2c5c5bd8bf1ce17cb55.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d3912765a38a97a37d3581b1f2c29c0c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5514c2fae9404f85315a935e3c7436e8.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/b730075521c4adc6f74894f12a8d2e9a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/be8c43b8c83867a6aeb4daa611a9efd9.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/56c9e76673652a925fb25a1b438ecf74.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/a1a1789136f0154411cd1116aaf09ac3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/63df16d2b4cac88f31a7fe2a4f77b1fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/ea63bff120907ae342087f85da8e45b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d0873d5d5710ae014c4a157bff98f637.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/07a4b192dcbeae79b0faf2a228161f6b.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/60b02ea042722b6e36614f21d162fb8a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7da1a3fd500a0ed75b6586ba6c2db148.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/2dab722f663294e32df878c70b7e5580.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/52d57c13c495469d0c3f2f375a99b88e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/3d489189faea843db1df4caffa319b6d.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7db6be96b8e7a44f96b0ca121d4ce21d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/bdc8ce8bcdc5e8db17ffb044e9bd8384.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2565de74e3012e138f73bbca83aae203.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f55768aea450c53bef8ccbee8516252e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f543fd0bf2afd4b90d82385b675b18de.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/4584189e4f7b1fdac100301b6ebd23b7.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/64fbf5ea87c722e95500ee4b2244844b.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2e7bfc9001dbc3c3fdbb8593f9ea8c9d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2a6301f8653497966fc1bc0e3c0d7cee.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/fa3fd4323eedee6fb6ae28ae866c8247.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/873b704a0cf2d8365ef186a7ab5e1995.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/d98e668852e7c315c2ff848bd027eb5d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/81ba5a319c4dc31b594d92e3b0a37168.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/a11db089a9f8e30ee5fa4a2f5f36a3f1.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/b237c209bc1054eaa69964d749cbdae2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/c8fee263dabf1a42f605f683fdeee70c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/b94affa6f82180b56d8615c15bd9e9dc.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/195df86e9c6e1aba8e264bbeca01b832.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f509efb5c23b052ccc1a1af5b3574a7e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/31ed0a8803a03d3d52b6251163b57ed0.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/d805580c9fdbdde82ef04087cdcbbfe2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/118d932c57535cff65c480c327319144.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/634ee455635b2a81e92bce7f746cc48e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/bf9c574cb1a36f1631ece01419b4b114.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -2178,7 +2103,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>7e54ee288a38209b624c7bd067375cc7</unique_id>
+			<unique_id>1b2deef802c447047512417d79aa4bbc</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -2198,7 +2123,7 @@
 			<optional_discount>50000</optional_discount>
 			<max_discount>1000000</max_discount>
 			<currency>RUR</currency>
-			<vin>LHA022GD5RB003153</vin>
+			<vin>LHA022GD3RB003152</vin>
 			<description>Подарки всeм покупатeлям!
 
 Реализация cкладa Knewstar по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
@@ -2229,117 +2154,34 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/bdc8ce8bcdc5e8db17ffb044e9bd8384.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2565de74e3012e138f73bbca83aae203.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f55768aea450c53bef8ccbee8516252e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f543fd0bf2afd4b90d82385b675b18de.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/4584189e4f7b1fdac100301b6ebd23b7.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/64fbf5ea87c722e95500ee4b2244844b.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2e7bfc9001dbc3c3fdbb8593f9ea8c9d.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/2a6301f8653497966fc1bc0e3c0d7cee.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/fa3fd4323eedee6fb6ae28ae866c8247.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/873b704a0cf2d8365ef186a7ab5e1995.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/d98e668852e7c315c2ff848bd027eb5d.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/81ba5a319c4dc31b594d92e3b0a37168.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/a11db089a9f8e30ee5fa4a2f5f36a3f1.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/b237c209bc1054eaa69964d749cbdae2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/c8fee263dabf1a42f605f683fdeee70c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/b94affa6f82180b56d8615c15bd9e9dc.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/195df86e9c6e1aba8e264bbeca01b832.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/f509efb5c23b052ccc1a1af5b3574a7e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/31ed0a8803a03d3d52b6251163b57ed0.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/d805580c9fdbdde82ef04087cdcbbfe2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/118d932c57535cff65c480c327319144.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/634ee455635b2a81e92bce7f746cc48e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD5RB003153/bf9c574cb1a36f1631ece01419b4b114.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/fd013afb7814ea88d247da5974a7a697.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/04906fad3027bc4faf482ff1c5479762.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d8802f4974a6244a521312b047bd447a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c0e49a9fdb38accbea0dcff8684a26d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5df4ae352c9eafccbf61a7e19bbf6e68.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/c3e0b13d6ffb8e51bca91470b614f30a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/67888927b5b7a2c5c5bd8bf1ce17cb55.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d3912765a38a97a37d3581b1f2c29c0c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/5514c2fae9404f85315a935e3c7436e8.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/b730075521c4adc6f74894f12a8d2e9a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/be8c43b8c83867a6aeb4daa611a9efd9.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/56c9e76673652a925fb25a1b438ecf74.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/a1a1789136f0154411cd1116aaf09ac3.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/63df16d2b4cac88f31a7fe2a4f77b1fa.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/ea63bff120907ae342087f85da8e45b6.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/d0873d5d5710ae014c4a157bff98f637.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/07a4b192dcbeae79b0faf2a228161f6b.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/60b02ea042722b6e36614f21d162fb8a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7da1a3fd500a0ed75b6586ba6c2db148.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/2dab722f663294e32df878c70b7e5580.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/52d57c13c495469d0c3f2f375a99b88e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/3d489189faea843db1df4caffa319b6d.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD3RB003152/7db6be96b8e7a44f96b0ca121d4ce21d.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-белый-2024/</url></car>
-		<car>
-			<unique_id>ef2e7be6ad8d03230a40b8e46c1d5f7e</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>4493190</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>850000</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD2RB005877</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Knewstar по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Knewstar
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Knewstar
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/90a738f32809e5316a2fa730e80a6947.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/9e5eff27e811c0564988d0b34b06f944.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/ffc978c7028c6427a427d26ac3b128bb.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/d593d6506f582ffe905eb2598521815f.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/11539178a80712a480734f20a6a672f2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/a1b816008860a9f912bbdc9cec4eab99.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/151de8a42c44943e0765b958fe532ee3.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/827c185ff5dddc8dd9978852f2f7b233.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/9436f3ed53a0fe819d931ec69744e73e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/80297172d4313b5ebecb7a22b1b83bac.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/7e9d2c50a6c93d123d1decea641754e2.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/1496de98b06d1be8378f4cd047524aed.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/419073f599f31905d93a60b60fe72e04.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/8dedb0cbd0e24ef5d424c295cb2afb5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/849ee5a165c91a0c2b4675b2fc2a7456.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/be9dfdd0011d1a0b9613daf47fe98cfc.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/e6b7aab6e7d8bb8c8faef4dc48d7b545.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/a4bef91b3557c69d60f6754663709e9c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/1a144b565725c364a17d92814b711a83.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/11f2847ef1c3c436e440983d16756d7e.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/473feddab82230ba66ae1beaabbde60c.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/d4bbadb4127ed2b2ab974e7b1dc02209.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/f27917eb8d20211a2524059fb0ed30ac.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/e78234f76300921f1bd86b6977f41616.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/ee613c54de65f0108c4645d22a08ca53.jpg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/b027458c18a284606a5618696fecb251.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
 		<car>
 			<unique_id>898ab64053284a4af318ac77cc9e22b5</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
@@ -2423,5 +2265,88 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-красный-2024/</url></car>
+		<car>
+			<unique_id>ef2e7be6ad8d03230a40b8e46c1d5f7e</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>10</run>
+			<year>2024</year>
+			<price>4493190</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>450000</tradein_discount>
+			<optional_discount>50000</optional_discount>
+			<max_discount>850000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD2RB005877</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Knewstar по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Knewstar
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Knewstar
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только в Марте! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Кредитная ставка от 0,01%!
+✔️ Рассрочка 3 года
+✔️ ПТС в наличии
+✔️ Покупка за один день
+✔️ Без переплат
+✔️ Бонус по Трейд-ин
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/90a738f32809e5316a2fa730e80a6947.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/9e5eff27e811c0564988d0b34b06f944.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/ffc978c7028c6427a427d26ac3b128bb.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/d593d6506f582ffe905eb2598521815f.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/11539178a80712a480734f20a6a672f2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/a1b816008860a9f912bbdc9cec4eab99.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/151de8a42c44943e0765b958fe532ee3.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/827c185ff5dddc8dd9978852f2f7b233.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/9436f3ed53a0fe819d931ec69744e73e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/80297172d4313b5ebecb7a22b1b83bac.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/7e9d2c50a6c93d123d1decea641754e2.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/1496de98b06d1be8378f4cd047524aed.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/419073f599f31905d93a60b60fe72e04.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/8dedb0cbd0e24ef5d424c295cb2afb5a.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/849ee5a165c91a0c2b4675b2fc2a7456.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/be9dfdd0011d1a0b9613daf47fe98cfc.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/e6b7aab6e7d8bb8c8faef4dc48d7b545.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/a4bef91b3557c69d60f6754663709e9c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/1a144b565725c364a17d92814b711a83.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/11f2847ef1c3c436e440983d16756d7e.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/473feddab82230ba66ae1beaabbde60c.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/d4bbadb4127ed2b2ab974e7b1dc02209.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/f27917eb8d20211a2524059fb0ed30ac.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/e78234f76300921f1bd86b6977f41616.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/ee613c54de65f0108c4645d22a08ca53.jpg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD2RB005877/b027458c18a284606a5618696fecb251.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
 	</cars>
 </data>
