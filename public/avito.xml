@@ -164,11 +164,11 @@
 			<run>3</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>950000</max_discount>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>583000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12RB165542</vin>
 			<description>Подарки всeм покупатeлям!
@@ -200,7 +200,21 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/c61999d25683339b4c678f37dba8aee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/cf197d2f4d4dff4f43aa18b88b66913b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/8ff334614decdd1327b3b16eb9448996.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/f2fa81431620071dce5fbd8b6e9fb4cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/a3f86a6ad60d6c47fe023824b4565177.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/1b6694430f3f77a2749c1510a3032900.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/82b470f3cc4920d07ea94a6be975539e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/f2bf934db35fe3354ad4c9fcdd6b41f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/7c9bb242abfeb02513cba19300661984.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/7b09b688f4d471550f0bdc98d66a7669.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/6fa3f1ecbc512f58f3b360a41bd5eec0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/2bcb28a8bdf3d8d1f4649046a51c4d1d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165542/44beff26051ff756c8ebac6e15de45c9.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -220,11 +234,11 @@
 			<run>1</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>950000</max_discount>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>583000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S11RB158226</vin>
 			<description>Подарки всeм покупатeлям!
@@ -276,11 +290,11 @@
 			<run>1</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>950000</max_discount>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>583000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14RB164568</vin>
 			<description>Подарки всeм покупатeлям!
@@ -636,7 +650,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>390000</max_discount>
+			<max_discount>440000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S93RX303199</vin>
 			<description>Подарки всeм покупатeлям!
@@ -707,7 +721,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>390000</max_discount>
+			<max_discount>440000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S94RX309822</vin>
 			<description>Подарки всeм покупатeлям!
@@ -739,7 +753,23 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/7241666a0407a67cb885465db9f22219.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/983ff5365725fda42fbc11b3d0c44851.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/b86ad18e4511f30908ff590a97512d80.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/84f3066a0520bf914c3ef33acaf52f6c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/a4337dcaaa94fa4a09622d99af66ab5e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/2e3429b2acdf269ebd73dca02fc76fbe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/00b3145fcfbedc108acb448452b4a9cd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/283252ac3dfa5d84a04af7e38f226c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/9d7ddf9161b0c0f2c2e76df549dba151.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/ea6e910fac71a199d18e952669912ec7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/f170ad38bf522dcbe305ca57cd40ee5e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/8485b2bf081f8f05fe9998152ceadf47.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/55774a1d4683735f0bb8cff9a97ff7c9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/19ceab0994b6e5ae3d8ca0694554c569.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94RX309822/fa0b2588443b8b485c698a35d83daf0b.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -848,22 +878,36 @@
 ❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
 ❗️ Перебьём любое предложение на рынке!
 
-Скидка для юр.лиц до 1 062 000 руб. только в Апреле! Оформляем также в лизинг!
+Скидка для юр.лиц до 1 062 000 руб. только до 30 апреля ! Оформляем также в лизинг!
 ------------------------
 
 НАШИ ПРЕИМУЩЕСТВА:
 
-✔️ Кредитная ставка от 0,01%!
-✔️ Рассрочка 3 года
-✔️ ПТС в наличии
-✔️ Покупка за один день
-✔️ Без переплат
-✔️ Бонус по Трейд-ин
+✔️ 5 лет без сервисных забот*
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01%
 ✔️ Тест-драйв
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/cbecb2ebd4da18723cca56714b6e6b91.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/24ac4fe5b08818a84756c1803ba30634.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/696c43415a0bb0a01c357107cdda5588.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/8f360b03e9ad71200a449b0b11504cd1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/5eb2ad97871e9537d4734950ced4e132.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/b9a1c686b384ee6d920a7a4094e09384.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/53b9f65937ac2fc139580b4ff0c6f311.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/15631aae319d0d058c52841fcff699f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/b9229f3cf8d9cc25daa89d138b2751df.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/33ba1f899d9db9c010aa936eedda0c9a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/c4fe5c4c1b0c6a879cf82b811e162c69.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/f9332f78275432f6e7248cad6b560265.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z3RX540439/0fce637a30f25c37af1bce4114fafd28.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1225,7 +1269,21 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/56654b1952d91d5782dec3af8c968fc2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/8b85b88974b2cb3a4fed6ada4e5e8455.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/8918c8779a672727ec3f33ffbdc4a3a5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/bb2d62ad5e3d9cc0a346784240c960b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/ce106bbcb74912390ff59f46dfc112df.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/c4a023e9643c7a94bba42c511ab64605.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/eb0c50649b754c5913068f6d63bc13c9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/306b1b412c663688ab1eab04cbd10566.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/3904ee5ea3bb85241aaf2ca2ba0e99e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/39f4f452f2fa9a993d3097331de8ac76.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/99a904316de13d0866ef5b3d78cd5c67.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/45715ec4c842f5234b4da3590a9e6213.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/8d43a27eac1e1775eafc432654bba0e4.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1281,7 +1339,22 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/bb462288fa69f4a655aab1d4a53a96b3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/8981854b4264faab06f7c5b5407484bc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/e7464ca3b55dad07f0d3f77b82c1b1dc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/2745e35e87c211d296b1ea8fd1485777.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/ee1ff09279919ebbd2a70a757ea6402a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/318510b86b6b68956015cd52b533d431.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/9a881dc06e9bece65cc0c1bb6b162518.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/a262725e1183b62f37d0071f53bcb40f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/908c25139fc13e01e702145834152fc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/9529fbd02a38d73adc79973f00015ff9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/deaca04a31c54b836c9be437fe0b5872.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/d47cdf1fe1d3a28baf6e43f6fc01d8ac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/8bf6d07d39b1eab72fb42803d69dcba1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267286/b786e4be75149f12629c3b1d550bc109.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1337,7 +1410,24 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/398288378a21e5a950ca71dbb6ca9455.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/14e11a747ecb149bad986a655c056e47.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/2d7b744e7e01cba7be008d238df6f569.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/fdfc8363687056685fb97e385d119cf8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/390aa78b75b60cc7b4e3266b4c39e4cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/1e9f6a2e152e2f6a851721aa93afcfb1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/38f6b6a88f190b02f4496ab924ccf58d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/6d217e428d80ed2b586bfa41640518c4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/0ab0376b50cfdd5527af9d9cfe8d074f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/934d767e6e9657499c573204fb796477.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/89e5fd2b421f3e1ce9f1a4117ce49801.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/10bdcd00d4fbf463e7d22bd1065566bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/7614cc4ed92ed116a0143f0a435d0142.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/409c4eed7de719a38b965cb15ccbb2f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/6f39efacaa54dd5e00f4259b5336d9e3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS188902/e4925c60d083d1b64a0a07843d4e55f3.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1533,7 +1623,22 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/830eedd19129b7124ce9ba17f68651fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/c39eda1707a5b168dc4e2d9a8e6413ac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/b6000f219b5bf8e339352df43f6b70e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/1e1fb9dd3d5e7dd76ab3c8890308c640.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/221bd43ce2420182dee6a4e3d338189a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/e9f2a0e61fe522fcca67a6ebbfa5b85e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/cf322b1082719a8ae91b2099427ed13f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/94b31ac2c2c42a6a39439d279ca4971e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/0d49ce68fc8bbf9d4b32062d24099424.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/0bdc544bfb0c724c1dca6a830398b1d1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/ea2fadcdca8f3d7c0476940ac1f8a911.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/141a3bb066df5faf705ce2886ab7dfd3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/8c827568d0098a306cc56f12fc4d9eb0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXRS207765/92e575e34e24c623a2eb3f7251a15234.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1589,7 +1694,23 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/57cef2490ec6fc55e0f4f61b33b06ef8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/80bb5e4398f55b2e10cdf34172394315.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/dfd4cb706eb7ea1670a89bdfd17fef54.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/7dc250c81ec3e74fccf6cb0ffd5e724b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/5094d0f2d419bd59988b8d34e5a65456.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/afb6922d62147922dcf274075d56bb9f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/29d4795bea35ffdb56647edd4013aed3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/0ae15f413f90dcb7c6d350abeb4136cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/fcc8dba3930053e1b00481e0a2fd476e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/e9bf6593a38fbb3a2e18d370347d5853.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/4549c46209b8fa91eabb3a3c9cd1db21.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/276a24a7704d96423ebdede4b76cad79.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/028078f8c8a6cb7143b4098a3b17770e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/2ff195c7b9f121ee050358f7f149b8c2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS266371/09912f55935edd3ad3af7ba44260f790.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
