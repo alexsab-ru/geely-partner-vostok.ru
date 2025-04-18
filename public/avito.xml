@@ -227,7 +227,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3917190</price>
 			<credit_discount>170000</credit_discount>
@@ -339,7 +339,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>17</run>
+			<run>18</run>
 			<year>2024</year>
 			<price>3817190</price>
 			<credit_discount>200000</credit_discount>
@@ -529,24 +529,22 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/d8de266f835e5625c0251633eaaa7deb.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/860298b5a21545c7d08a0bc1957bba21.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/1c51df2318e24bd6be6695673b6909d1.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/fb8c0c47f91cee66ecb2bcb67146f07c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/f7cdd656a9c7353ac7adc4caf5dd9f6c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/ec3628f20ab3a68af570a7aec00025f5.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/2c6ae139c5fce4b66dc8749e2990d3f7.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/f12c85adb58d94b7292985035b31f93f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/841baf113e2e3de92f88b208a7cdeb57.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/dba19531778182d5ade90ef8e0cc9e86.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/694e6512dd33d76967d6f8c4f711ca2f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/7a383ed5bdb9e3673cf46afc43eb0ace.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/91da55a7db5bd704de315e2a248f8611.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/0ba31bb4b93ecc24901475bd381ec170.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/8e1ee995bcacee0af178f4a5e05c6c40.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/bedf050cd8eb20c799a08209dc31fb4d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/0f4121dfd2f3410deb6ed5918143dc98.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/3b3c0b0e0c159ff2b9ece5744790e0b2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/1dbcd3763b987ee15a34ceff3400f4bd.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/18f80bd1e6e95e85b5e616a0c4130d06.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/c47b4439823b5f104b55a06f2d7b6f00.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/785eb7029c80a427195cd116be328b4d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/fd94d5cd265a0ae24c7d756fe0e52e54.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/68d3f0e66be6508169c4e31dc274e93c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/ae87e9b9dc135efcff0c54a29815436d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/16263c24d942a75cc0af75d525b7c35f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/4c9c559e9d73373b790bb20c07b317b0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/5bff2310eb2128c1c07e5efb7536019c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/ad34ef219e63465446b22275550bec1b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/84d72659b345f4b37246a671c2f48122.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/19758cf2749f994cbe1f15ed85464d9e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/eb4a1216fa1b8e315178ac166a83d7bb.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/4d2d973f24a30b6c1d9ea87f094508c2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/0621302d7c89812de9caef14577f2bcf.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -982,7 +980,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>13</run>
+			<run>14</run>
 			<year>2024</year>
 			<price>2909190</price>
 			<credit_discount>100000</credit_discount>
@@ -1022,30 +1020,22 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/6f82b3881489fdb14135a46e641db3fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/1c00bd40e0bd2eb077ddec2fab596b1d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/0215edb4719971c41e742bea73072a35.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/fba410718f6e9f24209ef4430ff80209.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/364b3c616fad8b84b740ee7becde2c9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/d1ca44db6735a1630f9f8d98465904d8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/77dfa2709e5ba5c63db180c86b060c09.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/e0b742d67a11eba882bc629247d29760.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/b98cbc96bf008d2f7bdf3201343238fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/cf71aef46a97fccb1a733952f129fdd6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/a3d082ec9e8f1da94d0e9667d0ed6762.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/587cb8b1dab668a58592d3533c78bedf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/86cb637f721962abd4dbab6709a42b95.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/c81a9985f5a8173543b63732ec0d5505.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/192cfea79d55e25a0fca41405d016e38.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/204a081d3321ebc12c4738ccff7bc67a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/ae05702b65b6f6518632f9f79ea36d23.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/dbe27cce45ca28c0cde4427433756de3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/701e81f3b963810c7168d771add4126c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/3f0fd90b2c77a4bc9a0b542a659bcee7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/51a682eddf258b49ffeab1d3effd8bb5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/78db067159e685610a3550486f47853d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/25ba8476d1a06b152dcb2b034c7b4d0c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/9321a542a1c961c9344c4ff904b283de.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/e74d12b2f45101d9afa21df7d74c7ff4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/3f0589c7a92ee923c0b207df98aeaaac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/9638df788ed6d0243b740a6129faf5d5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/d02dfc08d3f5990fab82e2a50bd430e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/82de7ca2eb2215a0801c87e657c9a193.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/84878af9b7318fef85695586384c8e69.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/bed12ea860c29b17d97b856dbbbe6e1b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/f015a37ef60a59b6612e295fec622b79.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/dd9dc60b349abbd4b4e84bafbc0dad5b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/3e2326f3a7936fbc69620a181a901f8b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/a175c88af138cd38e9850132a8dbb2cc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/c74d833e248491ed112d2474657b72d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/3d37e15aab8f921ab40caf72e3be9e04.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/fbbfe346e696697254beff0cb80e3a6f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/1241186500ef7430a6bdb1f12208add4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z1RX533988/fb8ca0264915b3c820b48350d703d957.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1820,19 +1810,19 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/222802fc07a03c8bf1a8a07e6c6d4ba8.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0b333daaeea645e2a50f8eb73b9fea2d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f35ea0cf778409075871dc1559f69581.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/11c5e584aceda23691410953082dd3c7.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/78500bfb208a82e4efdda67025c6cf3a.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/6e82a6294d65a98bdd07f79253faf463.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/518247137d15ee76d28782f080f282e2.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a403497725759ae2fc6e974a9bdeb679.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/5bac5b922fe0a875d760ea6a7720eb3d.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e65b4840ea55aa61fe91e9bf68d03f4.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e3165f590f8a966a8592a1f6e18edbdd.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/eba7d31ae1216e506516ef4f5978274e.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/4258bbe8e1e11190afb645973a54f422.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/a0abbb8486388779ada976b184742834.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/ec1a1688a855f86016472368d3816a35.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/0fa1f395d3ff817fc43a57ffb0856f4b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/e815137902a9b2ffa5010a3a8448de35.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/ec4a96a2c9be329213e86861f58ad7f7.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/845eacc2746b23feb9c9e40e01f14106.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/8e83aef2f45cb4a1ae80ca60fcef1237.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/1f478085dbca0fec6213719a7de77e26.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/984f6b840bc5235a93b94c035760331c.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/d28d722c26ef274322863d5d169a18c5.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/f92d65e4685f4dacf2605e1f0c1d8720.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/98f71417bf83bca2cf5ae06e73516366.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S61RY037230/786d7d4f1f258e6c3af29681ffb8e1c1.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -2200,7 +2190,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
