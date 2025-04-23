@@ -416,10 +416,10 @@
 			<run>11</run>
 			<year>2024</year>
 			<price>3536990</price>
-			<credit_discount>220000</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>453000</tradein_discount>
-			<optional_discount>50000</optional_discount>
+			<optional_discount>27000</optional_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D8RB314994</vin>
 			<description>Подарки всeм покупатeлям!
@@ -472,7 +472,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>1023000</max_discount><priceWithDiscount>2513990</priceWithDiscount><sale_price>2513990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
+		<max_discount>840000</max_discount><priceWithDiscount>2696990</priceWithDiscount><sale_price>2696990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
 		<car>
 			<unique_id>562bad59375310113e5e477f8d5a742d</unique_id>
 			<mark_id>Geely</mark_id>

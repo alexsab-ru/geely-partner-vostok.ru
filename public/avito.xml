@@ -422,11 +422,11 @@
 			<run>11</run>
 			<year>2024</year>
 			<price>3536990</price>
-			<credit_discount>220000</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>453000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>1023000</max_discount>
+			<optional_discount>27000</optional_discount>
+			<max_discount>840000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D8RB314994</vin>
 			<description>Подарки всeм покупатeлям!
