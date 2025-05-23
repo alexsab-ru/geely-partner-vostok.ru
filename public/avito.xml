@@ -273,79 +273,6 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-белый-2024/</url></car>
 		<car>
-			<unique_id>9176ae1d10d76010874bcf1a1ef18691</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas Pro</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>13</run>
-			<year>2024</year>
-			<price>3536990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>453000</tradein_discount>
-			<optional_discount>27000</optional_discount>
-			<max_discount>840000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D8RB314994</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 мая! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ 5 лет без сервисных забот*
-✔️ Дополнрительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального вноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/1dbcd3763b987ee15a34ceff3400f4bd.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/18f80bd1e6e95e85b5e616a0c4130d06.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/c47b4439823b5f104b55a06f2d7b6f00.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/785eb7029c80a427195cd116be328b4d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/fd94d5cd265a0ae24c7d756fe0e52e54.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/68d3f0e66be6508169c4e31dc274e93c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/ae87e9b9dc135efcff0c54a29815436d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/16263c24d942a75cc0af75d525b7c35f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/4c9c559e9d73373b790bb20c07b317b0.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/5bff2310eb2128c1c07e5efb7536019c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/ad34ef219e63465446b22275550bec1b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/84d72659b345f4b37246a671c2f48122.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/19758cf2749f994cbe1f15ed85464d9e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/eb4a1216fa1b8e315178ac166a83d7bb.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/4d2d973f24a30b6c1d9ea87f094508c2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D8RB314994/0621302d7c89812de9caef14577f2bcf.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-черный-2024/</url></car>
-		<car>
 			<unique_id>562bad59375310113e5e477f8d5a742d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -1761,6 +1688,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<car>
+			<unique_id>7af7f041e969a2a54d2a2ee51453aa4f</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>4393190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD7RB003316</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-vostok.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>1b2deef802c447047512417d79aa4bbc</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
