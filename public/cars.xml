@@ -826,7 +826,7 @@
 			</multiposting>
 		<max_discount>600000</max_discount><priceWithDiscount>1883990</priceWithDiscount><sale_price>1883990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
-			<unique_id>dbc2a92d5959b7d25ed43799c80010c9</unique_id>
+			<unique_id>0562b42b3406688af2d6e4591fe08a95</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -837,7 +837,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
@@ -845,7 +845,7 @@
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>100000</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D1RS190774</vin>
+			<vin>LB37852D1RS267336</vin>
 			<description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
@@ -876,22 +876,22 @@
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/468ad8d92dc9ab19726ebab6c30a7dc4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/eee62f2ad14624b8db10220a7d6e35de.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/5ca54e330a19b806e9ca24aea3fde2f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/5b7a0d5e98612508867d973b6331098e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/9974ba42eb71c48813c53076f07cfeb4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/3fde75a7001f1085f2d02bafbb618471.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/cbd902d8f173e8fd2f8712e76a7a5c93.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/0bbcd6dfc5440733a4f5b91d8260c6b8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/dd30f2d9b6a1743b0a58f490eca8f3ba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/a903bf9790182a1055e15de192afd992.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/35c9d8603bcb15b10411aafd82cb6fc0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/c57e3f635a4e9003f850644081e76cb9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/4526bab3f52415425791904479e03991.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/acee1901c7156f6aa873bf9522fcba81.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/025df107b05557ac1fa6cf83f608f4ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS190774/5ef720db0991a39b0667d7dbcb47645b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/6291a51e18a6399fe89a9d7c11bed119.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2659c4bc5a15d790afab0a7e65662ccf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/741d14bf9e4f834b76299e239ca7f86f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/90e32033b709b24d7c09338656f71815.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/4ac478d10fe0809a10272fd2e3dfd1bc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/37f28f115a5540391e9a997391d1d73b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/90593b5ce290ba709e40f42ee14c3b8e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/e607b5b32efb6a4268c22ef8c44f400c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/c893fa220a0178f0853fe801be52d7bf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2f6cfe069540c5701796ffba2a2f808f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/ab5a54f46954fe701baa736f971269ba.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/e5edabf6970fd41ba58fa20239da008b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2cb2ff71ec22430b4ed4b33eebce89cf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/c6b1f883220328660687b094ef457f61.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/b33d0be6597f386aaea90ed4a4fee800.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS267336/f8aed572ca27646183e7f5641ce6fe8f.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -964,78 +964,6 @@
 				<image>https://photo.toyotasever.ru/LB37852D1RS267286/9a924acd5ed2ce4ffe430a7f5afbd1d4.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D1RS267286/4c0e9983c6020ff26ec7ebaff19cff16.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D1RS267286/281fd000a4b372a810a572dbf04457d8.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>1100000</max_discount><priceWithDiscount>3752190</priceWithDiscount><sale_price>3752190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>0562b42b3406688af2d6e4591fe08a95</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS267336</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 мая! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ 5 лет без сервисных забот*
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/6291a51e18a6399fe89a9d7c11bed119.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2659c4bc5a15d790afab0a7e65662ccf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/741d14bf9e4f834b76299e239ca7f86f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/90e32033b709b24d7c09338656f71815.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/4ac478d10fe0809a10272fd2e3dfd1bc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/37f28f115a5540391e9a997391d1d73b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/90593b5ce290ba709e40f42ee14c3b8e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/e607b5b32efb6a4268c22ef8c44f400c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/c893fa220a0178f0853fe801be52d7bf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2f6cfe069540c5701796ffba2a2f808f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/ab5a54f46954fe701baa736f971269ba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/e5edabf6970fd41ba58fa20239da008b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/2cb2ff71ec22430b4ed4b33eebce89cf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/c6b1f883220328660687b094ef457f61.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/b33d0be6597f386aaea90ed4a4fee800.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS267336/f8aed572ca27646183e7f5641ce6fe8f.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
