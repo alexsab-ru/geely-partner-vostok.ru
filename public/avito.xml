@@ -1214,7 +1214,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>490000</max_discount>
+			<max_discount>745000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD7RB003316</vin>
 			<description>Подарки всeм покупатeлям!
@@ -1284,9 +1284,9 @@
 			<price>4493190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>550000</tradein_discount>
+			<tradein_discount>500000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>1094000</max_discount>
+			<max_discount>998000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD3RB003152</vin>
 			<description>Подарки всeм покупатeлям!
@@ -1353,9 +1353,9 @@
 			<price>4493190</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
+			<tradein_discount>500000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>944000</max_discount>
+			<max_discount>998000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD8RB001333</vin>
 			<description>Подарки всeм покупатeлям!
