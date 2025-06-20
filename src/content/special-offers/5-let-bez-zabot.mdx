@@ -9,10 +9,11 @@ description: "При покупке клиентом нового автомоб
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE, LEGAL_ENTITY, LEGAL_INN, LEGAL_CITY } from '@/const';
+import settings from '@/data/settings.json';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
+export const { site_name, phone_common, legal_entity, legal_inn, legal_city } = settings;
 export const dateFrom = `01.${MONTH}.${YEAR}`;
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 export const dateFromGenitive = `${FIRST_DAY} ${MONTH_GENITIVE}`;
@@ -54,5 +55,5 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 > Период проведения рекламного мероприятия (программы): с {dateFromGenitive.toLowerCase()} {YEAR} по {dateToGenitive.toLowerCase()} {YEAR} г.
 
-><sup>*</sup> Программа действительна исключительно в Geely Партнер-Восток Орск ( ООО "ПАРТНЕР-ВОСТОК", ИНН 5614088704) и действует для физических лиц, купивших автомобиль GEELY в Geely Партнер-Восток Орск в период проведения программы, не распространяется на третьих лиц при смене владельца автомобиля. Сертификат действует в течении срока действия и прекращает свое действие при смене владельца или нарушения регламента проведения технического обслуживания автомобиля.
-Адрес: г. Орск, территория автодорога, Западное шоссе, зд. 2. Тел.: {PHONE}
+><sup>*</sup> Программа действительна исключительно в Geely Партнер-Восток Орск ( {legal_entity}, ИНН {legal_inn}) и действует для физических лиц, купивших автомобиль GEELY в Geely Партнер-Восток Орск в период проведения программы, не распространяется на третьих лиц при смене владельца автомобиля. Сертификат действует в течении срока действия и прекращает свое действие при смене владельца или нарушения регламента проведения технического обслуживания автомобиля.
+Адрес: г. {legal_city}, территория автодорога, Западное шоссе, зд. 2. Тел.: {phone_common}

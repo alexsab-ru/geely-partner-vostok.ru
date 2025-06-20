@@ -12,9 +12,11 @@ export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const { site_name, phone_common } = settings;
 
 Здесь Вы можете ознакомиться с кредитными предложениями и отправить запрос официальному дилеру GEELY.
 
@@ -66,7 +68,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>5,0%</td>
 				<td>7,5%</td>
 				<td>8,2%</td>
-				<td rowspan="6">КАСКО в рамках программы “Geely Insurance” обязательно&nbsp;</td>
+				<td rowspan="6">КАСКО в рамках программы "Geely Insurance" обязательно&nbsp;</td>
 			</tr>
 			<tr>
 				<td>от 50% до 70%</td>
@@ -131,7 +133,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>8,6%</td>
 				<td>9,9%</td>
 				<td>10,9%</td>
-				<td rowspan="6">КАСКО в рамках программы “Geely Insurance” обязательно&nbsp;</td>
+				<td rowspan="6">КАСКО в рамках программы "Geely Insurance" обязательно&nbsp;</td>
 			</tr>
 			<tr>
 				<td>от 50% до 70%</td>
@@ -185,7 +187,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 			</tr>
 			<tr>
 				<td rowspan="3">
-				<p>Специальный тариф “Рассрочка”</p>
+				<p>Специальный тариф "Рассрочка"</p>
 				<p>(Atlas, Atlas PRO, Coolray, Belgee X50, Emgrand)</p>
 				</td>
 				<td>от 60% и более</td>
@@ -196,7 +198,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>x</td>
 				<td>x</td>
 				<td>x</td>
-				<td rowspan="6">КАСКО в рамках программы “Geely Insurance” и “Назначь свою ставку” обязательно</td>
+				<td rowspan="6">КАСКО в рамках программы "Geely Insurance" и "Назначь свою ставку" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 40% до 60%</td>
@@ -222,7 +224,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 			</tr>
 			<tr>
 				<td rowspan="3">
-				<p>Специальный тариф “Рассрочка”</p>
+				<p>Специальный тариф "Рассрочка"</p>
 				<p>(Tugella, Monjaro, Okavango)</p>
 				</td>
 				<td>от 60% и более</td>
@@ -269,7 +271,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>x</td>
 				<td>x</td>
 				<td>x</td>
-				<td rowspan="6">КАСКО в рамках программы “Geely Insurance” и “Назначь свою ставку” обязательно</td>
+				<td rowspan="6">КАСКО в рамках программы "Geely Insurance" и "Назначь свою ставку" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 40% до 60%</td>
@@ -379,7 +381,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>10,0%</td>
 				<td>11,0%</td>
 				<td>12,0%</td>
-				<td rowspan="7">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="7">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -454,7 +456,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>9,9%</td>
 				<td>10,9%</td>
 				<td>12,0%</td>
-				<td rowspan="7">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="7">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -530,7 +532,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>14,0%</td>
 				<td>х</td>
 				<td>х</td>
-				<td rowspan="7">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="7">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 59,99%</td>
@@ -606,7 +608,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>14,6%</td>
 				<td>x</td>
 				<td>x</td>
-				<td rowspan="4">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="4">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 20% до 49,9%</td>
@@ -640,7 +642,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 			</tr>
 			<tr>
 				<td rowspan="3">
-					<p>Специальный тариф “Рассрочка”&nbsp;</p>
+					<p>Специальный тариф "Рассрочка"</p>
 					<p>(Atlas, Atlas Pro, Coolray, Belgee X50, Emgrand)</p>
 				</td>
 				<td>от 70% и более</td>
@@ -651,7 +653,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>x</td>
 				<td>x</td>
 				<td>x</td>
-				<td rowspan="3">КАСКО в рамках программы “Geely Insurance” и страхование жизни обязательно</td>
+				<td rowspan="3">КАСКО в рамках программы "Geely Insurance" и страхование жизни обязательно</td>
 			</tr>
 			<tr>
 				<td>от 60% до 69,9%</td>
@@ -675,7 +677,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 			</tr>
 			<tr>
 				<td rowspan="3">
-					<p>Специальный тариф “Рассрочка”</p>
+					<p>Специальный тариф "Рассрочка"</p>
 					<p>(Tugella, Monjaro, Okavango)</p>
 				</td>
 				<td>от 70% и более</td>
@@ -686,7 +688,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>х</td>
 				<td>х</td>
 				<td>х</td>
-				<td rowspan="3">КАСКО в рамках программы “Geely Insurance” и страхование жизни обязательно</td>
+				<td rowspan="3">КАСКО в рамках программы "Geely Insurance" и страхование жизни обязательно</td>
 			</tr>
 			<tr>
 				<td>от 20% до 69,9%</td>
@@ -759,7 +761,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>х</td>
 				<td>х</td>
 				<td>х</td>
-				<td rowspan="2">КАСКО в рамках программы “Geely Insurance” и карта Халва обязательно</td>
+				<td rowspan="2">КАСКО в рамках программы "Geely Insurance" и карта Халва обязательно</td>
 			</tr>
 			<tr>
 				<td>от 60% до 69,99%</td>
@@ -785,7 +787,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>9,0%</td>
 				<td>11,0%</td>
 				<td>12,0%</td>
-				<td rowspan="4">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="4">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -831,7 +833,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>6,5%</td>
 				<td>8,0%</td>
 				<td>9,0%</td>
-				<td rowspan="4">КАСКО в рамках программы “Geely Insurance” и карта Халва обязательно</td>
+				<td rowspan="4">КАСКО в рамках программы "Geely Insurance" и карта Халва обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -877,7 +879,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>11,5%</td>
 				<td>13,0%</td>
 				<td>14,0%</td>
-				<td rowspan="4">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="4">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -923,7 +925,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>8,5%</td>
 				<td>9,5%</td>
 				<td>10,5%</td>
-				<td rowspan="4">КАСКО в рамках программы “Geely Insurance” обязательно</td>
+				<td rowspan="4">КАСКО в рамках программы "Geely Insurance" обязательно</td>
 			</tr>
 			<tr>
 				<td>от 50% до 69,99%</td>
@@ -969,7 +971,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>11,5%</td>
 				<td>x</td>
 				<td>x</td>
-				<td rowspan="3">КАСКО в рамках программы “Geely Insurance” и карта Халва обязательно</td>
+				<td rowspan="3">КАСКО в рамках программы "Geely Insurance" и карта Халва обязательно</td>
 			</tr>
 			<tr>
 				<td>от 20% до 49,99%</td>
@@ -1005,7 +1007,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>12,5%</td>
 				<td>х</td>
 				<td>х</td>
-				<td rowspan="3">КАСКО в рамках программы “Geely Insurance” и карта Халва обязательно</td>
+				<td rowspan="3">КАСКО в рамках программы "Geely Insurance" и карта Халва обязательно</td>
 			</tr>
 			<tr>
 				<td>от 20% до 49,99%</td>
@@ -1037,7 +1039,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 				<td>x</td>
 				<td>x</td>
 				<td>x</td>
-				<td>КАСКО в рамках программы “Geely Insurance” и карта Халва обязательно, комиссия за сохранение ставки</td>
+				<td>КАСКО в рамках программы "Geely Insurance" и карта Халва обязательно, комиссия за сохранение ставки</td>
 			</tr>
 		</tbody>
 	</table>

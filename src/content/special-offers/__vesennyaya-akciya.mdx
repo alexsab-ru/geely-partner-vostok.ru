@@ -8,9 +8,11 @@ breadcrumb: Весенняя акция в GEELY ОРСК!
 h1: Акция «Весенняя акция» в Джили Орск!
 ---
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const { site_name, phone_common } = settings;
 
 <picture>
     <source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/main-sliders/geely/vesennyaya-akciya/banner_1920x637.webp" />
@@ -35,7 +37,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 &nbsp;
 
-Более подробная информация в отделе сервисного обслуживания по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Более подробная информация в отделе сервисного обслуживания по телефону: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
     <Button

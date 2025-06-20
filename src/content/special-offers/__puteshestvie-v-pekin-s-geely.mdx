@@ -9,9 +9,11 @@ image: https://cdn.alexsab.ru/specials/geely/puteshestvie-v-pekin-s-geely/putesh
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const { site_name, phone_common } = settings;
 
 export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
