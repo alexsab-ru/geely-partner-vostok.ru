@@ -56,10 +56,22 @@ class GSheetFetcher {
     }
 
     convertToNumber(value) {
-        if (typeof value === 'string' && value.trim() === '') {
-            return null; // Пустые строки приводятся к null
+        // Если значение уже число, возвращаем его как есть
+        if (typeof value === 'number') {
+            return value;
+        }
+
+        // Если значение не строка, преобразуем его в строку
+        if (typeof value !== 'string') {
+            value = String(value);
+        }
+
+        // Обработка пустых строк
+        if (value.trim() === '') {
+            return null;
         }
         
+        // Проверяем, является ли значение числом
         if (/^-?\d+(\s\d+)*(\.\d+)?$/.test(value)) {
             return Number(value.replace(/\s+/g, '').replace(',', '.'));
         }
@@ -76,6 +88,11 @@ class GSheetFetcher {
                 }
 
                 if (!this.config.keyColumn) {
+                    records.map(record => {
+                        Object.keys(record).forEach(field => {
+                            record[field] = record[field].trim();
+                        });
+                    });
                     const filteredRecords = records.filter(row => {
                         return Object.values(row).some(value => value !== "" && value !== null && value !== undefined);
                     });
@@ -84,9 +101,15 @@ class GSheetFetcher {
                 }
 
                 const result = {};
+                const keyMapping = JSON.parse(process.env.KEY_MAPPING || '{}'); // Получаем карту переименования
+
                 records.forEach(record => {
                     if (Object.values(record).some(value => value.trim() !== '')) {
                         const key = this.cleanString(record[this.config.keyColumn]);
+
+                        if(key == "") {
+                            return;
+                        }
 
                         if (this.config.outputFormat === 'simple') {
                             // Простой формат: ключ -> значение
@@ -103,9 +126,25 @@ class GSheetFetcher {
                             // Детальный формат: ключ -> объект с полями
                             const transformedRecord = {};
                             Object.keys(record).forEach(field => {
-                                if (field !== this.config.keyColumn) {
-                                    let value = record[field].trim();
-                                    transformedRecord[field] = this.convertToNumber(value);
+                                let value = record[field].trim();
+                                value = this.convertToNumber(value);
+
+                                // Переименовываем ключи согласно карте
+                                const newKey = keyMapping[field] || field; // Если ключ не найден в карте, оставляем оригинальный
+                                if(newKey == "") {
+                                    return;
+                                }
+
+                                if (result[key] !== undefined) {
+                                    if (newKey === 'Конечная цена' || newKey === 'РРЦ') {
+                                        transformedRecord[newKey] = Math.min(result[key][newKey], value);
+                                    } else if (newKey === 'Скидка') {
+                                        transformedRecord[newKey] = Math.max(result[key][newKey], value);
+                                    } else {
+                                        transformedRecord[newKey] = this.convertToNumber(value);
+                                    }
+                                } else {
+                                    transformedRecord[newKey] = this.convertToNumber(value);
                                 }
                             });
                             result[key] = transformedRecord;
