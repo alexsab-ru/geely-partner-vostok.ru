@@ -70,7 +70,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>11344096d5a07b83388b9680806ce71f</unique_id>
+			<unique_id>305a16858722e1041f7ff5b8bdda783c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -90,7 +90,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>583000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S1XRB162243</vin>
+			<vin>LB3FX1S1XRB162226</vin>
 			<description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
@@ -125,7 +125,7 @@
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>305a16858722e1041f7ff5b8bdda783c</unique_id>
+			<unique_id>11344096d5a07b83388b9680806ce71f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -145,7 +145,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>583000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S1XRB162226</vin>
+			<vin>LB3FX1S1XRB162243</vin>
 			<description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
@@ -457,73 +457,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
-		<car>
-			<unique_id>13b36c365f84fa02afc148823589dc88</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>3139190</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>260000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>610000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z9RX537948</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 30 июня! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка от 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/e3862a563722770f2d53c4f2e630ca7c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/f46c87d18aae2f5f9445fc32d89013ab.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/447c5aaf87610bebb0bded494c3b928f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/1eb2cfb791b8a73d23f8719a81e17e11.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/aa257781b592b75c277ad1b6c6fe7df8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/e5e0799dfa1ccdc00c54e333decf5e1b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/0d9832dadf940565e58433e9fb8a8e10.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/333b7a617f01400521c0b0b30c4ca380.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/f1d96c853ddb328dd00c1a07009dfc9b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/2031fa79d740fe84192b9a6b4c086cb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37622Z9RX537948/4c34416e3c63a8b22197ab0b0decfcba.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
 		<car>
 			<unique_id>e0131a44d25f0ac697a06783f246aa9e</unique_id>
 			<mark_id>Geely</mark_id>
