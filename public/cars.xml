@@ -17,7 +17,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S61RB151174</vin>
@@ -67,7 +67,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>813000</max_discount><priceWithDiscount>2904190</priceWithDiscount><sale_price>2904190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<max_discount>550000</max_discount><priceWithDiscount>3167190</priceWithDiscount><sale_price>3167190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>66ec4734c89d9272624035defe10c8a1</unique_id>
 			<mark_id>Geely</mark_id>
@@ -220,7 +220,7 @@
 			<price>2393990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3F31031RG041328</vin>
@@ -271,7 +271,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>650000</max_discount><priceWithDiscount>1743990</priceWithDiscount><sale_price>1743990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
+		<max_discount>400000</max_discount><priceWithDiscount>1993990</priceWithDiscount><sale_price>1993990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
 		<car>
 			<unique_id>500e46169a9f85f5c2030fc3b4739523</unique_id>
 			<mark_id>Geely</mark_id>
@@ -428,7 +428,7 @@
 			<price>3847190</price>
 			<credit_discount>250000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>373000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S61RY037230</vin>
@@ -478,7 +478,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>823000</max_discount><priceWithDiscount>3024190</priceWithDiscount><sale_price>3024190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>3397190</priceWithDiscount><sale_price>3397190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-okavango-20-amt-218-лс-flagship-синий-2024/</url></car>
 		<car>
 			<unique_id>d8ea2f7f86ecfc129749c9885a74de60</unique_id>
 			<mark_id>Geely</mark_id>
