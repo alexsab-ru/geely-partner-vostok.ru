@@ -17,7 +17,7 @@
 			<price>3717190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
+			<tradein_discount>193000</tradein_discount>
 			<optional_discount>50000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S61RB151174</vin>
@@ -67,7 +67,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>813000</max_discount><priceWithDiscount>2904190</priceWithDiscount><sale_price>2904190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<max_discount>743000</max_discount><priceWithDiscount>2974190</priceWithDiscount><sale_price>2974190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>2e261ff42d3f94272c021d1f3c1cbb87</unique_id>
 			<mark_id>Geely</mark_id>
