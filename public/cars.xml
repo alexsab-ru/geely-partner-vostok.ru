@@ -1,76 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>2e261ff42d3f94272c021d1f3c1cbb87</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>170000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S12RB165573</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 июля! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/bdcca5030fcc8ad5f9c9939fa1cef8e2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/61714b7ceaff3a774b158fbb7cc9f334.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/1189251acc5f2ac2c50c883184ff619d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/cd30961dcf37c9bc374a541c763f957f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/213c33aca1749ebadbff3386580bedd0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/4e3d16741b3979add847ff404d6637c1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/85efbf689379dbf55f11858384f54057.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/d9b789c2ee4fa2ff1a1c6641ab64494a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/3abe8d63d04c10fe19771ed723dc3d9d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/7c4fa083a90b99d21c5d6171890ca1f9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/08c79b5cbd48fa34fb133f5dc90d28fd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/ced7d061ae7907b647ef6a5c0c95a5b8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/515bfb717147aea3d2552d95d548da4f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/62325c24fb4155d4b3b3f6d9e394097c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/fd83d2f5e8ad0c20a94041ec1022a3c1.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>583000</max_discount><priceWithDiscount>3334190</priceWithDiscount><sale_price>3334190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>b76ac4b542e679ea2d6b961003a177c4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -135,6 +65,76 @@
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/3538df8b320919d396d7bcbe7be36858.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/8f445320d6eb59128548204e37384b84.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/68a5b8636139815d267d3d3ab04340d8.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>583000</max_discount><priceWithDiscount>3334190</priceWithDiscount><sale_price>3334190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>2e261ff42d3f94272c021d1f3c1cbb87</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S12RB165573</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 31 июля! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/bdcca5030fcc8ad5f9c9939fa1cef8e2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/61714b7ceaff3a774b158fbb7cc9f334.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/1189251acc5f2ac2c50c883184ff619d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/cd30961dcf37c9bc374a541c763f957f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/213c33aca1749ebadbff3386580bedd0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/4e3d16741b3979add847ff404d6637c1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/85efbf689379dbf55f11858384f54057.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/d9b789c2ee4fa2ff1a1c6641ab64494a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/3abe8d63d04c10fe19771ed723dc3d9d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/7c4fa083a90b99d21c5d6171890ca1f9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/08c79b5cbd48fa34fb133f5dc90d28fd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/ced7d061ae7907b647ef6a5c0c95a5b8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/515bfb717147aea3d2552d95d548da4f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/62325c24fb4155d4b3b3f6d9e394097c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/fd83d2f5e8ad0c20a94041ec1022a3c1.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -574,75 +574,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>650000</max_discount><priceWithDiscount>1743990</priceWithDiscount><sale_price>1743990</sale_price><url>https://geely-partner-vostok.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
-		<car>
-			<unique_id>71fb687e3e3d455f91360eeb19f02326</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0SS156301</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 августа! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/918e9c4018e4f9df938fe9975c79ba28.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/6684c071b418cb1ac09da4bc45a521e5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/1742fb169a383c36fbaf9424ecb64b32.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/97f5a5f945a26a83733f1246655eace0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/766eed8119ff45dcbafe2abe79dec330.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/b39218c2c187af299e1d0049e1f1a1ee.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/16c3dc10d032097c6831cd6687ef9512.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/ae13a6479344c5cfb7a0dcecb841afc3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/819af0ca3bb9bbdfbb5db5cd2f34b9c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/0e96744756bc0ad974226688d1cc5f68.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/aa2d65f73728b3bfb901d144a5f9e653.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/b02c45ffd691e470e9cce89fb6af69db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/6a29774601030e8a7707f04faeab2798.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS156301/fdddd8538b2154811d2277a9eed68ffd.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>1100000</max_discount><priceWithDiscount>3752190</priceWithDiscount><sale_price>3752190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
 		<car>
 			<unique_id>690a2fc081e1f82100e09d7bcd189c6b</unique_id>
 			<mark_id>Geely</mark_id>
