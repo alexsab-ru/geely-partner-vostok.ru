@@ -1,76 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>b76ac4b542e679ea2d6b961003a177c4</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3917190</price>
-			<credit_discount>170000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S1XRB128819</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 июля! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/01db26b9de04ac2aa5f8bf6b0d7a5763.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/075761540b0e27b8b18882ae83313f32.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/a062c7853c90ee610938cd0b479c0476.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/8e9bb3ce60b2f86117b1ad4765ac9b11.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/656d5dec51c4f292b65dd5349cf7ab8f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/1d87ecd64c967794ed20456ca8cbb5b4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/910dc5527b1da951ea9373cc92596df1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/5879b547dc588102107d66097cf86183.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/80c4fb9ced5246c51eeb181c64e156cd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/4581d46d189f4cf5df051da8c1ab48f6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/dd30cffc6663e2883ec3430c321a7264.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/38dd3e31c4b12cb487ab3af061a2d8e2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/3538df8b320919d396d7bcbe7be36858.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/8f445320d6eb59128548204e37384b84.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/68a5b8636139815d267d3d3ab04340d8.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>583000</max_discount><priceWithDiscount>3334190</priceWithDiscount><sale_price>3334190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>2e261ff42d3f94272c021d1f3c1cbb87</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -135,6 +65,76 @@
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/515bfb717147aea3d2552d95d548da4f.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/62325c24fb4155d4b3b3f6d9e394097c.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S12RB165573/fd83d2f5e8ad0c20a94041ec1022a3c1.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>583000</max_discount><priceWithDiscount>3334190</priceWithDiscount><sale_price>3334190</sale_price><url>https://geely-partner-vostok.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>b76ac4b542e679ea2d6b961003a177c4</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S1XRB128819</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 31 июля! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/01db26b9de04ac2aa5f8bf6b0d7a5763.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/075761540b0e27b8b18882ae83313f32.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/a062c7853c90ee610938cd0b479c0476.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/8e9bb3ce60b2f86117b1ad4765ac9b11.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/656d5dec51c4f292b65dd5349cf7ab8f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/1d87ecd64c967794ed20456ca8cbb5b4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/910dc5527b1da951ea9373cc92596df1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/5879b547dc588102107d66097cf86183.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/80c4fb9ced5246c51eeb181c64e156cd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/4581d46d189f4cf5df051da8c1ab48f6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/dd30cffc6663e2883ec3430c321a7264.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/38dd3e31c4b12cb487ab3af061a2d8e2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/3538df8b320919d396d7bcbe7be36858.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/8f445320d6eb59128548204e37384b84.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S1XRB128819/68a5b8636139815d267d3d3ab04340d8.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
